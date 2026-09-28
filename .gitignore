@@ -1,0 +1,6 @@
+.vercel/
+__pycache__/
+*.pyc
+*.backup-*
+.env*
+blacklist.json
