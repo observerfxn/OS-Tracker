@@ -1,201 +1,5 @@
 [
   {
-    "at": "2026-09-29T20:27:50.080214+00:00",
-    "slug": "onchain-artifacts",
-    "type": "minted",
-    "from": 1333,
-    "value": 1350
-  },
-  {
-    "at": "2026-09-29T20:27:50.080214+00:00",
-    "slug": "punks-x-credits",
-    "type": "minted",
-    "from": 1386,
-    "value": 1408
-  },
-  {
-    "at": "2026-09-29T20:27:50.080214+00:00",
-    "slug": "near-brokers",
-    "type": "minted",
-    "from": 167,
-    "value": 416
-  },
-  {
-    "at": "2026-09-29T20:27:50.080214+00:00",
-    "slug": "near-brokers",
-    "type": "price",
-    "from": 0.0004,
-    "value": 0.0
-  },
-  {
-    "at": "2026-09-29T20:27:50.080214+00:00",
-    "slug": "hood-street-mini-379795688",
-    "type": "minted",
-    "from": 1432,
-    "value": 1446
-  },
-  {
-    "at": "2026-09-29T20:27:50.080214+00:00",
-    "slug": "squirrel-rat",
-    "type": "minted",
-    "from": 435,
-    "value": 437
-  },
-  {
-    "at": "2026-09-29T20:27:50.080214+00:00",
-    "slug": "black-animals-719085012",
-    "type": "minted",
-    "from": 242,
-    "value": 304
-  },
-  {
-    "at": "2026-09-29T20:27:50.080214+00:00",
-    "slug": "hood-monky",
-    "type": "minted",
-    "from": 246,
-    "value": 297
-  },
-  {
-    "at": "2026-09-29T20:27:50.080214+00:00",
-    "slug": "rumen-flux",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-29T20:27:50.080214+00:00",
-    "slug": "-652350974",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-29T20:27:50.080214+00:00",
-    "slug": "astral-lotus",
-    "type": "status",
-    "from": "LIVE",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-09-29T20:27:50.080214+00:00",
-    "slug": "astral-lotus",
-    "type": "price",
-    "from": 0.0,
-    "value": null
-  },
-  {
-    "at": "2026-09-29T20:27:50.080214+00:00",
-    "slug": "eye-659652227",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-09-29T20:27:50.080214+00:00",
-    "slug": "spikesociety",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-09-29T20:27:50.080214+00:00",
-    "slug": "macarune",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-09-29T20:27:50.080214+00:00",
-    "slug": "hoodiegroupies",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-09-29T20:27:50.080214+00:00",
-    "slug": "wasteland-art",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-09-29T20:27:50.080214+00:00",
-    "slug": "primal-apes-robinhood",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-09-29T20:27:50.080214+00:00",
-    "slug": "clayfactory",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-09-29T20:27:50.080214+00:00",
-    "slug": "hood-lords-654442012",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-09-29T20:27:50.080214+00:00",
-    "slug": "staccs-robinhood-homecoming-collection",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-09-29T20:27:50.080214+00:00",
-    "slug": "piggy-banks-nfts",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-09-29T20:52:46.891323+00:00",
-    "slug": "ccff00id",
-    "type": "minted",
-    "from": 875,
-    "value": 880
-  },
-  {
-    "at": "2026-09-29T20:52:46.891323+00:00",
-    "slug": "headward",
-    "type": "minted",
-    "from": 1541,
-    "value": 1656
-  },
-  {
-    "at": "2026-09-29T20:52:46.891323+00:00",
-    "slug": "creditcats",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-29T20:52:46.891323+00:00",
-    "slug": "dope-cat-578524195",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-29T20:52:46.891323+00:00",
-    "slug": "rhfreaks",
-    "type": "minted",
-    "from": 206,
-    "value": 212
-  },
-  {
-    "at": "2026-09-29T20:52:46.891323+00:00",
-    "slug": "debits-hood",
-    "type": "minted",
-    "from": 485,
-    "value": 495
-  },
-  {
-    "at": "2026-09-29T20:52:46.891323+00:00",
-    "slug": "test-test-817517614",
-    "type": "minted",
-    "from": 28,
-    "value": 32
-  },
-  {
-    "at": "2026-09-29T20:52:46.891323+00:00",
-    "slug": "punks-x-credits",
-    "type": "minted",
-    "from": 1408,
-    "value": 1443
-  },
-  {
     "at": "2026-09-29T20:52:46.891323+00:00",
     "slug": "quotrons-cats-306202925",
     "type": "discovered",
@@ -32880,6 +32684,200 @@
   {
     "at": "2026-10-02T21:52:59.985552+00:00",
     "slug": "hood-lords-654442012",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "rht2",
+    "type": "minted",
+    "from": 24927,
+    "value": 24993
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "lpcg",
+    "type": "minted",
+    "from": 261,
+    "value": 283
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "fabled-chronicles-rh-273459083",
+    "type": "minted",
+    "from": 950,
+    "value": 1224
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "cross-the-bound",
+    "type": "minted",
+    "from": 1360,
+    "value": 1526
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "mint-a-bear-564781981",
+    "type": "minted",
+    "from": 851,
+    "value": 1786
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "cooprate-me",
+    "type": "minted",
+    "from": 1811,
+    "value": 1814
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "bub-dogs",
+    "type": "minted",
+    "from": 2187,
+    "value": 2190
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "wavecard",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "0xf1a95470e14203a0ad40308cc8156e82f577254c",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "puffs-352888044",
+    "type": "minted",
+    "from": 435,
+    "value": 511
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "robinwithaf-hood",
+    "type": "minted",
+    "from": 71,
+    "value": 748
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "robinwithaf-hood",
+    "type": "price",
+    "from": 7.7e-05,
+    "value": 0.038
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "hood-spooky",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "alterhood",
+    "type": "minted",
+    "from": 9867,
+    "value": 9922
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "cave-mounts-mainnet-test-v5",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "stupid-inu",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "early-men-origins",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "bellstreet",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "little-guys-rh",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "prime-apes-764897129",
+    "type": "status",
+    "from": "LIVE",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "prime-apes-764897129",
+    "type": "minted",
+    "from": 2623,
+    "value": 3333
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "prime-apes-764897129",
+    "type": "price",
+    "from": 8e-05,
+    "value": null
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "thezorpians",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "staccs-robinhood-homecoming-collection",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "cannacats",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "the-satwas-band",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "peep-founding-feathers-506906521",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "py0py0py0py0",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "broke-bookiesrh",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T22:25:36.553116+00:00",
+    "slug": "yoodles-reborn",
     "type": "discovered",
     "value": "SOLD_OUT"
   }
