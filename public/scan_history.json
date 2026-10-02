@@ -1,138 +1,5 @@
 [
   {
-    "at": "2026-09-29T01:52:49.863510+00:00",
-    "slug": "block-heads-gambit",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-29T01:52:49.863510+00:00",
-    "slug": "block-heads-gambit",
-    "type": "minted",
-    "from": 0,
-    "value": 500
-  },
-  {
-    "at": "2026-09-29T01:52:49.863510+00:00",
-    "slug": "block-heads-gambit",
-    "type": "price",
-    "from": null,
-    "value": 0.0
-  },
-  {
-    "at": "2026-09-29T01:52:49.863510+00:00",
-    "slug": "byte-ronin-888090544",
-    "type": "price",
-    "from": 0.0,
-    "value": 0.003
-  },
-  {
-    "at": "2026-09-29T01:52:49.863510+00:00",
-    "slug": "royal-gold-legends",
-    "type": "minted",
-    "from": 41,
-    "value": 42
-  },
-  {
-    "at": "2026-09-29T01:52:49.863510+00:00",
-    "slug": "goats-of-the-hood",
-    "type": "minted",
-    "from": 111,
-    "value": 112
-  },
-  {
-    "at": "2026-09-29T01:52:49.863510+00:00",
-    "slug": "maxi-computers",
-    "type": "minted",
-    "from": 1008,
-    "value": 1009
-  },
-  {
-    "at": "2026-09-29T01:52:49.863510+00:00",
-    "slug": "bullish-cpu",
-    "type": "minted",
-    "from": 1790,
-    "value": 1796
-  },
-  {
-    "at": "2026-09-29T01:52:49.863510+00:00",
-    "slug": "0xa3e",
-    "type": "price",
-    "from": 0.0,
-    "value": 0.0012
-  },
-  {
-    "at": "2026-09-29T01:52:49.863510+00:00",
-    "slug": "app-hood",
-    "type": "minted",
-    "from": 525,
-    "value": 532
-  },
-  {
-    "at": "2026-09-29T01:52:49.863510+00:00",
-    "slug": "app-hood",
-    "type": "price",
-    "from": 0.0001,
-    "value": 1e-05
-  },
-  {
-    "at": "2026-09-29T01:52:49.863510+00:00",
-    "slug": "pixel-bimboys",
-    "type": "minted",
-    "from": 268,
-    "value": 269
-  },
-  {
-    "at": "2026-09-29T01:52:49.863510+00:00",
-    "slug": "the-cluck-rock-collectibles",
-    "type": "price",
-    "from": 0.0003,
-    "value": 0.0001
-  },
-  {
-    "at": "2026-09-29T01:52:49.863510+00:00",
-    "slug": "staccs-robinhood-homecoming-collection",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-09-29T01:52:49.863510+00:00",
-    "slug": "hoodblocks",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-09-29T01:52:49.863510+00:00",
-    "slug": "gogh-punks-255843210",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-09-29T01:52:49.863510+00:00",
-    "slug": "ntrpygenesis",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-09-29T01:52:49.863510+00:00",
-    "slug": "kenji-origins",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-09-29T02:24:08.461542+00:00",
-    "slug": "jhandu-bam",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-29T02:24:08.461542+00:00",
-    "slug": "mindgamesai--",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
     "at": "2026-09-29T02:24:08.461542+00:00",
     "slug": "ponfoot-wagies",
     "type": "minted",
@@ -32992,6 +32859,132 @@
   {
     "at": "2026-10-02T03:27:39.153826+00:00",
     "slug": "cache-flow",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T03:54:20.332614+00:00",
+    "slug": "0xabe3b6e92b3202040949f1e088a8736283c6a822",
+    "type": "minted",
+    "from": 864,
+    "value": 865
+  },
+  {
+    "at": "2026-10-02T03:54:20.332614+00:00",
+    "slug": "horn-pad",
+    "type": "minted",
+    "from": 1256,
+    "value": 1257
+  },
+  {
+    "at": "2026-10-02T03:54:20.332614+00:00",
+    "slug": "poodle-in-the-hood",
+    "type": "minted",
+    "from": 2612,
+    "value": 2628
+  },
+  {
+    "at": "2026-10-02T03:54:20.332614+00:00",
+    "slug": "wallstreetbits",
+    "type": "minted",
+    "from": 2937,
+    "value": 2940
+  },
+  {
+    "at": "2026-10-02T03:54:20.332614+00:00",
+    "slug": "rhmaxis",
+    "type": "minted",
+    "from": 3042,
+    "value": 3045
+  },
+  {
+    "at": "2026-10-02T03:54:20.332614+00:00",
+    "slug": "hood-monarchs",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-02T03:54:20.332614+00:00",
+    "slug": "franky-fish-bikini-bottom",
+    "type": "minted",
+    "from": 377,
+    "value": 378
+  },
+  {
+    "at": "2026-10-02T03:54:20.332614+00:00",
+    "slug": "spookily-monke-business",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-02T03:54:20.332614+00:00",
+    "slug": "channels-113432875",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-02T03:54:20.332614+00:00",
+    "slug": "claystonkz",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T03:54:20.332614+00:00",
+    "slug": "exit-founders",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T03:54:20.332614+00:00",
+    "slug": "ccff00-punks-genesis",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T03:54:20.332614+00:00",
+    "slug": "thefirmbrokers",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T03:54:20.332614+00:00",
+    "slug": "rekt-tradooor",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T03:54:20.332614+00:00",
+    "slug": "sheers",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T03:54:20.332614+00:00",
+    "slug": "hoodminers-rh",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T03:54:20.332614+00:00",
+    "slug": "toysrh",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T03:54:20.332614+00:00",
+    "slug": "facetsart",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T03:54:20.332614+00:00",
+    "slug": "rare-friends-genesis",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T03:54:20.332614+00:00",
+    "slug": "gta6-fan-collection",
     "type": "discovered",
     "value": "SOLD_OUT"
   }
