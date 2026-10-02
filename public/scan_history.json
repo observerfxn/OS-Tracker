@@ -1,128 +1,6 @@
 [
   {
     "at": "2026-09-29T00:32:39.782206+00:00",
-    "slug": "onchain-artifacts",
-    "type": "minted",
-    "from": 894,
-    "value": 1118
-  },
-  {
-    "at": "2026-09-29T00:32:39.782206+00:00",
-    "slug": "monicat",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-29T00:32:39.782206+00:00",
-    "slug": "monicat",
-    "type": "price",
-    "from": null,
-    "value": 5.5e-06
-  },
-  {
-    "at": "2026-09-29T00:32:39.782206+00:00",
-    "slug": "byte-ronin-888090544",
-    "type": "minted",
-    "from": 369,
-    "value": 395
-  },
-  {
-    "at": "2026-09-29T00:32:39.782206+00:00",
-    "slug": "royal-gold-legends",
-    "type": "minted",
-    "from": 30,
-    "value": 41
-  },
-  {
-    "at": "2026-09-29T00:32:39.782206+00:00",
-    "slug": "stonkpixel-kitties",
-    "type": "minted",
-    "from": 1238,
-    "value": 1260
-  },
-  {
-    "at": "2026-09-29T00:32:39.782206+00:00",
-    "slug": "world-wif-frog",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-29T00:32:39.782206+00:00",
-    "slug": "the-ark-of-noah-690813439",
-    "type": "minted",
-    "from": 550,
-    "value": 551
-  },
-  {
-    "at": "2026-09-29T00:32:39.782206+00:00",
-    "slug": "bullish-cpu",
-    "type": "minted",
-    "from": 1682,
-    "value": 1701
-  },
-  {
-    "at": "2026-09-29T00:32:39.782206+00:00",
-    "slug": "maxi-computers",
-    "type": "minted",
-    "from": 981,
-    "value": 983
-  },
-  {
-    "at": "2026-09-29T00:32:39.782206+00:00",
-    "slug": "rogf",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-29T00:32:39.782206+00:00",
-    "slug": "0xa3e",
-    "type": "minted",
-    "from": 400,
-    "value": 403
-  },
-  {
-    "at": "2026-09-29T00:32:39.782206+00:00",
-    "slug": "goats-onchain",
-    "type": "minted",
-    "from": 610,
-    "value": 619
-  },
-  {
-    "at": "2026-09-29T00:32:39.782206+00:00",
-    "slug": "dinosoar",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-09-29T00:32:39.782206+00:00",
-    "slug": "10-741608758",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-09-29T00:32:39.782206+00:00",
-    "slug": "10-741608758",
-    "type": "minted",
-    "from": 0,
-    "value": 10
-  },
-  {
-    "at": "2026-09-29T00:32:39.782206+00:00",
-    "slug": "da-419550882",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-09-29T00:32:39.782206+00:00",
-    "slug": "majestic-roosters-club",
-    "type": "status",
-    "from": "LIVE",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-09-29T00:32:39.782206+00:00",
     "slug": "majestic-roosters-club",
     "type": "supply",
     "from": 1000,
@@ -33012,6 +32890,122 @@
   {
     "at": "2026-10-02T00:57:16.911440+00:00",
     "slug": "sloppies-424576658",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T01:27:21.014925+00:00",
+    "slug": "nyx-hood",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-02T01:27:21.014925+00:00",
+    "slug": "rhmaxis",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-02T01:27:21.014925+00:00",
+    "slug": "rare-amigos",
+    "type": "minted",
+    "from": 2850,
+    "value": 2951
+  },
+  {
+    "at": "2026-10-02T01:27:21.014925+00:00",
+    "slug": "rare-amigos",
+    "type": "price",
+    "from": 5e-06,
+    "value": 3.5e-06
+  },
+  {
+    "at": "2026-10-02T01:27:21.014925+00:00",
+    "slug": "peng-bastard",
+    "type": "minted",
+    "from": 3416,
+    "value": 3422
+  },
+  {
+    "at": "2026-10-02T01:27:21.014925+00:00",
+    "slug": "yield-farm-companions",
+    "type": "minted",
+    "from": 1610,
+    "value": 1611
+  },
+  {
+    "at": "2026-10-02T01:27:21.014925+00:00",
+    "slug": "market-pass-334609407",
+    "type": "minted",
+    "from": 0,
+    "value": 11
+  },
+  {
+    "at": "2026-10-02T01:27:21.014925+00:00",
+    "slug": "w00f-exe-258609401",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-02T01:27:21.014925+00:00",
+    "slug": "dripsnoods-collection",
+    "type": "price",
+    "from": 0.0,
+    "value": 1.5e-05
+  },
+  {
+    "at": "2026-10-02T01:27:21.014925+00:00",
+    "slug": "franky-fish-bikini-bottom",
+    "type": "minted",
+    "from": 368,
+    "value": 369
+  },
+  {
+    "at": "2026-10-02T01:27:21.014925+00:00",
+    "slug": "yield-fields-founding-deeds",
+    "type": "minted",
+    "from": 878,
+    "value": 914
+  },
+  {
+    "at": "2026-10-02T01:27:21.014925+00:00",
+    "slug": "sekellies-hood",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-02T01:27:21.014925+00:00",
+    "slug": "0x63a8be28f6541c48b04120922b60c489ff027caa",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-02T01:27:21.014925+00:00",
+    "slug": "4g-344420657",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-02T01:27:21.014925+00:00",
+    "slug": "claystonkz",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T01:27:21.014925+00:00",
+    "slug": "monkeyhoodnfts",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T01:27:21.014925+00:00",
+    "slug": "boymeetshood",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-02T01:27:21.014925+00:00",
+    "slug": "oughs",
     "type": "discovered",
     "value": "SOLD_OUT"
   }
