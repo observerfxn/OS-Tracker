@@ -1,233 +1,6 @@
 [
   {
     "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "credits-monkey",
-    "type": "minted",
-    "from": 651,
-    "value": 653
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "dot-rh",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "dot-rh",
-    "type": "minted",
-    "from": 0,
-    "value": 1154
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "dot-rh",
-    "type": "price",
-    "from": null,
-    "value": 0.0001
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "elephant-jaro",
-    "type": "minted",
-    "from": 1186,
-    "value": 1188
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "the-last-block-45665507",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "dr-robinhood",
-    "type": "minted",
-    "from": 1305,
-    "value": 1307
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "sknots-hood",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "horn-pad",
-    "type": "minted",
-    "from": 482,
-    "value": 487
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "wallet-leaks",
-    "type": "minted",
-    "from": 1514,
-    "value": 1734
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "gridcredits-320385839",
-    "type": "minted",
-    "from": 896,
-    "value": 901
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "rich-hands-989798272",
-    "type": "minted",
-    "from": 1195,
-    "value": 1197
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "call-duck-rh",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "roblnhood-ape-club",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "send-to-zero-447137044",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "spider-punks",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "spider-punks",
-    "type": "minted",
-    "from": 6049,
-    "value": 6178
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "spider-punks",
-    "type": "price",
-    "from": null,
-    "value": 0.0
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "nullform-00000",
-    "type": "minted",
-    "from": 437,
-    "value": 438
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "las-chicas",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "last-catapult",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "0x2955a6ce434856a7d5ec0709def7fa4a854d23f5",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "sea-cactus",
-    "type": "minted",
-    "from": 937,
-    "value": 1133
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "sheers",
-    "type": "minted",
-    "from": 2910,
-    "value": 2999
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "send-to-zero-chapter-2",
-    "type": "minted",
-    "from": 1481,
-    "value": 1491
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "petsonal-puff",
-    "type": "minted",
-    "from": 493,
-    "value": 505
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "rh-digital-nft",
-    "type": "minted",
-    "from": 455,
-    "value": 514
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "sheepatsu-brokers",
-    "type": "minted",
-    "from": 573,
-    "value": 633
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "ritmon",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "w00f-exe-258609401",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "dripsnoods-collection",
-    "type": "minted",
-    "from": 250,
-    "value": 251
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "hollow-ones-hq",
-    "type": "minted",
-    "from": 392,
-    "value": 393
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "chimpzosnft",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "handmade-heads",
-    "type": "minted",
-    "from": 454,
-    "value": 612
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
     "slug": "handmade-heads",
     "type": "supply",
     "from": 5555,
@@ -32843,6 +32616,231 @@
   {
     "at": "2026-10-04T22:25:46.448903+00:00",
     "slug": "ccff00-diamonds",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "brpapa",
+    "type": "minted",
+    "from": 971,
+    "value": 1071
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "water-horse",
+    "type": "minted",
+    "from": 1465,
+    "value": 1473
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "fcfs-test-04",
+    "type": "minted",
+    "from": 281,
+    "value": 283
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "old-is-gold-786693409",
+    "type": "minted",
+    "from": 640,
+    "value": 683
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "cartel-151268911",
+    "type": "minted",
+    "from": 1138,
+    "value": 1168
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "unseen-monkey",
+    "type": "minted",
+    "from": 1514,
+    "value": 1554
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "monk-statue",
+    "type": "minted",
+    "from": 1608,
+    "value": 1659
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "standards-885997822",
+    "type": "minted",
+    "from": 1647,
+    "value": 1699
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "frame-900937242",
+    "type": "minted",
+    "from": 1849,
+    "value": 1905
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "tamper-749097386",
+    "type": "minted",
+    "from": 1853,
+    "value": 1915
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "zth-academy-129055446",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "hero-of-d-time",
+    "type": "minted",
+    "from": 2036,
+    "value": 2069
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "mint-a-bear-564781981",
+    "type": "minted",
+    "from": 2097,
+    "value": 2100
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "wolf-head",
+    "type": "minted",
+    "from": 1470,
+    "value": 1516
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "green-bottle",
+    "type": "minted",
+    "from": 1775,
+    "value": 1819
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "whatchimp",
+    "type": "minted",
+    "from": 220,
+    "value": 258
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "project-sphere",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "sheepsonchain",
+    "type": "minted",
+    "from": 1481,
+    "value": 1482
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "yield-fields-seeds",
+    "type": "minted",
+    "from": 1502,
+    "value": 1503
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "monsterra-482963127",
+    "type": "minted",
+    "from": 12,
+    "value": 48
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "mutation-1105-collection",
+    "type": "minted",
+    "from": 23,
+    "value": 89
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "coperate-brokers",
+    "type": "minted",
+    "from": 484,
+    "value": 496
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "mining-systems",
+    "type": "minted",
+    "from": 3110,
+    "value": 3113
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "thefirmbrokers",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "stray-cucks",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "sknots-go-down",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "hopium-machines",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "ntrpygenesis",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "hood-spooky",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "opencatz-by-dizcorvus",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "macarune",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "yoodles-reborn",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "facetsart",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-04T22:52:40.354794+00:00",
+    "slug": "gta6-fan-collection",
     "type": "discovered",
     "value": "SOLD_OUT"
   }
