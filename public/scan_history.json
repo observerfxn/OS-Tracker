@@ -1,161 +1,5 @@
 [
   {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "handmade-heads",
-    "type": "supply",
-    "from": 5555,
-    "value": 1200
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "computersrh",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "ccff00-punks-genesis",
-    "type": "minted",
-    "from": 9603,
-    "value": 9618
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "feauto",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "alchemists-guild",
-    "type": "minted",
-    "from": 3246,
-    "value": 3275
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "chilipunks",
-    "type": "minted",
-    "from": 6000,
-    "value": 6094
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "lady-doctor",
-    "type": "status",
-    "from": "LIVE",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "lady-doctor",
-    "type": "price",
-    "from": 0.0008,
-    "value": null
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "norny-cat",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "scrap-raccoons",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-09-30T17:27:40.220096+00:00",
-    "slug": "sherwood-outlaws",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-09-30T17:53:39.662219+00:00",
-    "slug": "pride-214940380",
-    "type": "minted",
-    "from": 1445,
-    "value": 1475
-  },
-  {
-    "at": "2026-09-30T17:53:39.662219+00:00",
-    "slug": "sakura-996741917",
-    "type": "minted",
-    "from": 1191,
-    "value": 1251
-  },
-  {
-    "at": "2026-09-30T17:53:39.662219+00:00",
-    "slug": "ygz123",
-    "type": "minted",
-    "from": 1793,
-    "value": 1853
-  },
-  {
-    "at": "2026-09-30T17:53:39.662219+00:00",
-    "slug": "testing-phase-860611051",
-    "type": "minted",
-    "from": 12011,
-    "value": 12063
-  },
-  {
-    "at": "2026-09-30T17:53:39.662219+00:00",
-    "slug": "pixelgoons-",
-    "type": "minted",
-    "from": 294,
-    "value": 339
-  },
-  {
-    "at": "2026-09-30T17:53:39.662219+00:00",
-    "slug": "send-to-zero-chapter-2-506857355",
-    "type": "minted",
-    "from": 483,
-    "value": 513
-  },
-  {
-    "at": "2026-09-30T17:53:39.662219+00:00",
-    "slug": "credits-monkey",
-    "type": "minted",
-    "from": 653,
-    "value": 655
-  },
-  {
-    "at": "2026-09-30T17:53:39.662219+00:00",
-    "slug": "genesis-bugz------------",
-    "type": "minted",
-    "from": 454,
-    "value": 460
-  },
-  {
-    "at": "2026-09-30T17:53:39.662219+00:00",
-    "slug": "franky-blind-box----",
-    "type": "minted",
-    "from": 447,
-    "value": 468
-  },
-  {
-    "at": "2026-09-30T17:53:39.662219+00:00",
-    "slug": "3-head-dog",
-    "type": "minted",
-    "from": 341,
-    "value": 541
-  },
-  {
-    "at": "2026-09-30T17:53:39.662219+00:00",
-    "slug": "wallet-leaks",
-    "type": "minted",
-    "from": 1734,
-    "value": 1964
-  },
-  {
-    "at": "2026-09-30T17:53:39.662219+00:00",
-    "slug": "tiger-of-d-sky",
-    "type": "minted",
-    "from": 2201,
-    "value": 2207
-  },
-  {
     "at": "2026-09-30T17:53:39.662219+00:00",
     "slug": "computers-rh-489388265",
     "type": "price",
@@ -32843,5 +32687,156 @@
     "slug": "gta6-fan-collection",
     "type": "discovered",
     "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-04T23:24:20.297897+00:00",
+    "slug": "dryhole-genesis",
+    "type": "minted",
+    "from": 684,
+    "value": 711
+  },
+  {
+    "at": "2026-10-04T23:24:20.297897+00:00",
+    "slug": "dryhole-genesis",
+    "type": "price",
+    "from": 0.0,
+    "value": 1.2e-05
+  },
+  {
+    "at": "2026-10-04T23:24:20.297897+00:00",
+    "slug": "old-luv",
+    "type": "minted",
+    "from": 730,
+    "value": 751
+  },
+  {
+    "at": "2026-10-04T23:24:20.297897+00:00",
+    "slug": "dippies-hood",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-04T23:24:20.297897+00:00",
+    "slug": "kavari",
+    "type": "minted",
+    "from": 1781,
+    "value": 1782
+  },
+  {
+    "at": "2026-10-04T23:24:20.297897+00:00",
+    "slug": "poodle-in-the-hood",
+    "type": "minted",
+    "from": 5519,
+    "value": 5525
+  },
+  {
+    "at": "2026-10-04T23:24:20.297897+00:00",
+    "slug": "whatchimp",
+    "type": "minted",
+    "from": 258,
+    "value": 260
+  },
+  {
+    "at": "2026-10-04T23:24:20.297897+00:00",
+    "slug": "yield-fields-seeds",
+    "type": "minted",
+    "from": 1503,
+    "value": 1512
+  },
+  {
+    "at": "2026-10-04T23:24:20.297897+00:00",
+    "slug": "quirky-folks",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-04T23:24:20.297897+00:00",
+    "slug": "stupid-736546024",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-04T23:24:20.297897+00:00",
+    "slug": "mutation-1105-collection",
+    "type": "minted",
+    "from": 89,
+    "value": 103
+  },
+  {
+    "at": "2026-10-04T23:24:20.297897+00:00",
+    "slug": "peng-bastard",
+    "type": "minted",
+    "from": 3691,
+    "value": 3755
+  },
+  {
+    "at": "2026-10-04T23:24:20.297897+00:00",
+    "slug": "ruxxells-genesis",
+    "type": "minted",
+    "from": 1330,
+    "value": 1333
+  },
+  {
+    "at": "2026-10-04T23:24:20.297897+00:00",
+    "slug": "coperate-brokers",
+    "type": "minted",
+    "from": 496,
+    "value": 556
+  },
+  {
+    "at": "2026-10-04T23:24:20.297897+00:00",
+    "slug": "blacklisted",
+    "type": "minted",
+    "from": 2978,
+    "value": 2981
+  },
+  {
+    "at": "2026-10-04T23:24:20.297897+00:00",
+    "slug": "mining-systems",
+    "type": "minted",
+    "from": 3113,
+    "value": 3183
+  },
+  {
+    "at": "2026-10-04T23:24:20.297897+00:00",
+    "slug": "aped-in",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-04T23:24:20.297897+00:00",
+    "slug": "holdingtime",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-04T23:24:20.297897+00:00",
+    "slug": "urchin-frens",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-04T23:24:20.297897+00:00",
+    "slug": "yield-farm-companions",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-04T23:24:20.297897+00:00",
+    "slug": "screenfreakz-origin",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-04T23:24:20.297897+00:00",
+    "slug": "0xc21159f412c294ca2c38f2a9ecaaccf9d93ec929",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-04T23:24:20.297897+00:00",
+    "slug": "portable-slop-drive",
+    "type": "discovered",
+    "value": "ENDED"
   }
 ]
