@@ -1,135 +1,5 @@
 [
   {
-    "at": "2026-09-30T22:27:18.736141+00:00",
-    "slug": "frieza-4x",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-30T22:27:18.736141+00:00",
-    "slug": "frieza-4x",
-    "type": "price",
-    "from": null,
-    "value": 4e-05
-  },
-  {
-    "at": "2026-09-30T22:27:18.736141+00:00",
-    "slug": "greedy-lion",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-30T22:27:18.736141+00:00",
-    "slug": "daisy2",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-30T22:27:18.736141+00:00",
-    "slug": "kindin",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-09-30T22:27:18.736141+00:00",
-    "slug": "age-of-the-eagle",
-    "type": "status",
-    "from": "LIVE",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-09-30T22:27:18.736141+00:00",
-    "slug": "age-of-the-eagle",
-    "type": "price",
-    "from": 1e-05,
-    "value": null
-  },
-  {
-    "at": "2026-09-30T22:27:18.736141+00:00",
-    "slug": "emojis-on-ccff00",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-09-30T22:27:18.736141+00:00",
-    "slug": "supremes",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-09-30T22:27:18.736141+00:00",
-    "slug": "catshu",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-09-30T22:27:18.736141+00:00",
-    "slug": "the-fallen-3333",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-09-30T22:27:18.736141+00:00",
-    "slug": "hopium-machines",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-09-30T22:27:18.736141+00:00",
-    "slug": "stilhere",
-    "type": "status",
-    "from": "LIVE",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-09-30T22:27:18.736141+00:00",
-    "slug": "stilhere",
-    "type": "minted",
-    "from": 24,
-    "value": 2300
-  },
-  {
-    "at": "2026-09-30T22:27:18.736141+00:00",
-    "slug": "stilhere",
-    "type": "price",
-    "from": 0.0,
-    "value": null
-  },
-  {
-    "at": "2026-09-30T22:53:35.578417+00:00",
-    "slug": "testset-96731002",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-30T22:53:35.578417+00:00",
-    "slug": "rugg-horse",
-    "type": "minted",
-    "from": 4,
-    "value": 223
-  },
-  {
-    "at": "2026-09-30T22:53:35.578417+00:00",
-    "slug": "statue-641120470",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-30T22:53:35.578417+00:00",
-    "slug": "eco-friendly-258529611",
-    "type": "minted",
-    "from": 1162,
-    "value": 1298
-  },
-  {
-    "at": "2026-09-30T22:53:35.578417+00:00",
-    "slug": "homeboy-839113716",
-    "type": "minted",
-    "from": 0,
-    "value": 187
-  },
-  {
     "at": "2026-09-30T22:53:35.578417+00:00",
     "slug": "elephant-jaro",
     "type": "minted",
@@ -32767,6 +32637,131 @@
   {
     "at": "2026-10-05T07:31:14.531452+00:00",
     "slug": "chilipunks",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-05T07:56:05.905948+00:00",
+    "slug": "onchain-heroes-worids-eve-323744399",
+    "type": "minted",
+    "from": 59,
+    "value": 89
+  },
+  {
+    "at": "2026-10-05T07:56:05.905948+00:00",
+    "slug": "wallstreetbits",
+    "type": "minted",
+    "from": 3242,
+    "value": 3245
+  },
+  {
+    "at": "2026-10-05T07:56:05.905948+00:00",
+    "slug": "poodle-in-the-hood",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-05T07:56:05.905948+00:00",
+    "slug": "con-men",
+    "type": "minted",
+    "from": 145,
+    "value": 562
+  },
+  {
+    "at": "2026-10-05T07:56:05.905948+00:00",
+    "slug": "ruxxells-genesis",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-05T07:56:05.905948+00:00",
+    "slug": "hue-nft-",
+    "type": "minted",
+    "from": 2951,
+    "value": 2955
+  },
+  {
+    "at": "2026-10-05T07:56:05.905948+00:00",
+    "slug": "hoodoge-sherwood-origins",
+    "type": "minted",
+    "from": 0,
+    "value": 51
+  },
+  {
+    "at": "2026-10-05T07:56:05.905948+00:00",
+    "slug": "invisible-hoods",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-05T07:56:05.905948+00:00",
+    "slug": "the-hood-rover",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-05T07:56:05.905948+00:00",
+    "slug": "alliennft-366636637",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-05T07:56:05.905948+00:00",
+    "slug": "halo-nodes",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-05T07:56:05.905948+00:00",
+    "slug": "trust-us-nft",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-05T07:56:05.905948+00:00",
+    "slug": "derivative-apes",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-05T07:56:05.905948+00:00",
+    "slug": "brosrh",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-05T07:56:05.905948+00:00",
+    "slug": "opencatz-by-dizcorvus",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-05T07:56:05.905948+00:00",
+    "slug": "block-titans",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-05T07:56:05.905948+00:00",
+    "slug": "thezorpians",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-05T07:56:05.905948+00:00",
+    "slug": "robinhoodmigos",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-05T07:56:05.905948+00:00",
+    "slug": "facetsart",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-05T07:56:05.905948+00:00",
+    "slug": "rare-friends-genesis",
     "type": "discovered",
     "value": "SOLD_OUT"
   }
