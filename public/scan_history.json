@@ -1,80 +1,6 @@
 [
   {
     "at": "2026-09-30T19:27:35.041900+00:00",
-    "slug": "fancy-379268083",
-    "type": "minted",
-    "from": 1124,
-    "value": 1125
-  },
-  {
-    "at": "2026-09-30T19:27:35.041900+00:00",
-    "slug": "eco-friendly-258529611",
-    "type": "minted",
-    "from": 1148,
-    "value": 1155
-  },
-  {
-    "at": "2026-09-30T19:27:35.041900+00:00",
-    "slug": "cooprate-me",
-    "type": "minted",
-    "from": 1152,
-    "value": 1158
-  },
-  {
-    "at": "2026-09-30T19:27:35.041900+00:00",
-    "slug": "robinhood-ape-club-449348279",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-30T19:27:35.041900+00:00",
-    "slug": "printoor-rh",
-    "type": "minted",
-    "from": 866,
-    "value": 926
-  },
-  {
-    "at": "2026-09-30T19:27:35.041900+00:00",
-    "slug": "computers-rh-382362457",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-30T19:27:35.041900+00:00",
-    "slug": "sea-cactus",
-    "type": "minted",
-    "from": 1218,
-    "value": 1289
-  },
-  {
-    "at": "2026-09-30T19:27:35.041900+00:00",
-    "slug": "ruxxels-386324323",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-09-30T19:27:35.041900+00:00",
-    "slug": "sheers",
-    "type": "minted",
-    "from": 3069,
-    "value": 3070
-  },
-  {
-    "at": "2026-09-30T19:27:35.041900+00:00",
-    "slug": "stpengus",
-    "type": "minted",
-    "from": 534,
-    "value": 537
-  },
-  {
-    "at": "2026-09-30T19:27:35.041900+00:00",
-    "slug": "og-cat-316012584",
-    "type": "minted",
-    "from": 1482,
-    "value": 1664
-  },
-  {
-    "at": "2026-09-30T19:27:35.041900+00:00",
     "slug": "computersrh",
     "type": "minted",
     "from": 458,
@@ -32818,6 +32744,77 @@
   {
     "at": "2026-10-05T02:27:43.105570+00:00",
     "slug": "macarune",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-05T02:55:14.401447+00:00",
+    "slug": "hood-rocks-nfts",
+    "type": "status",
+    "from": "UPCOMING",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-05T02:55:14.401447+00:00",
+    "slug": "hood-rocks-nfts",
+    "type": "minted",
+    "from": 0,
+    "value": 2133
+  },
+  {
+    "at": "2026-10-05T02:55:14.401447+00:00",
+    "slug": "hood-rocks-nfts",
+    "type": "price",
+    "from": null,
+    "value": 0.0
+  },
+  {
+    "at": "2026-10-05T02:55:14.401447+00:00",
+    "slug": "dryhole-genesis",
+    "type": "minted",
+    "from": 901,
+    "value": 909
+  },
+  {
+    "at": "2026-10-05T02:55:14.401447+00:00",
+    "slug": "pepes-earn",
+    "type": "minted",
+    "from": 444,
+    "value": 742
+  },
+  {
+    "at": "2026-10-05T02:55:14.401447+00:00",
+    "slug": "hue-nft-",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-05T02:55:14.401447+00:00",
+    "slug": "outlaw-armory",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-05T02:55:14.401447+00:00",
+    "slug": "sknots-go-down",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-05T02:55:14.401447+00:00",
+    "slug": "pixelated-puffins",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-05T02:55:14.401447+00:00",
+    "slug": "blacktide-abyssal-fleet",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-05T02:55:14.401447+00:00",
+    "slug": "chilipunks",
     "type": "discovered",
     "value": "SOLD_OUT"
   }
