@@ -1,230 +1,5 @@
 [
   {
-    "at": "2026-10-02T00:57:16.911440+00:00",
-    "slug": "internetmonkes",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-02T00:57:16.911440+00:00",
-    "slug": "sloppies-424576658",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-02T01:27:21.014925+00:00",
-    "slug": "nyx-hood",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-02T01:27:21.014925+00:00",
-    "slug": "rhmaxis",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-02T01:27:21.014925+00:00",
-    "slug": "rare-amigos",
-    "type": "minted",
-    "from": 2850,
-    "value": 2951
-  },
-  {
-    "at": "2026-10-02T01:27:21.014925+00:00",
-    "slug": "rare-amigos",
-    "type": "price",
-    "from": 5e-06,
-    "value": 3.5e-06
-  },
-  {
-    "at": "2026-10-02T01:27:21.014925+00:00",
-    "slug": "peng-bastard",
-    "type": "minted",
-    "from": 3416,
-    "value": 3422
-  },
-  {
-    "at": "2026-10-02T01:27:21.014925+00:00",
-    "slug": "yield-farm-companions",
-    "type": "minted",
-    "from": 1610,
-    "value": 1611
-  },
-  {
-    "at": "2026-10-02T01:27:21.014925+00:00",
-    "slug": "market-pass-334609407",
-    "type": "minted",
-    "from": 0,
-    "value": 11
-  },
-  {
-    "at": "2026-10-02T01:27:21.014925+00:00",
-    "slug": "w00f-exe-258609401",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-02T01:27:21.014925+00:00",
-    "slug": "dripsnoods-collection",
-    "type": "price",
-    "from": 0.0,
-    "value": 1.5e-05
-  },
-  {
-    "at": "2026-10-02T01:27:21.014925+00:00",
-    "slug": "franky-fish-bikini-bottom",
-    "type": "minted",
-    "from": 368,
-    "value": 369
-  },
-  {
-    "at": "2026-10-02T01:27:21.014925+00:00",
-    "slug": "yield-fields-founding-deeds",
-    "type": "minted",
-    "from": 878,
-    "value": 914
-  },
-  {
-    "at": "2026-10-02T01:27:21.014925+00:00",
-    "slug": "sekellies-hood",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-02T01:27:21.014925+00:00",
-    "slug": "0x63a8be28f6541c48b04120922b60c489ff027caa",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-02T01:27:21.014925+00:00",
-    "slug": "4g-344420657",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-02T01:27:21.014925+00:00",
-    "slug": "claystonkz",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-02T01:27:21.014925+00:00",
-    "slug": "monkeyhoodnfts",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-02T01:27:21.014925+00:00",
-    "slug": "boymeetshood",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-02T01:27:21.014925+00:00",
-    "slug": "oughs",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-02T01:53:36.950201+00:00",
-    "slug": "standards-885997822",
-    "type": "minted",
-    "from": 516,
-    "value": 518
-  },
-  {
-    "at": "2026-10-02T01:53:36.950201+00:00",
-    "slug": "sekellies-hood",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-02T01:53:36.950201+00:00",
-    "slug": "sekellies-hood",
-    "type": "price",
-    "from": null,
-    "value": 0.0005
-  },
-  {
-    "at": "2026-10-02T01:53:36.950201+00:00",
-    "slug": "punker-stonks",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-02T01:53:36.950201+00:00",
-    "slug": "rhmaxis",
-    "type": "minted",
-    "from": 1678,
-    "value": 2810
-  },
-  {
-    "at": "2026-10-02T01:53:36.950201+00:00",
-    "slug": "rare-amigos",
-    "type": "minted",
-    "from": 2951,
-    "value": 2953
-  },
-  {
-    "at": "2026-10-02T01:53:36.950201+00:00",
-    "slug": "0x63a8be28f6541c48b04120922b60c489ff027caa",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-02T01:53:36.950201+00:00",
-    "slug": "0x63a8be28f6541c48b04120922b60c489ff027caa",
-    "type": "minted",
-    "from": 0,
-    "value": 952
-  },
-  {
-    "at": "2026-10-02T01:53:36.950201+00:00",
-    "slug": "0x63a8be28f6541c48b04120922b60c489ff027caa",
-    "type": "price",
-    "from": null,
-    "value": 3e-06
-  },
-  {
-    "at": "2026-10-02T01:53:36.950201+00:00",
-    "slug": "peng-bastard",
-    "type": "minted",
-    "from": 3422,
-    "value": 3432
-  },
-  {
-    "at": "2026-10-02T01:53:36.950201+00:00",
-    "slug": "yield-farm-companions",
-    "type": "minted",
-    "from": 1611,
-    "value": 1613
-  },
-  {
-    "at": "2026-10-02T01:53:36.950201+00:00",
-    "slug": "4g-344420657",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-02T01:53:36.950201+00:00",
-    "slug": "4g-344420657",
-    "type": "price",
-    "from": null,
-    "value": 1e-06
-  },
-  {
-    "at": "2026-10-02T01:53:36.950201+00:00",
-    "slug": "dripsnoods-collection",
-    "type": "minted",
-    "from": 318,
-    "value": 320
-  },
-  {
     "at": "2026-10-02T01:53:36.950201+00:00",
     "slug": "franky-fish-bikini-bottom",
     "type": "minted",
@@ -32829,6 +32604,231 @@
   {
     "at": "2026-10-06T10:28:31.120264+00:00",
     "slug": "gta6-fan-collection",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "the-lil-wizards",
+    "type": "minted",
+    "from": 6190,
+    "value": 6198
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "the-lil-wizards",
+    "type": "price",
+    "from": 0.000465032013059288,
+    "value": 0.000369887883675873
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "beautiful-presido",
+    "type": "minted",
+    "from": 243,
+    "value": 267
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "ancient-of-day",
+    "type": "minted",
+    "from": 344,
+    "value": 368
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "blank-out-448921408",
+    "type": "minted",
+    "from": 360,
+    "value": 380
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "kaki-32710304",
+    "type": "minted",
+    "from": 364,
+    "value": 393
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "lpcg",
+    "type": "minted",
+    "from": 2230,
+    "value": 2236
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "beautiful-coin",
+    "type": "minted",
+    "from": 233,
+    "value": 255
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "damsel-117764417",
+    "type": "minted",
+    "from": 241,
+    "value": 261
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "wrong-right",
+    "type": "minted",
+    "from": 508,
+    "value": 534
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "horn-on-my-head",
+    "type": "minted",
+    "from": 199,
+    "value": 224
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "mooniez-clan-396934785",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "digital-monkes",
+    "type": "minted",
+    "from": 1978,
+    "value": 1982
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "mouse-912590719",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "hero-child",
+    "type": "minted",
+    "from": 1281,
+    "value": 1298
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "observe-value",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "poodle-in-the-hood",
+    "type": "minted",
+    "from": 6977,
+    "value": 7017
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "dead-stay",
+    "type": "status",
+    "from": "UPCOMING",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "dead-stay",
+    "type": "minted",
+    "from": 0,
+    "value": 588
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "dead-stay",
+    "type": "price",
+    "from": null,
+    "value": 0.02
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "critters-954571743",
+    "type": "minted",
+    "from": 482,
+    "value": 823
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "the-hood-rover-83427968",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "veylora",
+    "type": "minted",
+    "from": 4801,
+    "value": 4826
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "reveredpengs",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "stock-domains",
+    "type": "minted",
+    "from": 11,
+    "value": 34
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "stock-domains",
+    "type": "price",
+    "from": 1e-09,
+    "value": 0.1
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "arrow-cats",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "the-3333-experiments",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "wif-outlaws",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "0xc21159f412c294ca2c38f2a9ecaaccf9d93ec929",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "xlords-hero-genesis",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "kid-story-760618637",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "sloppies-424576658",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-06T10:55:32.801450+00:00",
+    "slug": "jeanphil-nft",
     "type": "discovered",
     "value": "SOLD_OUT"
   }
