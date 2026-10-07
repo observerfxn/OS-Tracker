@@ -1,172 +1,5 @@
 [
   {
-    "at": "2026-10-02T23:51:07.056725+00:00",
-    "slug": "zoko-179184063",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-02T23:51:07.056725+00:00",
-    "slug": "zoko-579682749",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-02T23:51:07.056725+00:00",
-    "slug": "zoko-579682749",
-    "type": "minted",
-    "from": 0,
-    "value": 10
-  },
-  {
-    "at": "2026-10-02T23:51:07.056725+00:00",
-    "slug": "staccs-robinhood-homecoming-collection",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-02T23:51:07.056725+00:00",
-    "slug": "the-3333-experiments",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-02T23:51:07.056725+00:00",
-    "slug": "the-satwas-band",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-02T23:51:07.056725+00:00",
-    "slug": "macarune",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-02T23:51:07.056725+00:00",
-    "slug": "franky-fish-bikini-bottom",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-02T23:51:07.056725+00:00",
-    "slug": "skellykuntz",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-03T00:32:16.890298+00:00",
-    "slug": "pophead-874689281",
-    "type": "minted",
-    "from": 210,
-    "value": 341
-  },
-  {
-    "at": "2026-10-03T00:32:16.890298+00:00",
-    "slug": "terminator-110134329",
-    "type": "minted",
-    "from": 342,
-    "value": 379
-  },
-  {
-    "at": "2026-10-03T00:32:16.890298+00:00",
-    "slug": "shape-513992824",
-    "type": "minted",
-    "from": 241,
-    "value": 394
-  },
-  {
-    "at": "2026-10-03T00:32:16.890298+00:00",
-    "slug": "midnight-miners",
-    "type": "minted",
-    "from": 926,
-    "value": 930
-  },
-  {
-    "at": "2026-10-03T00:32:16.890298+00:00",
-    "slug": "regulars-by-frontera",
-    "type": "minted",
-    "from": 980,
-    "value": 986
-  },
-  {
-    "at": "2026-10-03T00:32:16.890298+00:00",
-    "slug": "regulars-by-frontera",
-    "type": "price",
-    "from": 0.0004,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-03T00:32:16.890298+00:00",
-    "slug": "cooprate-me",
-    "type": "minted",
-    "from": 1814,
-    "value": 1837
-  },
-  {
-    "at": "2026-10-03T00:32:16.890298+00:00",
-    "slug": "dollars-3705374",
-    "type": "minted",
-    "from": 255,
-    "value": 282
-  },
-  {
-    "at": "2026-10-03T00:32:16.890298+00:00",
-    "slug": "stupid-inu",
-    "type": "minted",
-    "from": 2004,
-    "value": 2219
-  },
-  {
-    "at": "2026-10-03T00:32:16.890298+00:00",
-    "slug": "wavecard",
-    "type": "minted",
-    "from": 120,
-    "value": 121
-  },
-  {
-    "at": "2026-10-03T00:32:16.890298+00:00",
-    "slug": "asssets",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-03T00:32:16.890298+00:00",
-    "slug": "channels-113432875",
-    "type": "minted",
-    "from": 5,
-    "value": 15
-  },
-  {
-    "at": "2026-10-03T00:32:16.890298+00:00",
-    "slug": "duck-punks-215516904",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-03T00:32:16.890298+00:00",
-    "slug": "duck-punks-215516904",
-    "type": "minted",
-    "from": 0,
-    "value": 142
-  },
-  {
-    "at": "2026-10-03T00:32:16.890298+00:00",
-    "slug": "duck-punks-215516904",
-    "type": "price",
-    "from": null,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-03T00:32:16.890298+00:00",
-    "slug": "hoodhash",
-    "type": "minted",
-    "from": 745,
-    "value": 755
-  },
-  {
     "at": "2026-10-03T00:32:16.890298+00:00",
     "slug": "kyoopa",
     "type": "discovered",
@@ -32933,5 +32766,167 @@
     "type": "price",
     "from": 0.0,
     "value": null
+  },
+  {
+    "at": "2026-10-07T11:54:56.858426+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 1376,
+    "value": 1382
+  },
+  {
+    "at": "2026-10-07T11:54:56.858426+00:00",
+    "slug": "monk-hoodland",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-07T11:54:56.858426+00:00",
+    "slug": "robinhood-military-rm",
+    "type": "minted",
+    "from": 508,
+    "value": 528
+  },
+  {
+    "at": "2026-10-07T11:54:56.858426+00:00",
+    "slug": "ethernal-cubs-609112904",
+    "type": "minted",
+    "from": 45,
+    "value": 51
+  },
+  {
+    "at": "2026-10-07T11:54:56.858426+00:00",
+    "slug": "mooniezworld",
+    "type": "minted",
+    "from": 1309,
+    "value": 1311
+  },
+  {
+    "at": "2026-10-07T11:54:56.858426+00:00",
+    "slug": "the-anomalies",
+    "type": "minted",
+    "from": 426,
+    "value": 438
+  },
+  {
+    "at": "2026-10-07T11:54:56.858426+00:00",
+    "slug": "hoodies-on-robinhood",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-07T11:54:56.858426+00:00",
+    "slug": "0x710e6e485e0fa63195c8c1d58228b09264726a84",
+    "type": "price",
+    "from": 0.1,
+    "value": 0.15
+  },
+  {
+    "at": "2026-10-07T11:54:56.858426+00:00",
+    "slug": "limpo-dolls",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.0008
+  },
+  {
+    "at": "2026-10-07T11:54:56.858426+00:00",
+    "slug": "3d-game-ccff00-spheres",
+    "type": "minted",
+    "from": 632,
+    "value": 674
+  },
+  {
+    "at": "2026-10-07T11:54:56.858426+00:00",
+    "slug": "werdpengwen",
+    "type": "minted",
+    "from": 2482,
+    "value": 2734
+  },
+  {
+    "at": "2026-10-07T11:54:56.858426+00:00",
+    "slug": "monk-of-hoodland",
+    "type": "minted",
+    "from": 762,
+    "value": 764
+  },
+  {
+    "at": "2026-10-07T11:54:56.858426+00:00",
+    "slug": "0xcf3f377b1cf2811b3b6eca95621d69809b5aa524",
+    "type": "minted",
+    "from": 463,
+    "value": 791
+  },
+  {
+    "at": "2026-10-07T11:54:56.858426+00:00",
+    "slug": "0xcf3f377b1cf2811b3b6eca95621d69809b5aa524",
+    "type": "supply",
+    "from": 5000,
+    "value": 888
+  },
+  {
+    "at": "2026-10-07T11:54:56.858426+00:00",
+    "slug": "mythics-100-test",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-07T11:54:56.858426+00:00",
+    "slug": "cyber-blondes",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-07T11:54:56.858426+00:00",
+    "slug": "monkelore",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-07T11:54:56.858426+00:00",
+    "slug": "hoodgo-rh",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-07T11:54:56.858426+00:00",
+    "slug": "splitzpunks",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-07T11:54:56.858426+00:00",
+    "slug": "yield-farm",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-07T11:54:56.858426+00:00",
+    "slug": "hoodminers-rh",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-07T11:54:56.858426+00:00",
+    "slug": "jeanphil-nft",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-07T11:54:56.858426+00:00",
+    "slug": "theapehood",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-07T11:54:56.858426+00:00",
+    "slug": "stray-cars",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-07T11:54:56.858426+00:00",
+    "slug": "toadzers",
+    "type": "discovered",
+    "value": "SOLD_OUT"
   }
 ]
