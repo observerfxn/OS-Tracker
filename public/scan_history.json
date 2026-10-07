@@ -1,153 +1,6 @@
 [
   {
     "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "military-skeleton",
-    "type": "minted",
-    "from": 781,
-    "value": 849
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "military-skeleton",
-    "type": "price",
-    "from": 0.0041,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "frame-900937242",
-    "type": "minted",
-    "from": 894,
-    "value": 895
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "tamper-749097386",
-    "type": "minted",
-    "from": 1055,
-    "value": 1057
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "presido",
-    "type": "minted",
-    "from": 1189,
-    "value": 1237
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "presido",
-    "type": "price",
-    "from": 0.0036,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "flower-boi-971799897",
-    "type": "minted",
-    "from": 1676,
-    "value": 1677
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "fancy-379268083",
-    "type": "price",
-    "from": 0.003,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "crown-image",
-    "type": "minted",
-    "from": 747,
-    "value": 836
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "crown-image",
-    "type": "price",
-    "from": 0.004,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "revolution-979997418",
-    "type": "price",
-    "from": 0.003,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "magical-hammer",
-    "type": "minted",
-    "from": 83,
-    "value": 86
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "cat-fish-588887281",
-    "type": "minted",
-    "from": 1053,
-    "value": 1102
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "cat-fish-588887281",
-    "type": "price",
-    "from": 0.0035,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "tiger-of-d-sky",
-    "type": "price",
-    "from": 0.0037,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "headward",
-    "type": "price",
-    "from": 0.0017,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "rich-hands-989798272",
-    "type": "price",
-    "from": 0.0045,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "kindin",
-    "type": "minted",
-    "from": 820,
-    "value": 846
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "pink-punk-34441438",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "pink-punk-34441438",
-    "type": "minted",
-    "from": 0,
-    "value": 1851
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "pink-punk-34441438",
-    "type": "price",
-    "from": null,
-    "value": 2.2e-05
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
     "slug": "poodle-in-the-hood",
     "type": "minted",
     "from": 3080,
@@ -32940,5 +32793,140 @@
     "slug": "poodle-in-the-hood",
     "type": "discovered",
     "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-07T22:25:18.780438+00:00",
+    "slug": "testtetst",
+    "type": "minted",
+    "from": 1229,
+    "value": 3118
+  },
+  {
+    "at": "2026-10-07T22:25:18.780438+00:00",
+    "slug": "rh-orangs",
+    "type": "minted",
+    "from": 1474,
+    "value": 1478
+  },
+  {
+    "at": "2026-10-07T22:25:18.780438+00:00",
+    "slug": "midnight-miners",
+    "type": "minted",
+    "from": 1549,
+    "value": 2001
+  },
+  {
+    "at": "2026-10-07T22:25:18.780438+00:00",
+    "slug": "0xe0c11daa5f8874d0dc9ac5b8eb7aaf10a00e4aba",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-07T22:25:18.780438+00:00",
+    "slug": "mooniezworld",
+    "type": "minted",
+    "from": 1358,
+    "value": 1359
+  },
+  {
+    "at": "2026-10-07T22:25:18.780438+00:00",
+    "slug": "riottoons",
+    "type": "minted",
+    "from": 1016,
+    "value": 1028
+  },
+  {
+    "at": "2026-10-07T22:25:18.780438+00:00",
+    "slug": "girrafish",
+    "type": "minted",
+    "from": 501,
+    "value": 1188
+  },
+  {
+    "at": "2026-10-07T22:25:18.780438+00:00",
+    "slug": "girrafish",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.0004
+  },
+  {
+    "at": "2026-10-07T22:25:18.780438+00:00",
+    "slug": "daisy3",
+    "type": "minted",
+    "from": 30,
+    "value": 33
+  },
+  {
+    "at": "2026-10-07T22:25:18.780438+00:00",
+    "slug": "de-labz",
+    "type": "minted",
+    "from": 170,
+    "value": 173
+  },
+  {
+    "at": "2026-10-07T22:25:18.780438+00:00",
+    "slug": "yield-fields-seeds-pack",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-07T22:25:18.780438+00:00",
+    "slug": "bro-695865980",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-07T22:25:18.780438+00:00",
+    "slug": "blazebeak-hood",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-07T22:25:18.780438+00:00",
+    "slug": "hopium-machines",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-07T22:25:18.780438+00:00",
+    "slug": "wasteland-art",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-07T22:25:18.780438+00:00",
+    "slug": "hoodiegroupies",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-07T22:25:18.780438+00:00",
+    "slug": "whalestreet",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-07T22:25:18.780438+00:00",
+    "slug": "prime-apes-764897129",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-07T22:25:18.780438+00:00",
+    "slug": "suited-ape-society",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-07T22:25:18.780438+00:00",
+    "slug": "halo-nodes",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-07T22:25:18.780438+00:00",
+    "slug": "berry-special-edition",
+    "type": "discovered",
+    "value": "ENDED"
   }
 ]
