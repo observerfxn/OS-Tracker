@@ -1,121 +1,5 @@
 [
   {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "primal-apes-robinhood",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "kid-story-760618637",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "macarune",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "0xc180f7bb3a73edad6d30cf22813f2eba0ff3042d",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "yoodles-reborn",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "mintlatch",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "staccs-robinhood-homecoming-collection",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "sight-genesis-826300567",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "glitch-bears-official",
-    "type": "status",
-    "from": "LIVE",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "glitch-bears-official",
-    "type": "minted",
-    "from": 1977,
-    "value": 2000
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "glitch-bears-official",
-    "type": "price",
-    "from": 4.2e-05,
-    "value": null
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "wild-society-505283387",
-    "type": "status",
-    "from": "LIVE",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "wild-society-505283387",
-    "type": "minted",
-    "from": 194,
-    "value": 1000
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "wild-society-505283387",
-    "type": "price",
-    "from": 0.0,
-    "value": null
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "portable-slop-drive",
-    "type": "discovered",
-    "value": "ENDED"
-  },
-  {
-    "at": "2026-10-03T14:35:15.053451+00:00",
-    "slug": "berry-special-edition",
-    "type": "discovered",
-    "value": "ENDED"
-  },
-  {
-    "at": "2026-10-03T18:39:03.455987+00:00",
-    "slug": "jhandu-bam",
-    "type": "minted",
-    "from": 422,
-    "value": 430
-  },
-  {
-    "at": "2026-10-03T18:39:03.455987+00:00",
-    "slug": "hayoloo-nagpain",
-    "type": "minted",
-    "from": 28,
-    "value": 441
-  },
-  {
     "at": "2026-10-03T18:39:03.455987+00:00",
     "slug": "testing-phase-860611051",
     "type": "minted",
@@ -32923,6 +32807,118 @@
   {
     "at": "2026-10-07T23:23:50.942599+00:00",
     "slug": "flamingos-eth",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-07T23:52:26.374623+00:00",
+    "slug": "bike-travelers",
+    "type": "minted",
+    "from": 384,
+    "value": 385
+  },
+  {
+    "at": "2026-10-07T23:52:26.374623+00:00",
+    "slug": "kingdom-349706552",
+    "type": "minted",
+    "from": 733,
+    "value": 734
+  },
+  {
+    "at": "2026-10-07T23:52:26.374623+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 1486,
+    "value": 1487
+  },
+  {
+    "at": "2026-10-07T23:52:26.374623+00:00",
+    "slug": "rh-orangs",
+    "type": "minted",
+    "from": 1483,
+    "value": 1490
+  },
+  {
+    "at": "2026-10-07T23:52:26.374623+00:00",
+    "slug": "seiyans-459915756",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-07T23:52:26.374623+00:00",
+    "slug": "roblynz",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-07T23:52:26.374623+00:00",
+    "slug": "bro-695865980",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-07T23:52:26.374623+00:00",
+    "slug": "riottoons",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-07T23:52:26.374623+00:00",
+    "slug": "hollows-nft-491714637",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-07T23:52:26.374623+00:00",
+    "slug": "staccs-robinhood-homecoming-collection",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-07T23:52:26.374623+00:00",
+    "slug": "thefirmbrokers",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-07T23:52:26.374623+00:00",
+    "slug": "zoko-949608092",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-07T23:52:26.374623+00:00",
+    "slug": "alterhood",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-07T23:52:26.374623+00:00",
+    "slug": "ugly-freaks",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-07T23:52:26.374623+00:00",
+    "slug": "brosrh",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-07T23:52:26.374623+00:00",
+    "slug": "facetsart",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-07T23:52:26.374623+00:00",
+    "slug": "rare-friends-genesis",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-07T23:52:26.374623+00:00",
+    "slug": "gta6-fan-collection",
     "type": "discovered",
     "value": "SOLD_OUT"
   }
