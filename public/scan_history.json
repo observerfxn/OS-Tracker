@@ -1,167 +1,6 @@
 [
   {
     "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "egypt-crown",
-    "type": "minted",
-    "from": 508,
-    "value": 640
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "pophead-874689281",
-    "type": "minted",
-    "from": 436,
-    "value": 645
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "pophead-874689281",
-    "type": "price",
-    "from": 0.004,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "midnight-miners",
-    "type": "minted",
-    "from": 950,
-    "value": 960
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "unseen-monkey",
-    "type": "minted",
-    "from": 931,
-    "value": 1096
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "unseen-monkey",
-    "type": "price",
-    "from": 0.0041,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "standards-885997822",
-    "type": "minted",
-    "from": 909,
-    "value": 1102
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "monk-statue",
-    "type": "minted",
-    "from": 924,
-    "value": 1115
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "monk-statue",
-    "type": "price",
-    "from": 0.0,
-    "value": 0.0011
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "tamper-749097386",
-    "type": "minted",
-    "from": 1141,
-    "value": 1352
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "tamper-749097386",
-    "type": "price",
-    "from": 0.0024,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "frame-900937242",
-    "type": "minted",
-    "from": 986,
-    "value": 1419
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "frame-900937242",
-    "type": "price",
-    "from": 0.0028,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "hero-of-d-time",
-    "type": "minted",
-    "from": 1177,
-    "value": 1571
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "flower-boi-971799897",
-    "type": "minted",
-    "from": 1740,
-    "value": 1741
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "flower-boi-971799897",
-    "type": "price",
-    "from": 0.0,
-    "value": 0.006
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "homeboy-839113716",
-    "type": "minted",
-    "from": 671,
-    "value": 672
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "island-rob",
-    "type": "price",
-    "from": 0.0,
-    "value": 0.0033
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "crown-image",
-    "type": "minted",
-    "from": 836,
-    "value": 837
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "rlic-book",
-    "type": "minted",
-    "from": 772,
-    "value": 979
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "revolution-979997418",
-    "type": "minted",
-    "from": 2009,
-    "value": 2015
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "wolf-head",
-    "type": "minted",
-    "from": 880,
-    "value": 1092
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "magical-hammer",
-    "type": "minted",
-    "from": 238,
-    "value": 345
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
     "slug": "dollars-3705374",
     "type": "minted",
     "from": 378,
@@ -32896,6 +32735,153 @@
   {
     "at": "2026-10-08T02:54:06.286692+00:00",
     "slug": "facetsart",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-08T03:28:34.749084+00:00",
+    "slug": "testing-phase-860611051",
+    "type": "minted",
+    "from": 13318,
+    "value": 13328
+  },
+  {
+    "at": "2026-10-08T03:28:34.749084+00:00",
+    "slug": "under-cover",
+    "type": "minted",
+    "from": 347,
+    "value": 349
+  },
+  {
+    "at": "2026-10-08T03:28:34.749084+00:00",
+    "slug": "kingdom-349706552",
+    "type": "minted",
+    "from": 848,
+    "value": 866
+  },
+  {
+    "at": "2026-10-08T03:28:34.749084+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 1495,
+    "value": 1496
+  },
+  {
+    "at": "2026-10-08T03:28:34.749084+00:00",
+    "slug": "rh-orangs",
+    "type": "minted",
+    "from": 1497,
+    "value": 1501
+  },
+  {
+    "at": "2026-10-08T03:28:34.749084+00:00",
+    "slug": "robinhood-military-rm",
+    "type": "minted",
+    "from": 725,
+    "value": 726
+  },
+  {
+    "at": "2026-10-08T03:28:34.749084+00:00",
+    "slug": "mooniezworld",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-08T03:28:34.749084+00:00",
+    "slug": "lock-cube",
+    "type": "minted",
+    "from": 840,
+    "value": 841
+  },
+  {
+    "at": "2026-10-08T03:28:34.749084+00:00",
+    "slug": "bishop-p",
+    "type": "minted",
+    "from": 1223,
+    "value": 1225
+  },
+  {
+    "at": "2026-10-08T03:28:34.749084+00:00",
+    "slug": "badge-stonks",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-08T03:28:34.749084+00:00",
+    "slug": "robinhoodmisfits",
+    "type": "minted",
+    "from": 1000,
+    "value": 1002
+  },
+  {
+    "at": "2026-10-08T03:28:34.749084+00:00",
+    "slug": "kanes-bets",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-08T03:28:34.749084+00:00",
+    "slug": "pixeloz-catoz",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-08T03:28:34.749084+00:00",
+    "slug": "the-lil-wizards",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-08T03:28:34.749084+00:00",
+    "slug": "primal-apes-robinhood",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-08T03:28:34.749084+00:00",
+    "slug": "0xc21159f412c294ca2c38f2a9ecaaccf9d93ec929",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-08T03:28:34.749084+00:00",
+    "slug": "boymeetshood",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-08T03:28:34.749084+00:00",
+    "slug": "alterhood",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-08T03:28:34.749084+00:00",
+    "slug": "stray-cucks",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-08T03:28:34.749084+00:00",
+    "slug": "hood-lords-654442012",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-08T03:28:34.749084+00:00",
+    "slug": "staccs-robinhood-homecoming-collection",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-08T03:28:34.749084+00:00",
+    "slug": "dickynfts",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-08T03:28:34.749084+00:00",
+    "slug": "gta6-fan-collection",
     "type": "discovered",
     "value": "SOLD_OUT"
   }
