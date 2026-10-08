@@ -1,90 +1,6 @@
 [
   {
     "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "d2nobodies",
-    "type": "price",
-    "from": 0.000339541625929333,
-    "value": 0.000339588784488489
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "lpcg",
-    "type": "minted",
-    "from": 293,
-    "value": 295
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "water-horse",
-    "type": "minted",
-    "from": 1434,
-    "value": 1460
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "dragonly-379642838",
-    "type": "minted",
-    "from": 10,
-    "value": 11
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "mogera",
-    "type": "minted",
-    "from": 75,
-    "value": 76
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "old-luv",
-    "type": "minted",
-    "from": 160,
-    "value": 311
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "gold-tortoise",
-    "type": "minted",
-    "from": 159,
-    "value": 314
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "cartel-151268911",
-    "type": "minted",
-    "from": 400,
-    "value": 553
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "terminator-110134329",
-    "type": "minted",
-    "from": 444,
-    "value": 614
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "terminator-110134329",
-    "type": "price",
-    "from": 0.0007,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "shape-513992824",
-    "type": "minted",
-    "from": 465,
-    "value": 639
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
-    "slug": "shape-513992824",
-    "type": "price",
-    "from": 0.0032,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-04T02:16:11.374766+00:00",
     "slug": "egypt-crown",
     "type": "minted",
     "from": 508,
@@ -32906,6 +32822,80 @@
   {
     "at": "2026-10-08T02:25:53.244085+00:00",
     "slug": "musegod-muses",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-08T02:54:06.286692+00:00",
+    "slug": "testing-phase-860611051",
+    "type": "minted",
+    "from": 13308,
+    "value": 13318
+  },
+  {
+    "at": "2026-10-08T02:54:06.286692+00:00",
+    "slug": "lock-cube",
+    "type": "minted",
+    "from": 836,
+    "value": 840
+  },
+  {
+    "at": "2026-10-08T02:54:06.286692+00:00",
+    "slug": "spikesociety",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-08T02:54:06.286692+00:00",
+    "slug": "robinhoodmisfits",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-08T02:54:06.286692+00:00",
+    "slug": "nullhood-579230417",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-08T02:54:06.286692+00:00",
+    "slug": "rare-friends-genesis",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-08T02:54:06.286692+00:00",
+    "slug": "sight-genesis-826300567",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-08T02:54:06.286692+00:00",
+    "slug": "0xquit-operation-26448",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-08T02:54:06.286692+00:00",
+    "slug": "hoodbornx",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-08T02:54:06.286692+00:00",
+    "slug": "only-traits",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-08T02:54:06.286692+00:00",
+    "slug": "ugly-freaks",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-08T02:54:06.286692+00:00",
+    "slug": "facetsart",
     "type": "discovered",
     "value": "SOLD_OUT"
   }
