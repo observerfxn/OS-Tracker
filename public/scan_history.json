@@ -1,130 +1,5 @@
 [
   {
-    "at": "2026-10-05T16:55:40.865073+00:00",
-    "slug": "fatfunks",
-    "type": "price",
-    "from": 0.0,
-    "value": 0.0005
-  },
-  {
-    "at": "2026-10-05T16:55:40.865073+00:00",
-    "slug": "spikesociety",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-05T16:55:40.865073+00:00",
-    "slug": "wasteland-art",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-05T16:55:40.865073+00:00",
-    "slug": "thezorpians",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-05T16:55:40.865073+00:00",
-    "slug": "brosrh",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-05T16:55:40.865073+00:00",
-    "slug": "boymeetshood",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-05T16:55:40.865073+00:00",
-    "slug": "barbshood-rh",
-    "type": "status",
-    "from": "LIVE",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-05T16:55:40.865073+00:00",
-    "slug": "barbshood-rh",
-    "type": "minted",
-    "from": 247,
-    "value": 1111
-  },
-  {
-    "at": "2026-10-05T16:55:40.865073+00:00",
-    "slug": "barbshood-rh",
-    "type": "price",
-    "from": 0.0,
-    "value": null
-  },
-  {
-    "at": "2026-10-05T16:55:40.865073+00:00",
-    "slug": "gta6-fan-collection",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-05T17:27:23.511940+00:00",
-    "slug": "a-world-of-tiny-204384058",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-05T17:27:23.511940+00:00",
-    "slug": "allctcollection10",
-    "type": "minted",
-    "from": 710,
-    "value": 803
-  },
-  {
-    "at": "2026-10-05T17:27:23.511940+00:00",
-    "slug": "old-luv",
-    "type": "minted",
-    "from": 858,
-    "value": 859
-  },
-  {
-    "at": "2026-10-05T17:27:23.511940+00:00",
-    "slug": "claw-machine-01",
-    "type": "minted",
-    "from": 1446,
-    "value": 1478
-  },
-  {
-    "at": "2026-10-05T17:27:23.511940+00:00",
-    "slug": "wolf-head",
-    "type": "minted",
-    "from": 1610,
-    "value": 1611
-  },
-  {
-    "at": "2026-10-05T17:27:23.511940+00:00",
-    "slug": "x-men-583543404",
-    "type": "minted",
-    "from": 962,
-    "value": 966
-  },
-  {
-    "at": "2026-10-05T17:27:23.511940+00:00",
-    "slug": "genesis-bugz-210225955",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-05T17:27:23.511940+00:00",
-    "slug": "drip-dragons-548947525",
-    "type": "price",
-    "from": 0.0001,
-    "value": 0.0045
-  },
-  {
-    "at": "2026-10-05T17:27:23.511940+00:00",
-    "slug": "mouse-912590719",
-    "type": "minted",
-    "from": 1203,
-    "value": 1204
-  },
-  {
     "at": "2026-10-05T17:27:23.511940+00:00",
     "slug": "drip-heads-366996859",
     "type": "minted",
@@ -33007,5 +32882,127 @@
     "slug": "wasteland-art",
     "type": "discovered",
     "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-09T03:28:58.575427+00:00",
+    "slug": "slippyclub-hood",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-09T03:28:58.575427+00:00",
+    "slug": "slippyhood-club",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-09T03:28:58.575427+00:00",
+    "slug": "clock-in-617265550",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-09T03:28:58.575427+00:00",
+    "slug": "a-world-of-tiny-204384058",
+    "type": "minted",
+    "from": 1097,
+    "value": 1100
+  },
+  {
+    "at": "2026-10-09T03:28:58.575427+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 1601,
+    "value": 1603
+  },
+  {
+    "at": "2026-10-09T03:28:58.575427+00:00",
+    "slug": "hero-spiders",
+    "type": "minted",
+    "from": 689,
+    "value": 692
+  },
+  {
+    "at": "2026-10-09T03:28:58.575427+00:00",
+    "slug": "shed-happensss",
+    "type": "minted",
+    "from": 142,
+    "value": 464
+  },
+  {
+    "at": "2026-10-09T03:28:58.575427+00:00",
+    "slug": "shed-happensss",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.02
+  },
+  {
+    "at": "2026-10-09T03:28:58.575427+00:00",
+    "slug": "gokickrocks",
+    "type": "minted",
+    "from": 1677,
+    "value": 1679
+  },
+  {
+    "at": "2026-10-09T03:28:58.575427+00:00",
+    "slug": "pixeloz-catoz",
+    "type": "status",
+    "from": "LIVE",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-09T03:28:58.575427+00:00",
+    "slug": "pixeloz-catoz",
+    "type": "price",
+    "from": 5.5e-05,
+    "value": null
+  },
+  {
+    "at": "2026-10-09T03:28:58.575427+00:00",
+    "slug": "only-traits",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-09T03:28:58.575427+00:00",
+    "slug": "exit-founders",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-09T03:28:58.575427+00:00",
+    "slug": "frank-ashford",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-09T03:28:58.575427+00:00",
+    "slug": "cash-dogs-",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-09T03:28:58.575427+00:00",
+    "slug": "theapehood",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-09T03:28:58.575427+00:00",
+    "slug": "gremlin-cartel",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-09T03:28:58.575427+00:00",
+    "slug": "portable-slop-drive",
+    "type": "discovered",
+    "value": "ENDED"
+  },
+  {
+    "at": "2026-10-09T03:28:58.575427+00:00",
+    "slug": "project-robin",
+    "type": "discovered",
+    "value": "ENDED"
   }
 ]
