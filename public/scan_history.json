@@ -1,109 +1,6 @@
 [
   {
     "at": "2026-10-07T05:55:06.251703+00:00",
-    "slug": "lock-cube",
-    "type": "minted",
-    "from": 375,
-    "value": 376
-  },
-  {
-    "at": "2026-10-07T05:55:06.251703+00:00",
-    "slug": "terminal-near",
-    "type": "minted",
-    "from": 181,
-    "value": 233
-  },
-  {
-    "at": "2026-10-07T05:55:06.251703+00:00",
-    "slug": "terminal-near",
-    "type": "price",
-    "from": 0.0033,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-07T05:55:06.251703+00:00",
-    "slug": "overclock-city",
-    "type": "minted",
-    "from": 6971,
-    "value": 6976
-  },
-  {
-    "at": "2026-10-07T05:55:06.251703+00:00",
-    "slug": "hypest-779273854",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-07T05:55:06.251703+00:00",
-    "slug": "hypest-779273854",
-    "type": "minted",
-    "from": 0,
-    "value": 587
-  },
-  {
-    "at": "2026-10-07T05:55:06.251703+00:00",
-    "slug": "hypest-779273854",
-    "type": "price",
-    "from": null,
-    "value": 0.02
-  },
-  {
-    "at": "2026-10-07T05:55:06.251703+00:00",
-    "slug": "blnk-nft-333113507",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-07T05:55:06.251703+00:00",
-    "slug": "blacktide-bounty-chests",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-07T05:55:06.251703+00:00",
-    "slug": "founders-died",
-    "type": "minted",
-    "from": 5421,
-    "value": 7767
-  },
-  {
-    "at": "2026-10-07T05:55:06.251703+00:00",
-    "slug": "founders-died",
-    "type": "price",
-    "from": 1.85e-05,
-    "value": 5.6788e-06
-  },
-  {
-    "at": "2026-10-07T05:55:06.251703+00:00",
-    "slug": "ccff00-triangle",
-    "type": "minted",
-    "from": 61,
-    "value": 75
-  },
-  {
-    "at": "2026-10-07T05:55:06.251703+00:00",
-    "slug": "concordian-brokers",
-    "type": "minted",
-    "from": 743,
-    "value": 745
-  },
-  {
-    "at": "2026-10-07T05:55:06.251703+00:00",
-    "slug": "hungry-apes",
-    "type": "minted",
-    "from": 44,
-    "value": 47
-  },
-  {
-    "at": "2026-10-07T05:55:06.251703+00:00",
-    "slug": "circular-hood",
-    "type": "minted",
-    "from": 60,
-    "value": 61
-  },
-  {
-    "at": "2026-10-07T05:55:06.251703+00:00",
     "slug": "boochi",
     "type": "discovered",
     "value": "LIVE"
@@ -32829,6 +32726,104 @@
   {
     "at": "2026-10-10T23:24:45.931644+00:00",
     "slug": "gta6-fan-collection",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-10T23:52:49.966602+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 1733,
+    "value": 1734
+  },
+  {
+    "at": "2026-10-10T23:52:49.966602+00:00",
+    "slug": "lime-hood-punk",
+    "type": "minted",
+    "from": 1982,
+    "value": 2002
+  },
+  {
+    "at": "2026-10-10T23:52:49.966602+00:00",
+    "slug": "mooniezworld",
+    "type": "minted",
+    "from": 1657,
+    "value": 1665
+  },
+  {
+    "at": "2026-10-10T23:52:49.966602+00:00",
+    "slug": "0xe14e6e6789ea3313440c0a9aad54ba31bf956a6c",
+    "type": "minted",
+    "from": 33,
+    "value": 34
+  },
+  {
+    "at": "2026-10-10T23:52:49.966602+00:00",
+    "slug": "dreamersxyz",
+    "type": "minted",
+    "from": 355,
+    "value": 360
+  },
+  {
+    "at": "2026-10-10T23:52:49.966602+00:00",
+    "slug": "jelly-krazers",
+    "type": "minted",
+    "from": 133,
+    "value": 186
+  },
+  {
+    "at": "2026-10-10T23:52:49.966602+00:00",
+    "slug": "astral-lotus",
+    "type": "minted",
+    "from": 104,
+    "value": 116
+  },
+  {
+    "at": "2026-10-10T23:52:49.966602+00:00",
+    "slug": "hoojafun",
+    "type": "minted",
+    "from": 324,
+    "value": 982
+  },
+  {
+    "at": "2026-10-10T23:52:49.966602+00:00",
+    "slug": "trench-chimps",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-10T23:52:49.966602+00:00",
+    "slug": "monkeyhoodnfts",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-10T23:52:49.966602+00:00",
+    "slug": "wasteland-art",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-10T23:52:49.966602+00:00",
+    "slug": "cityofstonks",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-10T23:52:49.966602+00:00",
+    "slug": "primal-apes-robinhood",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-10T23:52:49.966602+00:00",
+    "slug": "opencatz-by-dizcorvus",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-10T23:52:49.966602+00:00",
+    "slug": "hood-claude-punks",
     "type": "discovered",
     "value": "SOLD_OUT"
   }
