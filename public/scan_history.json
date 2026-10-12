@@ -1,124 +1,6 @@
 [
   {
     "at": "2026-10-08T13:32:30.889353+00:00",
-    "slug": "lock-cube",
-    "type": "minted",
-    "from": 1258,
-    "value": 1310
-  },
-  {
-    "at": "2026-10-08T13:32:30.889353+00:00",
-    "slug": "bishop-p",
-    "type": "minted",
-    "from": 1541,
-    "value": 1573
-  },
-  {
-    "at": "2026-10-08T13:32:30.889353+00:00",
-    "slug": "stonkclay-butcher",
-    "type": "minted",
-    "from": 327,
-    "value": 358
-  },
-  {
-    "at": "2026-10-08T13:32:30.889353+00:00",
-    "slug": "rhdoges",
-    "type": "minted",
-    "from": 2656,
-    "value": 2709
-  },
-  {
-    "at": "2026-10-08T13:32:30.889353+00:00",
-    "slug": "blacktide-stormbound-fleet",
-    "type": "minted",
-    "from": 952,
-    "value": 984
-  },
-  {
-    "at": "2026-10-08T13:32:30.889353+00:00",
-    "slug": "blacktide-stormbound-fleet",
-    "type": "price",
-    "from": 0.019,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-08T13:32:30.889353+00:00",
-    "slug": "offthug",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-08T13:32:30.889353+00:00",
-    "slug": "offthug",
-    "type": "minted",
-    "from": 62,
-    "value": 97
-  },
-  {
-    "at": "2026-10-08T13:32:30.889353+00:00",
-    "slug": "offthug",
-    "type": "price",
-    "from": null,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-08T13:32:30.889353+00:00",
-    "slug": "street-born-634001704",
-    "type": "minted",
-    "from": 274,
-    "value": 10650
-  },
-  {
-    "at": "2026-10-08T13:32:30.889353+00:00",
-    "slug": "street-born-634001704",
-    "type": "price",
-    "from": 1.184e-05,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-08T13:32:30.889353+00:00",
-    "slug": "rektobear",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-08T13:32:30.889353+00:00",
-    "slug": "rektobear",
-    "type": "minted",
-    "from": 0,
-    "value": 689
-  },
-  {
-    "at": "2026-10-08T13:32:30.889353+00:00",
-    "slug": "rektobear",
-    "type": "price",
-    "from": null,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-08T13:32:30.889353+00:00",
-    "slug": "claus-on-the-hood-799901410",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-08T13:32:30.889353+00:00",
-    "slug": "clay-nosaurs",
-    "type": "minted",
-    "from": 90,
-    "value": 134
-  },
-  {
-    "at": "2026-10-08T13:32:30.889353+00:00",
-    "slug": "clay-nosaurs",
-    "type": "price",
-    "from": 0.0,
-    "value": 0.00035
-  },
-  {
-    "at": "2026-10-08T13:32:30.889353+00:00",
     "slug": "hoodpals-pandy",
     "type": "discovered",
     "value": "UPCOMING"
@@ -32828,6 +32710,119 @@
   {
     "at": "2026-10-12T09:59:25.531405+00:00",
     "slug": "stray-cucks",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-12T10:31:51.020111+00:00",
+    "slug": "jackethugang",
+    "type": "minted",
+    "from": 7324,
+    "value": 7325
+  },
+  {
+    "at": "2026-10-12T10:31:51.020111+00:00",
+    "slug": "lime-hood-punk",
+    "type": "minted",
+    "from": 2310,
+    "value": 2315
+  },
+  {
+    "at": "2026-10-12T10:31:51.020111+00:00",
+    "slug": "slot-machines-rh",
+    "type": "minted",
+    "from": 3094,
+    "value": 3102
+  },
+  {
+    "at": "2026-10-12T10:31:51.020111+00:00",
+    "slug": "pixel-chibi-crew",
+    "type": "status",
+    "from": "UPCOMING",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-12T10:31:51.020111+00:00",
+    "slug": "pixel-chibi-crew",
+    "type": "minted",
+    "from": 1521,
+    "value": 3111
+  },
+  {
+    "at": "2026-10-12T10:31:51.020111+00:00",
+    "slug": "pixel-chibi-crew",
+    "type": "price",
+    "from": null,
+    "value": 7.8e-06
+  },
+  {
+    "at": "2026-10-12T10:31:51.020111+00:00",
+    "slug": "nextravex",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-12T10:31:51.020111+00:00",
+    "slug": "horsehood-rh",
+    "type": "minted",
+    "from": 67,
+    "value": 68
+  },
+  {
+    "at": "2026-10-12T10:31:51.020111+00:00",
+    "slug": "pixytheory",
+    "type": "minted",
+    "from": 118,
+    "value": 125
+  },
+  {
+    "at": "2026-10-12T10:31:51.020111+00:00",
+    "slug": "sedan-villains",
+    "type": "minted",
+    "from": 250,
+    "value": 253
+  },
+  {
+    "at": "2026-10-12T10:31:51.020111+00:00",
+    "slug": "dreamersxyz",
+    "type": "minted",
+    "from": 880,
+    "value": 881
+  },
+  {
+    "at": "2026-10-12T10:31:51.020111+00:00",
+    "slug": "stpepe",
+    "type": "minted",
+    "from": 172,
+    "value": 175
+  },
+  {
+    "at": "2026-10-12T10:31:51.020111+00:00",
+    "slug": "stray-cars",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-12T10:31:51.020111+00:00",
+    "slug": "sight-genesis-826300567",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-12T10:31:51.020111+00:00",
+    "slug": "mintlatch",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-12T10:31:51.020111+00:00",
+    "slug": "pixelhoodminis",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-12T10:31:51.020111+00:00",
+    "slug": "xlords-hero-genesis",
     "type": "discovered",
     "value": "SOLD_OUT"
   }
