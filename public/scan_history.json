@@ -1,101 +1,6 @@
 [
   {
     "at": "2026-10-08T10:30:43.611820+00:00",
-    "slug": "peepee-188852132",
-    "type": "price",
-    "from": null,
-    "value": 9e-05
-  },
-  {
-    "at": "2026-10-08T10:30:43.611820+00:00",
-    "slug": "semivivus",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-08T10:30:43.611820+00:00",
-    "slug": "robinhoodmisfits",
-    "type": "minted",
-    "from": 1084,
-    "value": 1086
-  },
-  {
-    "at": "2026-10-08T10:30:43.611820+00:00",
-    "slug": "osfcfs-test-drop",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-08T10:30:43.611820+00:00",
-    "slug": "osfcfs-test-drop",
-    "type": "minted",
-    "from": 0,
-    "value": 6
-  },
-  {
-    "at": "2026-10-08T10:30:43.611820+00:00",
-    "slug": "osfcfs-test-drop",
-    "type": "price",
-    "from": null,
-    "value": 5e-06
-  },
-  {
-    "at": "2026-10-08T10:30:43.611820+00:00",
-    "slug": "cave-mounts-mainnet-test-admin-v2",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-08T10:30:43.611820+00:00",
-    "slug": "hakobushi",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-08T10:30:43.611820+00:00",
-    "slug": "primal-apes-robinhood",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-08T10:30:43.611820+00:00",
-    "slug": "only-traits",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-08T10:30:43.611820+00:00",
-    "slug": "arklis-dot-app-robinhood-collection",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-08T10:30:43.611820+00:00",
-    "slug": "yoodles-reborn",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-08T10:30:43.611820+00:00",
-    "slug": "pixelhoodminis",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-08T10:30:43.611820+00:00",
-    "slug": "kageuri-official",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-08T10:30:43.611820+00:00",
-    "slug": "hoodminers-rh",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-08T10:30:43.611820+00:00",
     "slug": "portable-slop-drive",
     "type": "discovered",
     "value": "ENDED"
@@ -32847,5 +32752,103 @@
     "type": "price",
     "from": 0.0,
     "value": null
+  },
+  {
+    "at": "2026-10-12T07:33:55.205278+00:00",
+    "slug": "hazro-test3",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-12T07:33:55.205278+00:00",
+    "slug": "jackethugang",
+    "type": "minted",
+    "from": 4964,
+    "value": 5584
+  },
+  {
+    "at": "2026-10-12T07:33:55.205278+00:00",
+    "slug": "lime-hood-punk",
+    "type": "minted",
+    "from": 2294,
+    "value": 2296
+  },
+  {
+    "at": "2026-10-12T07:33:55.205278+00:00",
+    "slug": "gms-official-collection",
+    "type": "minted",
+    "from": 2262,
+    "value": 2822
+  },
+  {
+    "at": "2026-10-12T07:33:55.205278+00:00",
+    "slug": "slot-machines-rh",
+    "type": "minted",
+    "from": 2895,
+    "value": 2953
+  },
+  {
+    "at": "2026-10-12T07:33:55.205278+00:00",
+    "slug": "cool-cow3",
+    "type": "minted",
+    "from": 132,
+    "value": 133
+  },
+  {
+    "at": "2026-10-12T07:33:55.205278+00:00",
+    "slug": "artwork-120769276",
+    "type": "minted",
+    "from": 532,
+    "value": 533
+  },
+  {
+    "at": "2026-10-12T07:33:55.205278+00:00",
+    "slug": "nextravex",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-12T07:33:55.205278+00:00",
+    "slug": "degenrioos",
+    "type": "minted",
+    "from": 6,
+    "value": 124
+  },
+  {
+    "at": "2026-10-12T07:33:55.205278+00:00",
+    "slug": "hoodsnarks",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-12T07:33:55.205278+00:00",
+    "slug": "dreamersxyz",
+    "type": "minted",
+    "from": 863,
+    "value": 868
+  },
+  {
+    "at": "2026-10-12T07:33:55.205278+00:00",
+    "slug": "hood-survivors-68",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-12T07:33:55.205278+00:00",
+    "slug": "punk-phicolu",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-12T07:33:55.205278+00:00",
+    "slug": "oddlings-lost-signals",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-12T07:33:55.205278+00:00",
+    "slug": "pepemfersnft",
+    "type": "discovered",
+    "value": "SOLD_OUT"
   }
 ]
