@@ -1,113 +1,6 @@
 [
   {
     "at": "2026-10-09T10:30:20.719258+00:00",
-    "slug": "yuku-bike",
-    "type": "price",
-    "from": 0.003,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-09T10:30:20.719258+00:00",
-    "slug": "real-hood-people-890306909",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-09T10:30:20.719258+00:00",
-    "slug": "lost-otters-714472418",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-09T10:30:20.719258+00:00",
-    "slug": "lilbuds-472434103",
-    "type": "minted",
-    "from": 152,
-    "value": 212
-  },
-  {
-    "at": "2026-10-09T10:30:20.719258+00:00",
-    "slug": "lilbuds-472434103",
-    "type": "price",
-    "from": 0.0,
-    "value": 0.0008
-  },
-  {
-    "at": "2026-10-09T10:30:20.719258+00:00",
-    "slug": "oddbits-punk",
-    "type": "minted",
-    "from": 425,
-    "value": 430
-  },
-  {
-    "at": "2026-10-09T10:30:20.719258+00:00",
-    "slug": "chillguyz",
-    "type": "minted",
-    "from": 3128,
-    "value": 3130
-  },
-  {
-    "at": "2026-10-09T10:30:20.719258+00:00",
-    "slug": "illusion_rh",
-    "type": "minted",
-    "from": 278,
-    "value": 279
-  },
-  {
-    "at": "2026-10-09T10:30:20.719258+00:00",
-    "slug": "project-x-legends",
-    "type": "minted",
-    "from": 5659,
-    "value": 6972
-  },
-  {
-    "at": "2026-10-09T10:30:20.719258+00:00",
-    "slug": "project-x-legends",
-    "type": "supply",
-    "from": 7777,
-    "value": 7575
-  },
-  {
-    "at": "2026-10-09T10:30:20.719258+00:00",
-    "slug": "blacktide-stormbound-fleet",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-09T10:30:20.719258+00:00",
-    "slug": "blacktide-letters-from-the-deep",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-09T10:30:20.719258+00:00",
-    "slug": "zygnal-dungeons",
-    "type": "status",
-    "from": "LIVE",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-09T10:30:20.719258+00:00",
-    "slug": "zygnal-dungeons",
-    "type": "minted",
-    "from": 900,
-    "value": 904
-  },
-  {
-    "at": "2026-10-09T10:30:20.719258+00:00",
-    "slug": "zygnal-dungeons",
-    "type": "price",
-    "from": 4e-05,
-    "value": null
-  },
-  {
-    "at": "2026-10-09T10:30:20.719258+00:00",
-    "slug": "robiots",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-09T10:30:20.719258+00:00",
     "slug": "claystonkz",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32715,5 +32608,106 @@
     "slug": "jeanphil-nft",
     "type": "discovered",
     "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-13T07:59:57.006562+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 1843,
+    "value": 1844
+  },
+  {
+    "at": "2026-10-13T07:59:57.006562+00:00",
+    "slug": "moskin-182135196",
+    "type": "minted",
+    "from": 3080,
+    "value": 3081
+  },
+  {
+    "at": "2026-10-13T07:59:57.006562+00:00",
+    "slug": "0xeccf9302273f7e783a241cae60d0e1389a8d3e98",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-13T07:59:57.006562+00:00",
+    "slug": "mooniezworld",
+    "type": "minted",
+    "from": 1786,
+    "value": 1788
+  },
+  {
+    "at": "2026-10-13T07:59:57.006562+00:00",
+    "slug": "stonkdurag-workers",
+    "type": "minted",
+    "from": 2126,
+    "value": 2136
+  },
+  {
+    "at": "2026-10-13T07:59:57.006562+00:00",
+    "slug": "pixelated-apes",
+    "type": "minted",
+    "from": 798,
+    "value": 799
+  },
+  {
+    "at": "2026-10-13T07:59:57.006562+00:00",
+    "slug": "macarune",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-13T07:59:57.006562+00:00",
+    "slug": "ugly-freaks",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-13T07:59:57.006562+00:00",
+    "slug": "goatgangrh",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-13T07:59:57.006562+00:00",
+    "slug": "wif-outlaws",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-13T07:59:57.006562+00:00",
+    "slug": "halo-nodes",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-13T07:59:57.006562+00:00",
+    "slug": "piggy-banks-nfts",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-13T07:59:57.006562+00:00",
+    "slug": "internetmonkes",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-13T07:59:57.006562+00:00",
+    "slug": "monkeyhoodnfts",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-13T07:59:57.006562+00:00",
+    "slug": "portable-slop-drive",
+    "type": "discovered",
+    "value": "ENDED"
+  },
+  {
+    "at": "2026-10-13T07:59:57.006562+00:00",
+    "slug": "st-waggles",
+    "type": "discovered",
+    "value": "ENDED"
   }
 ]
