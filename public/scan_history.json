@@ -1,91 +1,6 @@
 [
   {
     "at": "2026-10-10T00:38:31.320661+00:00",
-    "slug": "arklis-rh",
-    "type": "minted",
-    "from": 3,
-    "value": 4
-  },
-  {
-    "at": "2026-10-10T00:38:31.320661+00:00",
-    "slug": "guardians-relaunching-133468723",
-    "type": "minted",
-    "from": 35,
-    "value": 36
-  },
-  {
-    "at": "2026-10-10T00:38:31.320661+00:00",
-    "slug": "lilbudsrh",
-    "type": "minted",
-    "from": 765,
-    "value": 767
-  },
-  {
-    "at": "2026-10-10T00:38:31.320661+00:00",
-    "slug": "mineland-rh",
-    "type": "minted",
-    "from": 50,
-    "value": 140
-  },
-  {
-    "at": "2026-10-10T00:38:31.320661+00:00",
-    "slug": "nullhood-579230417",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-10T00:38:31.320661+00:00",
-    "slug": "orange-circle-jerks",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-10T00:38:31.320661+00:00",
-    "slug": "thezorpians",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-10T00:38:31.320661+00:00",
-    "slug": "crypto-ape-941985387",
-    "type": "status",
-    "from": "LIVE",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-10T00:38:31.320661+00:00",
-    "slug": "crypto-ape-941985387",
-    "type": "minted",
-    "from": 75,
-    "value": 1222
-  },
-  {
-    "at": "2026-10-10T00:38:31.320661+00:00",
-    "slug": "crypto-ape-941985387",
-    "type": "price",
-    "from": 1e-05,
-    "value": null
-  },
-  {
-    "at": "2026-10-10T00:38:31.320661+00:00",
-    "slug": "staccs-robinhood-homecoming-collection",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-10T00:38:31.320661+00:00",
-    "slug": "seeker-net",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-10T00:38:31.320661+00:00",
-    "slug": "wasteland-art",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-10T00:38:31.320661+00:00",
     "slug": "stray-cucks",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32606,5 +32521,87 @@
     "slug": "0x22e75409ada54cd6a07bca2d4e21586444943bac",
     "type": "discovered",
     "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-13T23:35:54.526643+00:00",
+    "slug": "rock-64553224",
+    "type": "minted",
+    "from": 9509,
+    "value": 9511
+  },
+  {
+    "at": "2026-10-13T23:35:54.526643+00:00",
+    "slug": "dotz-803014005",
+    "type": "minted",
+    "from": 14213,
+    "value": 14713
+  },
+  {
+    "at": "2026-10-13T23:35:54.526643+00:00",
+    "slug": "jackethugang",
+    "type": "minted",
+    "from": 15224,
+    "value": 15684
+  },
+  {
+    "at": "2026-10-13T23:35:54.526643+00:00",
+    "slug": "yanka-mo",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-13T23:35:54.526643+00:00",
+    "slug": "0x63a8be28f6541c48b04120922b60c489ff027caa",
+    "type": "minted",
+    "from": 2833,
+    "value": 2966
+  },
+  {
+    "at": "2026-10-13T23:35:54.526643+00:00",
+    "slug": "0xe14e6e6789ea3313440c0a9aad54ba31bf956a6c",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-13T23:35:54.526643+00:00",
+    "slug": "ghost-46810074",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-13T23:35:54.526643+00:00",
+    "slug": "vaultlingss",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-13T23:35:54.526643+00:00",
+    "slug": "derekmercer",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-13T23:35:54.526643+00:00",
+    "slug": "thezorpians",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-13T23:35:54.526643+00:00",
+    "slug": "jeanphil-nft",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-13T23:35:54.526643+00:00",
+    "slug": "im-weird",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-13T23:35:54.526643+00:00",
+    "slug": "mooniezworld",
+    "type": "discovered",
+    "value": "ENDED"
   }
 ]
