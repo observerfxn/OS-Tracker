@@ -1,72 +1,5 @@
 [
   {
-    "at": "2026-10-09T07:02:04.448169+00:00",
-    "slug": "goonrs",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-09T07:02:04.448169+00:00",
-    "slug": "projectshiesty",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-09T07:02:04.448169+00:00",
-    "slug": "vampsonchain",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-09T07:02:04.448169+00:00",
-    "slug": "rare-friends-genesis",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-09T07:02:04.448169+00:00",
-    "slug": "gta6-fan-collection",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-09T07:02:04.448169+00:00",
-    "slug": "facetsart",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-09T07:30:37.226863+00:00",
-    "slug": "backpunks-hood-444297508",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-09T07:30:37.226863+00:00",
-    "slug": "chillguyz",
-    "type": "minted",
-    "from": 3098,
-    "value": 3101
-  },
-  {
-    "at": "2026-10-09T07:30:37.226863+00:00",
-    "slug": "101-days",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-09T07:30:37.226863+00:00",
-    "slug": "zygnal-dungeons",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-09T07:30:37.226863+00:00",
-    "slug": "ruggy-penguins",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
     "at": "2026-10-09T07:30:37.226863+00:00",
     "slug": "cityofstonks",
     "type": "discovered",
@@ -32720,5 +32653,76 @@
     "slug": "sight-genesis-826300567",
     "type": "discovered",
     "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-13T03:58:06.948719+00:00",
+    "slug": "0x1e6acaf1dd36ae025f77df69a9dfa13537c33dad",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-13T03:58:06.948719+00:00",
+    "slug": "meowtosis-448629831",
+    "type": "status",
+    "from": "UPCOMING",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-13T03:58:06.948719+00:00",
+    "slug": "meowtosis-448629831",
+    "type": "minted",
+    "from": 0,
+    "value": 210
+  },
+  {
+    "at": "2026-10-13T03:58:06.948719+00:00",
+    "slug": "meowtosis-448629831",
+    "type": "price",
+    "from": null,
+    "value": 0.006
+  },
+  {
+    "at": "2026-10-13T03:58:06.948719+00:00",
+    "slug": "mining-brokers",
+    "type": "minted",
+    "from": 46,
+    "value": 3546
+  },
+  {
+    "at": "2026-10-13T03:58:06.948719+00:00",
+    "slug": "astral-lotus",
+    "type": "minted",
+    "from": 184,
+    "value": 188
+  },
+  {
+    "at": "2026-10-13T03:58:06.948719+00:00",
+    "slug": "the-lil-wizards",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-13T03:58:06.948719+00:00",
+    "slug": "rcpts",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-13T03:58:06.948719+00:00",
+    "slug": "kageuri-official",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-13T03:58:06.948719+00:00",
+    "slug": "gremlin-cartel",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-13T03:58:06.948719+00:00",
+    "slug": "portable-slop-drive",
+    "type": "discovered",
+    "value": "ENDED"
   }
 ]
