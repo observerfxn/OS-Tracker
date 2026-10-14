@@ -1,177 +1,5 @@
 [
   {
-    "at": "2026-10-10T03:55:03.449438+00:00",
-    "slug": "illusion_rh",
-    "type": "minted",
-    "from": 322,
-    "value": 323
-  },
-  {
-    "at": "2026-10-10T03:55:03.449438+00:00",
-    "slug": "pawzuki",
-    "type": "status",
-    "from": "LIVE",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-10T03:55:03.449438+00:00",
-    "slug": "pawzuki",
-    "type": "minted",
-    "from": 3,
-    "value": 5
-  },
-  {
-    "at": "2026-10-10T03:55:03.449438+00:00",
-    "slug": "pawzuki",
-    "type": "price",
-    "from": 0.0,
-    "value": null
-  },
-  {
-    "at": "2026-10-10T03:55:03.449438+00:00",
-    "slug": "claude5555",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-10T03:55:03.449438+00:00",
-    "slug": "yield-farm",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-10T03:55:03.449438+00:00",
-    "slug": "thezorpians",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-10T03:55:03.449438+00:00",
-    "slug": "pixelhoodminis",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-10T03:55:03.449438+00:00",
-    "slug": "supremes",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-10T03:55:03.449438+00:00",
-    "slug": "sloppies-424576658",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-10T03:55:03.449438+00:00",
-    "slug": "alterhood",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-10T03:55:03.449438+00:00",
-    "slug": "portable-slop-drive",
-    "type": "discovered",
-    "value": "ENDED"
-  },
-  {
-    "at": "2026-10-10T04:55:43.681076+00:00",
-    "slug": "cat-boot",
-    "type": "minted",
-    "from": 1004,
-    "value": 1005
-  },
-  {
-    "at": "2026-10-10T04:55:43.681076+00:00",
-    "slug": "ccff00-circle",
-    "type": "minted",
-    "from": 1700,
-    "value": 1704
-  },
-  {
-    "at": "2026-10-10T04:55:43.681076+00:00",
-    "slug": "jong-test",
-    "type": "minted",
-    "from": 2538,
-    "value": 2544
-  },
-  {
-    "at": "2026-10-10T04:55:43.681076+00:00",
-    "slug": "royal-octopus-384207971",
-    "type": "minted",
-    "from": 70,
-    "value": 72
-  },
-  {
-    "at": "2026-10-10T04:55:43.681076+00:00",
-    "slug": "king-nft-763083150",
-    "type": "minted",
-    "from": 302,
-    "value": 324
-  },
-  {
-    "at": "2026-10-10T04:55:43.681076+00:00",
-    "slug": "mooniezworld",
-    "type": "minted",
-    "from": 1601,
-    "value": 1602
-  },
-  {
-    "at": "2026-10-10T04:55:43.681076+00:00",
-    "slug": "backpunks-hood-444297508",
-    "type": "minted",
-    "from": 6336,
-    "value": 6445
-  },
-  {
-    "at": "2026-10-10T04:55:43.681076+00:00",
-    "slug": "backpunks-hood-444297508",
-    "type": "price",
-    "from": 0.0,
-    "value": 1e-05
-  },
-  {
-    "at": "2026-10-10T04:55:43.681076+00:00",
-    "slug": "golden-629953498",
-    "type": "minted",
-    "from": 2181,
-    "value": 2183
-  },
-  {
-    "at": "2026-10-10T04:55:43.681076+00:00",
-    "slug": "ossen-genesis",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-10T04:55:43.681076+00:00",
-    "slug": "oddbits-punk",
-    "type": "minted",
-    "from": 466,
-    "value": 469
-  },
-  {
-    "at": "2026-10-10T04:55:43.681076+00:00",
-    "slug": "wildhood-exclusive-pass-846059011",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-10T04:55:43.681076+00:00",
-    "slug": "pixel-power-generators",
-    "type": "minted",
-    "from": 1190,
-    "value": 1945
-  },
-  {
-    "at": "2026-10-10T04:55:43.681076+00:00",
-    "slug": "zygnal-dungeons",
-    "type": "minted",
-    "from": 3931,
-    "value": 3970
-  },
-  {
     "at": "2026-10-10T04:55:43.681076+00:00",
     "slug": "zygnal-dungeons",
     "type": "supply",
@@ -32561,6 +32389,171 @@
   {
     "at": "2026-10-14T03:39:28.174434+00:00",
     "slug": "urchin-frens",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "dotz-803014005",
+    "type": "minted",
+    "from": 15051,
+    "value": 17115
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "dots9-ccff00",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 1903,
+    "value": 1971
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "billionaire-child",
+    "type": "minted",
+    "from": 347,
+    "value": 353
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "-892907335",
+    "type": "price",
+    "from": 1e-06,
+    "value": 0.015
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "-255258116",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "hood-monarchs",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "tiny-birds-548189615",
+    "type": "status",
+    "from": "UPCOMING",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "tiny-birds-548189615",
+    "type": "minted",
+    "from": 143,
+    "value": 179
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "tiny-birds-548189615",
+    "type": "price",
+    "from": null,
+    "value": 2e-05
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "hoodlords-nft-850007023",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "hoodlords-nft",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "gremlin-cartel",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "goatgangrh",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "claystonkz",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "rcpts",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "for-the-birds-rh",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "pixelhoodminis",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "primal-apes-robinhood",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "kageuri-official",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "yoodles-reborn",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "i-the-boy-ii",
+    "type": "status",
+    "from": "UPCOMING",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "i-the-boy-ii",
+    "type": "minted",
+    "from": 0,
+    "value": 500
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "facetsart",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "rare-friends-genesis",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-14T04:10:32.473228+00:00",
+    "slug": "gta6-fan-collection",
     "type": "discovered",
     "value": "SOLD_OUT"
   }
