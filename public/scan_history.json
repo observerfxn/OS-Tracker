@@ -1,264 +1,5 @@
 [
   {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "0x9958b4bcc0045fb1ce997a1e56d72bd1367c8f27",
-    "type": "price",
-    "from": 5e-06,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "artwork-120769276",
-    "type": "minted",
-    "from": 526,
-    "value": 530
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "planet-bot",
-    "type": "minted",
-    "from": 1015,
-    "value": 1018
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "rejects-city",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "papr-sol",
-    "type": "minted",
-    "from": 1681,
-    "value": 1711
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "claude-apes-759838985",
-    "type": "minted",
-    "from": 138,
-    "value": 139
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "lee-squads",
-    "type": "minted",
-    "from": 16,
-    "value": 23
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "lee-squads",
-    "type": "price",
-    "from": 0.0,
-    "value": 0.001
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "nft-hunters-654620434",
-    "type": "minted",
-    "from": 594,
-    "value": 601
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "dynamo-cats",
-    "type": "minted",
-    "from": 76,
-    "value": 533
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "dynamo-cats",
-    "type": "price",
-    "from": 0.0,
-    "value": 0.0001
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "dreamersxyz",
-    "type": "minted",
-    "from": 733,
-    "value": 739
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "the-squad-785379486",
-    "type": "minted",
-    "from": 1848,
-    "value": 1853
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "hood-penguins",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "hood-penguins",
-    "type": "price",
-    "from": null,
-    "value": 0.0005
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "rh-turtles",
-    "type": "minted",
-    "from": 949,
-    "value": 950
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "nextravex",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "hard-currency",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "foolishlybald",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "wildhood-546890679",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "maskuza-65624052",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "the-3333-experiments",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "gremlin-cartel",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "kid-story-760618637",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "projectshiesty",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "staccs-robinhood-homecoming-collection",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "0xc180f7bb3a73edad6d30cf22813f2eba0ff3042d",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-11T21:26:51.807730+00:00",
-    "slug": "primal-punks-rh",
-    "type": "discovered",
-    "value": "ENDED"
-  },
-  {
-    "at": "2026-10-11T21:54:20.547915+00:00",
-    "slug": "woman-cat-387358326",
-    "type": "minted",
-    "from": 1226,
-    "value": 1227
-  },
-  {
-    "at": "2026-10-11T21:54:20.547915+00:00",
-    "slug": "slot-machines-rh",
-    "type": "minted",
-    "from": 193,
-    "value": 275
-  },
-  {
-    "at": "2026-10-11T21:54:20.547915+00:00",
-    "slug": "cute-aliens-338959989",
-    "type": "minted",
-    "from": 356,
-    "value": 377
-  },
-  {
-    "at": "2026-10-11T21:54:20.547915+00:00",
-    "slug": "unseen-vampires",
-    "type": "minted",
-    "from": 325,
-    "value": 443
-  },
-  {
-    "at": "2026-10-11T21:54:20.547915+00:00",
-    "slug": "eth-dogs-288778724",
-    "type": "minted",
-    "from": 1095,
-    "value": 1096
-  },
-  {
-    "at": "2026-10-11T21:54:20.547915+00:00",
-    "slug": "status-warrior",
-    "type": "minted",
-    "from": 1582,
-    "value": 1583
-  },
-  {
-    "at": "2026-10-11T21:54:20.547915+00:00",
-    "slug": "ccff00-circle",
-    "type": "minted",
-    "from": 1777,
-    "value": 1779
-  },
-  {
-    "at": "2026-10-11T21:54:20.547915+00:00",
-    "slug": "pc-genesis-770482228",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-11T21:54:20.547915+00:00",
-    "slug": "cool-cow3",
-    "type": "minted",
-    "from": 129,
-    "value": 131
-  },
-  {
-    "at": "2026-10-11T21:54:20.547915+00:00",
-    "slug": "action-frogs",
-    "type": "minted",
-    "from": 1297,
-    "value": 1298
-  },
-  {
-    "at": "2026-10-11T21:54:20.547915+00:00",
-    "slug": "cat-of-war",
-    "type": "minted",
-    "from": 536,
-    "value": 556
-  },
-  {
     "at": "2026-10-11T21:54:20.547915+00:00",
     "slug": "0x9958b4bcc0045fb1ce997a1e56d72bd1367c8f27",
     "type": "minted",
@@ -32394,6 +32135,261 @@
   {
     "at": "2026-10-15T23:58:27.641083+00:00",
     "slug": "gta6-fan-collection",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "axii-777559558",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "sixss",
+    "type": "status",
+    "from": "UPCOMING",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "sixss",
+    "type": "minted",
+    "from": 150,
+    "value": 927
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "sixss",
+    "type": "price",
+    "from": null,
+    "value": 0.0
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "0x686cd2c08ed188b1a32423f71612d7fdc59adc7c",
+    "type": "minted",
+    "from": 2484,
+    "value": 2487
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "keysnfts",
+    "type": "minted",
+    "from": 223,
+    "value": 267
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "bakerup",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "pool-buoy",
+    "type": "minted",
+    "from": 775,
+    "value": 794
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "harmless-queen",
+    "type": "minted",
+    "from": 902,
+    "value": 917
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "pixelmuse-girls",
+    "type": "status",
+    "from": "UPCOMING",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "pixelmuse-girls",
+    "type": "minted",
+    "from": 0,
+    "value": 1241
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "pixelmuse-girls",
+    "type": "price",
+    "from": null,
+    "value": 0.0
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 2427,
+    "value": 2430
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "hoodpoker",
+    "type": "minted",
+    "from": 2277,
+    "value": 2367
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "the-surfboard",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "rhcomputers-449269636",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "computerrh",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "tortoise-rh-303792327",
+    "type": "minted",
+    "from": 615,
+    "value": 622
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "tickertapes-signal-worlds",
+    "type": "minted",
+    "from": 814,
+    "value": 884
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "crimson-ronin-831462114",
+    "type": "minted",
+    "from": 1027,
+    "value": 1031
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "pixelpunks-865451217",
+    "type": "minted",
+    "from": 7065,
+    "value": 7073
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "wandering-sages",
+    "type": "minted",
+    "from": 981,
+    "value": 983
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "h00dexe-nft",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "gon-legend",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "salatas",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "shinnobi-catz",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "owlcult",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "hell-demons-219853693",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "dogbyte-126799736",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "peeble-hood",
+    "type": "minted",
+    "from": 66,
+    "value": 70
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "statepro",
+    "type": "status",
+    "from": "UPCOMING",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "statepro",
+    "type": "minted",
+    "from": 0,
+    "value": 3
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "statepro",
+    "type": "price",
+    "from": null,
+    "value": 0.00027
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "retro-wheels",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "ntrpygenesis",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "projectshiesty",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "sight-genesis-826300567",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "yield-farm",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-16T00:48:52.435406+00:00",
+    "slug": "weird-catz-549894582",
     "type": "discovered",
     "value": "SOLD_OUT"
   }
