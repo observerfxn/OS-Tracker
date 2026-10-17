@@ -1,78 +1,5 @@
 [
   {
-    "at": "2026-10-13T09:32:15.424174+00:00",
-    "slug": "brosrh",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-13T09:32:15.424174+00:00",
-    "slug": "portable-slop-drive",
-    "type": "discovered",
-    "value": "ENDED"
-  },
-  {
-    "at": "2026-10-13T09:58:21.949087+00:00",
-    "slug": "----the-hollow----",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-13T09:58:21.949087+00:00",
-    "slug": "tickertapes-signal-worlds",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-13T09:58:21.949087+00:00",
-    "slug": "tickertapes-signal-worlds",
-    "type": "price",
-    "from": null,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-13T09:58:21.949087+00:00",
-    "slug": "mooniezworld",
-    "type": "minted",
-    "from": 1792,
-    "value": 1793
-  },
-  {
-    "at": "2026-10-13T09:58:21.949087+00:00",
-    "slug": "robot-mages",
-    "type": "minted",
-    "from": 66,
-    "value": 69
-  },
-  {
-    "at": "2026-10-13T09:58:21.949087+00:00",
-    "slug": "ads-tickertapes",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-13T09:58:21.949087+00:00",
-    "slug": "ads-tickertapes",
-    "type": "minted",
-    "from": 541,
-    "value": 549
-  },
-  {
-    "at": "2026-10-13T09:58:21.949087+00:00",
-    "slug": "ads-tickertapes",
-    "type": "price",
-    "from": null,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-13T09:58:21.949087+00:00",
-    "slug": "gon-wagies",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
     "at": "2026-10-13T09:58:21.949087+00:00",
     "slug": "badge-stonks",
     "type": "minted",
@@ -32238,5 +32165,75 @@
     "type": "price",
     "from": 0.0,
     "value": null
+  },
+  {
+    "at": "2026-10-17T22:33:34.439249+00:00",
+    "slug": "vaelorn-629",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-17T22:33:34.439249+00:00",
+    "slug": "0x2da9bf889da3bfdff558b09a91dacd7eb93a7695",
+    "type": "status",
+    "from": "UPCOMING",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-17T22:33:34.439249+00:00",
+    "slug": "0x2da9bf889da3bfdff558b09a91dacd7eb93a7695",
+    "type": "minted",
+    "from": 0,
+    "value": 402
+  },
+  {
+    "at": "2026-10-17T22:33:34.439249+00:00",
+    "slug": "0x2da9bf889da3bfdff558b09a91dacd7eb93a7695",
+    "type": "price",
+    "from": null,
+    "value": 0.0
+  },
+  {
+    "at": "2026-10-17T22:33:34.439249+00:00",
+    "slug": "zkskulls-robin",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-17T22:33:34.439249+00:00",
+    "slug": "blackout-district-fuses",
+    "type": "minted",
+    "from": 942,
+    "value": 2360
+  },
+  {
+    "at": "2026-10-17T22:33:34.439249+00:00",
+    "slug": "musegod-muses",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-17T22:33:34.439249+00:00",
+    "slug": "stray-cucks",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-17T22:33:34.439249+00:00",
+    "slug": "piggy-banks-nfts",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-17T22:33:34.439249+00:00",
+    "slug": "bloomshire-founding-farmers",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-17T22:33:34.439249+00:00",
+    "slug": "mintlatch",
+    "type": "discovered",
+    "value": "SOLD_OUT"
   }
 ]
