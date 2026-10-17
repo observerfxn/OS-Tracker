@@ -1,124 +1,5 @@
 [
   {
-    "at": "2026-10-13T01:30:35.765149+00:00",
-    "slug": "oughs",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-13T01:30:35.765149+00:00",
-    "slug": "kageuri-official",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-13T01:30:35.765149+00:00",
-    "slug": "quadgrifters",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-13T01:56:41.101036+00:00",
-    "slug": "testing-phase-860611051",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-13T01:56:41.101036+00:00",
-    "slug": "dotz-803014005",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-13T01:56:41.101036+00:00",
-    "slug": "dotz-803014005",
-    "type": "minted",
-    "from": 10726,
-    "value": 10846
-  },
-  {
-    "at": "2026-10-13T01:56:41.101036+00:00",
-    "slug": "dotz-803014005",
-    "type": "price",
-    "from": null,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-13T01:56:41.101036+00:00",
-    "slug": "yield-fields-rh-nft-892749914",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-13T01:56:41.101036+00:00",
-    "slug": "ccff00-circle",
-    "type": "minted",
-    "from": 1838,
-    "value": 1840
-  },
-  {
-    "at": "2026-10-13T01:56:41.101036+00:00",
-    "slug": "re44",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-13T01:56:41.101036+00:00",
-    "slug": "yield-fields-rh--",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-13T01:56:41.101036+00:00",
-    "slug": "tickertapes-signal-worlds",
-    "type": "minted",
-    "from": 125,
-    "value": 289
-  },
-  {
-    "at": "2026-10-13T01:56:41.101036+00:00",
-    "slug": "nubs-60860145",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-13T01:56:41.101036+00:00",
-    "slug": "yield-field-deed-",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-13T01:56:41.101036+00:00",
-    "slug": "--yield--fields--d--",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-13T01:56:41.101036+00:00",
-    "slug": "skull-bros",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-13T01:56:41.101036+00:00",
-    "slug": "x-bounties",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-13T01:56:41.101036+00:00",
-    "slug": "portalsmintpass",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-13T01:56:41.101036+00:00",
-    "slug": "streethoodminis",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
     "at": "2026-10-13T01:56:41.101036+00:00",
     "slug": "goatgangrh",
     "type": "discovered",
@@ -32246,6 +32127,126 @@
   {
     "at": "2026-10-17T15:01:33.300970+00:00",
     "slug": "computersrh-nft",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-17T15:35:31.716604+00:00",
+    "slug": "apefest-koda-cakes-rh",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-17T15:35:31.716604+00:00",
+    "slug": "zumi-shoes-genesis",
+    "type": "minted",
+    "from": 89,
+    "value": 90
+  },
+  {
+    "at": "2026-10-17T15:35:31.716604+00:00",
+    "slug": "zumi-shoes-genesis",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.0005
+  },
+  {
+    "at": "2026-10-17T15:35:31.716604+00:00",
+    "slug": "staked-synergy-seed-hood",
+    "type": "minted",
+    "from": 225,
+    "value": 240
+  },
+  {
+    "at": "2026-10-17T15:35:31.716604+00:00",
+    "slug": "staked-synergy-seed-hood",
+    "type": "supply",
+    "from": 10000,
+    "value": 3333
+  },
+  {
+    "at": "2026-10-17T15:35:31.716604+00:00",
+    "slug": "staked-synergy-seed-hood",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.015
+  },
+  {
+    "at": "2026-10-17T15:35:31.716604+00:00",
+    "slug": "lilkoalla",
+    "type": "minted",
+    "from": 192,
+    "value": 224
+  },
+  {
+    "at": "2026-10-17T15:35:31.716604+00:00",
+    "slug": "wrestlers-nft-mint",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-17T15:35:31.716604+00:00",
+    "slug": "bluefrens-pfps-652381239",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-17T15:35:31.716604+00:00",
+    "slug": "lmeow-844991335",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-17T15:35:31.716604+00:00",
+    "slug": "rare-feogs",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-17T15:35:31.716604+00:00",
+    "slug": "hoodminers-rh",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-17T15:35:31.716604+00:00",
+    "slug": "rekt-tradooor",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-17T15:35:31.716604+00:00",
+    "slug": "cityofstonks",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-17T15:35:31.716604+00:00",
+    "slug": "suited-ape-society",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-17T15:35:31.716604+00:00",
+    "slug": "0xc21159f412c294ca2c38f2a9ecaaccf9d93ec929",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-17T15:35:31.716604+00:00",
+    "slug": "rektobear",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-17T15:35:31.716604+00:00",
+    "slug": "rock-guardian",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-17T15:35:31.716604+00:00",
+    "slug": "demonics-638685096",
     "type": "discovered",
     "value": "SOLD_OUT"
   }
