@@ -1,91 +1,5 @@
 [
   {
-    "at": "2026-10-12T20:58:05.563160+00:00",
-    "slug": "zero-to-hero-academy",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-12T20:58:05.563160+00:00",
-    "slug": "mini-robots",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-12T20:58:05.563160+00:00",
-    "slug": "internetmonkes",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-12T20:58:05.563160+00:00",
-    "slug": "gremlin-cartel",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-12T20:58:05.563160+00:00",
-    "slug": "block-titans",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-12T20:58:05.563160+00:00",
-    "slug": "halo-nodes",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-12T20:58:05.563160+00:00",
-    "slug": "wif-outlaws",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-12T21:27:27.496547+00:00",
-    "slug": "ccff00-circle",
-    "type": "minted",
-    "from": 1831,
-    "value": 1832
-  },
-  {
-    "at": "2026-10-12T21:27:27.496547+00:00",
-    "slug": "lime-hood-punk",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-12T21:27:27.496547+00:00",
-    "slug": "owlcult",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-12T21:27:27.496547+00:00",
-    "slug": "trench-chimps",
-    "type": "minted",
-    "from": 445,
-    "value": 447
-  },
-  {
-    "at": "2026-10-12T21:27:27.496547+00:00",
-    "slug": "yield--fields------",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-12T21:27:27.496547+00:00",
-    "slug": "zama-muttlaws-926748147",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-12T21:27:27.496547+00:00",
-    "slug": "hoodionft",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
     "at": "2026-10-12T21:27:27.496547+00:00",
     "slug": "cryptorobinhoodpunks",
     "type": "minted",
@@ -32247,5 +32161,94 @@
     "slug": "midnight-miners",
     "type": "discovered",
     "value": "ENDED"
+  },
+  {
+    "at": "2026-10-17T11:02:33.835398+00:00",
+    "slug": "0x84c44ccde55e3d34abff914eb5570af24643badb",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.0015
+  },
+  {
+    "at": "2026-10-17T11:02:33.835398+00:00",
+    "slug": "roadster-582769474",
+    "type": "minted",
+    "from": 2848,
+    "value": 2884
+  },
+  {
+    "at": "2026-10-17T11:02:33.835398+00:00",
+    "slug": "olzy-artifacts",
+    "type": "minted",
+    "from": 282,
+    "value": 286
+  },
+  {
+    "at": "2026-10-17T11:02:33.835398+00:00",
+    "slug": "dragon-balls-962578383",
+    "type": "minted",
+    "from": 189,
+    "value": 192
+  },
+  {
+    "at": "2026-10-17T11:02:33.835398+00:00",
+    "slug": "p-i-r-a-t-e-s",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-17T11:02:33.835398+00:00",
+    "slug": "lofi-mancers-510352283",
+    "type": "minted",
+    "from": 258,
+    "value": 262
+  },
+  {
+    "at": "2026-10-17T11:02:33.835398+00:00",
+    "slug": "robinbugs",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-17T11:02:33.835398+00:00",
+    "slug": "oughs",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-17T11:02:33.835398+00:00",
+    "slug": "robinfrens-art",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-17T11:02:33.835398+00:00",
+    "slug": "lpcg",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-17T11:02:33.835398+00:00",
+    "slug": "drip-dragons-151542630",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-17T11:02:33.835398+00:00",
+    "slug": "exit-founders",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-17T11:02:33.835398+00:00",
+    "slug": "rektobear",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-17T11:02:33.835398+00:00",
+    "slug": "wif-outlaws",
+    "type": "discovered",
+    "value": "SOLD_OUT"
   }
 ]
