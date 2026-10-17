@@ -1,82 +1,5 @@
 [
   {
-    "at": "2026-10-13T09:58:21.949087+00:00",
-    "slug": "trust-us-nft",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-13T09:58:21.949087+00:00",
-    "slug": "piggy-banks-nfts",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-13T09:58:21.949087+00:00",
-    "slug": "hoodsiege",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-13T09:58:21.949087+00:00",
-    "slug": "the-zenjaku-experiment",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-13T09:58:21.949087+00:00",
-    "slug": "0x22e75409ada54cd6a07bca2d4e21586444943bac",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-13T09:58:21.949087+00:00",
-    "slug": "frost-society",
-    "type": "discovered",
-    "value": "ENDED"
-  },
-  {
-    "at": "2026-10-13T09:58:21.949087+00:00",
-    "slug": "hood-siege-genesis-nft",
-    "type": "discovered",
-    "value": "ENDED"
-  },
-  {
-    "at": "2026-10-13T10:31:47.168336+00:00",
-    "slug": "ccff00-circle",
-    "type": "minted",
-    "from": 1846,
-    "value": 1848
-  },
-  {
-    "at": "2026-10-13T10:31:47.168336+00:00",
-    "slug": "st-mark",
-    "type": "minted",
-    "from": 490,
-    "value": 509
-  },
-  {
-    "at": "2026-10-13T10:31:47.168336+00:00",
-    "slug": "oddiez",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-13T10:31:47.168336+00:00",
-    "slug": "oddiez",
-    "type": "minted",
-    "from": 0,
-    "value": 205
-  },
-  {
-    "at": "2026-10-13T10:31:47.168336+00:00",
-    "slug": "oddiez",
-    "type": "price",
-    "from": null,
-    "value": 0.0002
-  },
-  {
     "at": "2026-10-13T10:31:47.168336+00:00",
     "slug": "computers-rh-658015391",
     "type": "discovered",
@@ -32229,6 +32152,83 @@
   {
     "at": "2026-10-17T22:58:45.760851+00:00",
     "slug": "astrokidofficial",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-17T23:30:22.517642+00:00",
+    "slug": "brave-94525660",
+    "type": "minted",
+    "from": 660,
+    "value": 663
+  },
+  {
+    "at": "2026-10-17T23:30:22.517642+00:00",
+    "slug": "brave-94525660",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.0031
+  },
+  {
+    "at": "2026-10-17T23:30:22.517642+00:00",
+    "slug": "0x2da9bf889da3bfdff558b09a91dacd7eb93a7695",
+    "type": "minted",
+    "from": 405,
+    "value": 410
+  },
+  {
+    "at": "2026-10-17T23:30:22.517642+00:00",
+    "slug": "zkskulls-robin",
+    "type": "price",
+    "from": 5e-05,
+    "value": 0.0001
+  },
+  {
+    "at": "2026-10-17T23:30:22.517642+00:00",
+    "slug": "goby-z",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-17T23:30:22.517642+00:00",
+    "slug": "blackout-district-fuses",
+    "type": "minted",
+    "from": 2578,
+    "value": 2677
+  },
+  {
+    "at": "2026-10-17T23:30:22.517642+00:00",
+    "slug": "vault-street-nft",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-17T23:30:22.517642+00:00",
+    "slug": "slippy-nft",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-17T23:30:22.517642+00:00",
+    "slug": "dreamersxyz",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-17T23:30:22.517642+00:00",
+    "slug": "yield-farm",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-17T23:30:22.517642+00:00",
+    "slug": "reefersrh",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-17T23:30:22.517642+00:00",
+    "slug": "cityofstonks",
     "type": "discovered",
     "value": "SOLD_OUT"
   }
