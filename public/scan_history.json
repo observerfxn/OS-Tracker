@@ -1,97 +1,6 @@
 [
   {
     "at": "2026-10-13T11:57:50.623077+00:00",
-    "slug": "owlcult",
-    "type": "price",
-    "from": 0.0001,
-    "value": 5e-05
-  },
-  {
-    "at": "2026-10-13T11:57:50.623077+00:00",
-    "slug": "hoodionft",
-    "type": "minted",
-    "from": 744,
-    "value": 752
-  },
-  {
-    "at": "2026-10-13T11:57:50.623077+00:00",
-    "slug": "hoodionft",
-    "type": "price",
-    "from": 8e-06,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-13T11:57:50.623077+00:00",
-    "slug": "anime-girlies",
-    "type": "minted",
-    "from": 1990,
-    "value": 1995
-  },
-  {
-    "at": "2026-10-13T11:57:50.623077+00:00",
-    "slug": "gon-wagies",
-    "type": "minted",
-    "from": 1109,
-    "value": 1144
-  },
-  {
-    "at": "2026-10-13T11:57:50.623077+00:00",
-    "slug": "dreamersxyz",
-    "type": "minted",
-    "from": 936,
-    "value": 938
-  },
-  {
-    "at": "2026-10-13T11:57:50.623077+00:00",
-    "slug": "caroots-bunnies",
-    "type": "minted",
-    "from": 254,
-    "value": 286
-  },
-  {
-    "at": "2026-10-13T11:57:50.623077+00:00",
-    "slug": "diana-punk",
-    "type": "minted",
-    "from": 546,
-    "value": 553
-  },
-  {
-    "at": "2026-10-13T11:57:50.623077+00:00",
-    "slug": "floatiesafloat",
-    "type": "minted",
-    "from": 70,
-    "value": 228
-  },
-  {
-    "at": "2026-10-13T11:57:50.623077+00:00",
-    "slug": "maskhood-966265096",
-    "type": "minted",
-    "from": 139,
-    "value": 685
-  },
-  {
-    "at": "2026-10-13T11:57:50.623077+00:00",
-    "slug": "maskhood-966265096",
-    "type": "price",
-    "from": 0.0,
-    "value": 0.0001
-  },
-  {
-    "at": "2026-10-13T11:57:50.623077+00:00",
-    "slug": "working-pixels",
-    "type": "minted",
-    "from": 870,
-    "value": 877
-  },
-  {
-    "at": "2026-10-13T11:57:50.623077+00:00",
-    "slug": "astral-lotus",
-    "type": "status",
-    "from": "LIVE",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-13T11:57:50.623077+00:00",
     "slug": "astral-lotus",
     "type": "price",
     "from": 0.0,
@@ -32202,5 +32111,86 @@
     "slug": "rare-friends-genesis",
     "type": "discovered",
     "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-18T03:37:37.101364+00:00",
+    "slug": "hood-unknown",
+    "type": "minted",
+    "from": 245,
+    "value": 1262
+  },
+  {
+    "at": "2026-10-18T03:37:37.101364+00:00",
+    "slug": "yield-field-deeds-vi",
+    "type": "minted",
+    "from": 5415,
+    "value": 5425
+  },
+  {
+    "at": "2026-10-18T03:37:37.101364+00:00",
+    "slug": "hoodvale-industrial",
+    "type": "minted",
+    "from": 509,
+    "value": 513
+  },
+  {
+    "at": "2026-10-18T03:37:37.101364+00:00",
+    "slug": "pooop-nft",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-18T03:37:37.101364+00:00",
+    "slug": "blackout-district-fuses",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-18T03:37:37.101364+00:00",
+    "slug": "pixelhoodminis",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-18T03:37:37.101364+00:00",
+    "slug": "astrokidofficial",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-18T03:37:37.101364+00:00",
+    "slug": "dreamersxyz",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-18T03:37:37.101364+00:00",
+    "slug": "onchain-everyday-people",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-18T03:37:37.101364+00:00",
+    "slug": "0x89de7374cd440e9397c0e369f717fb682bf358a3",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-18T03:37:37.101364+00:00",
+    "slug": "prntrs",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-18T03:37:37.101364+00:00",
+    "slug": "spikesociety",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-18T03:37:37.101364+00:00",
+    "slug": "hood-siege-genesis-nft",
+    "type": "discovered",
+    "value": "ENDED"
   }
 ]
