@@ -1,172 +1,6 @@
 [
   {
     "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "yield-field-deed-clubs",
-    "type": "price",
-    "from": 0.0,
-    "value": 0.055
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "zero-to-hero-academy-clubs",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "zero-to-hero-academy-clubs",
-    "type": "minted",
-    "from": 0,
-    "value": 3289
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "zero-to-hero-academy-clubs",
-    "type": "price",
-    "from": null,
-    "value": 0.055
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "yield-fields----------",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "0xf080e84e264f0cefc2dc46df14d2b67db35de966",
-    "type": "minted",
-    "from": 114,
-    "value": 124
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "rektobear-nft",
-    "type": "minted",
-    "from": 14,
-    "value": 22
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "rektobear-nft",
-    "type": "price",
-    "from": 0.0,
-    "value": 0.0005
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "elftown4663",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "monochrome-511304112",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "robin-syndicate",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "pixelated-apes",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "flamiverse",
-    "type": "minted",
-    "from": 870,
-    "value": 937
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "flamiverse",
-    "type": "price",
-    "from": 0.0,
-    "value": 4e-05
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "portalsmintpass",
-    "type": "minted",
-    "from": 3228,
-    "value": 3231
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "v0idkid",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "hoodiegroupies",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "opencatz-by-dizcorvus",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "cityofstonks",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "suited-ape-society",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "the-3333-experiments",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "jigglettes",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "slippy-nft",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "yoodles-reborn",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "staccs-robinhood-homecoming-collection",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
-    "slug": "wif-outlaws",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-14T01:37:16.996707+00:00",
     "slug": "semivivus",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32116,6 +31950,176 @@
   {
     "at": "2026-10-18T17:59:43.963482+00:00",
     "slug": "yield-farm",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "dotz-803014005",
+    "type": "minted",
+    "from": 44494,
+    "value": 44566
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "rubberhood",
+    "type": "minted",
+    "from": 326,
+    "value": 328
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "pac-world-genesis",
+    "type": "minted",
+    "from": 1018,
+    "value": 1070
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "0x7ff501171cb7211c2f7c3d05962f6260c8cddc94",
+    "type": "minted",
+    "from": 648,
+    "value": 678
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "stonkkungfu-pixel",
+    "type": "minted",
+    "from": 1204,
+    "value": 1254
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "stonkkungfu-pixel",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.0002
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "crimson-drakes",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "pixelcat-94076931",
+    "type": "minted",
+    "from": 79,
+    "value": 127
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "hood-monarchs",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "milli-627650089",
+    "type": "status",
+    "from": "UPCOMING",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "milli-627650089",
+    "type": "minted",
+    "from": 0,
+    "value": 334
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "milli-627650089",
+    "type": "price",
+    "from": null,
+    "value": 0.0
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "legion-x-601147109",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "graffibots",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "kitty-cat-rh",
+    "type": "status",
+    "from": "LIVE",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "kitty-cat-rh",
+    "type": "minted",
+    "from": 630,
+    "value": 1500
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "kitty-cat-rh",
+    "type": "supply",
+    "from": 3333,
+    "value": 1500
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "kitty-cat-rh",
+    "type": "price",
+    "from": 0.0004,
+    "value": null
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "0xc21159f412c294ca2c38f2a9ecaaccf9d93ec929",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "circleapes",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "streethoodminis",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "drip-dragons-151542630",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "wasteland-art",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "cannacats",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "facetsart",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-18T18:38:02.596847+00:00",
+    "slug": "gta6-fan-collection",
     "type": "discovered",
     "value": "SOLD_OUT"
   }
