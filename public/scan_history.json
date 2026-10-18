@@ -1,109 +1,6 @@
 [
   {
     "at": "2026-10-13T11:31:12.757062+00:00",
-    "slug": "anime-girlies",
-    "type": "price",
-    "from": null,
-    "value": 4.1e-05
-  },
-  {
-    "at": "2026-10-13T11:31:12.757062+00:00",
-    "slug": "runekai-21064492",
-    "type": "minted",
-    "from": 34,
-    "value": 38
-  },
-  {
-    "at": "2026-10-13T11:31:12.757062+00:00",
-    "slug": "runekai-21064492",
-    "type": "price",
-    "from": 0.0,
-    "value": 0.0075
-  },
-  {
-    "at": "2026-10-13T11:31:12.757062+00:00",
-    "slug": "gon-wagies",
-    "type": "minted",
-    "from": 1054,
-    "value": 1109
-  },
-  {
-    "at": "2026-10-13T11:31:12.757062+00:00",
-    "slug": "dreamersxyz",
-    "type": "minted",
-    "from": 935,
-    "value": 936
-  },
-  {
-    "at": "2026-10-13T11:31:12.757062+00:00",
-    "slug": "maskhood-966265096",
-    "type": "minted",
-    "from": 47,
-    "value": 139
-  },
-  {
-    "at": "2026-10-13T11:31:12.757062+00:00",
-    "slug": "caroots-bunnies",
-    "type": "minted",
-    "from": 252,
-    "value": 254
-  },
-  {
-    "at": "2026-10-13T11:31:12.757062+00:00",
-    "slug": "floatiesafloat",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-13T11:31:12.757062+00:00",
-    "slug": "floatiesafloat",
-    "type": "minted",
-    "from": 0,
-    "value": 70
-  },
-  {
-    "at": "2026-10-13T11:31:12.757062+00:00",
-    "slug": "floatiesafloat",
-    "type": "price",
-    "from": null,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-13T11:31:12.757062+00:00",
-    "slug": "diana-punk",
-    "type": "minted",
-    "from": 545,
-    "value": 546
-  },
-  {
-    "at": "2026-10-13T11:31:12.757062+00:00",
-    "slug": "working-pixels",
-    "type": "minted",
-    "from": 841,
-    "value": 870
-  },
-  {
-    "at": "2026-10-13T11:31:12.757062+00:00",
-    "slug": "working-pixels",
-    "type": "price",
-    "from": 0.0,
-    "value": 0.0002
-  },
-  {
-    "at": "2026-10-13T11:31:12.757062+00:00",
-    "slug": "pepito-brokers",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-13T11:31:12.757062+00:00",
-    "slug": "hoodvale-industrial",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-13T11:31:12.757062+00:00",
     "slug": "vampsonchain",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32213,6 +32110,97 @@
   {
     "at": "2026-10-18T02:07:21.384298+00:00",
     "slug": "facetsart",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-18T02:36:48.071044+00:00",
+    "slug": "hood-unknown",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-18T02:36:48.071044+00:00",
+    "slug": "ccffoopunk",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-18T02:36:48.071044+00:00",
+    "slug": "frosties-227167563",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-18T02:36:48.071044+00:00",
+    "slug": "hell-demons-219853693",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-18T02:36:48.071044+00:00",
+    "slug": "skull-hood-pfp",
+    "type": "minted",
+    "from": 3089,
+    "value": 3090
+  },
+  {
+    "at": "2026-10-18T02:36:48.071044+00:00",
+    "slug": "over-thecouter",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-18T02:36:48.071044+00:00",
+    "slug": "illusion_rh",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-18T02:36:48.071044+00:00",
+    "slug": "s-e-a-l-s",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-18T02:36:48.071044+00:00",
+    "slug": "rektobear",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-18T02:36:48.071044+00:00",
+    "slug": "mindsdotgames",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-18T02:36:48.071044+00:00",
+    "slug": "0xquit-operation-26448",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-18T02:36:48.071044+00:00",
+    "slug": "chilipunks",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-18T02:36:48.071044+00:00",
+    "slug": "goatgangrh",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-18T02:36:48.071044+00:00",
+    "slug": "whalestreet",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-18T02:36:48.071044+00:00",
+    "slug": "suited-ape-society",
     "type": "discovered",
     "value": "SOLD_OUT"
   }
