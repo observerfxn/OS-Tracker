@@ -1,83 +1,5 @@
 [
   {
-    "at": "2026-10-14T14:40:12.827943+00:00",
-    "slug": "magichood-test",
-    "type": "price",
-    "from": 2e-05,
-    "value": 3e-05
-  },
-  {
-    "at": "2026-10-14T14:40:12.827943+00:00",
-    "slug": "rare-firends-genesis-nft-493977863",
-    "type": "status",
-    "from": "LIVE",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-14T14:40:12.827943+00:00",
-    "slug": "rare-firends-genesis-nft-493977863",
-    "type": "price",
-    "from": 0.0005,
-    "value": null
-  },
-  {
-    "at": "2026-10-14T14:40:12.827943+00:00",
-    "slug": "stitch-cat",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-14T14:40:12.827943+00:00",
-    "slug": "offbody-158574032",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-14T14:40:12.827943+00:00",
-    "slug": "miniesnft",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-14T14:40:12.827943+00:00",
-    "slug": "never-fucking-trade",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-14T14:40:12.827943+00:00",
-    "slug": "zh-to-academy",
-    "type": "discovered",
-    "value": "ENDED"
-  },
-  {
-    "at": "2026-10-14T15:11:14.477185+00:00",
-    "slug": "rare-firends-genesis-nft-493977863",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-14T15:11:14.477185+00:00",
-    "slug": "rare-firends-genesis-nft-493977863",
-    "type": "price",
-    "from": null,
-    "value": 0.0005
-  },
-  {
-    "at": "2026-10-14T15:11:14.477185+00:00",
-    "slug": "ccff00-circle",
-    "type": "minted",
-    "from": 2152,
-    "value": 2156
-  },
-  {
-    "at": "2026-10-14T15:11:14.477185+00:00",
-    "slug": "yanka-mo",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
     "at": "2026-10-14T15:11:14.477185+00:00",
     "slug": "tickertapes-signal-worlds",
     "type": "minted",
@@ -32118,5 +32040,80 @@
     "type": "price",
     "from": 0.0001,
     "value": null
+  },
+  {
+    "at": "2026-10-19T12:13:53.085250+00:00",
+    "slug": "cropz-genesis-rh",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-19T12:13:53.085250+00:00",
+    "slug": "assault-rifles-788358006",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.0024
+  },
+  {
+    "at": "2026-10-19T12:13:53.085250+00:00",
+    "slug": "skull-face-820923754",
+    "type": "minted",
+    "from": 122,
+    "value": 126
+  },
+  {
+    "at": "2026-10-19T12:13:53.085250+00:00",
+    "slug": "heartbyte-buddies",
+    "type": "minted",
+    "from": 614,
+    "value": 622
+  },
+  {
+    "at": "2026-10-19T12:13:53.085250+00:00",
+    "slug": "gogos-3265522",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-19T12:13:53.085250+00:00",
+    "slug": "altpunks-rh",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-19T12:13:53.085250+00:00",
+    "slug": "aireinos",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-19T12:13:53.085250+00:00",
+    "slug": "weedwest",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-19T12:13:53.085250+00:00",
+    "slug": "computersrh-nft",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-19T12:13:53.085250+00:00",
+    "slug": "the-1000-pass",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-19T12:13:53.085250+00:00",
+    "slug": "the-3333-experiments",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-19T12:13:53.085250+00:00",
+    "slug": "rcpts",
+    "type": "discovered",
+    "value": "SOLD_OUT"
   }
 ]
