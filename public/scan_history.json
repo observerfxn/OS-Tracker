@@ -1,88 +1,6 @@
 [
   {
     "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "boys-in-hood",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "tickertapes-signal-worlds",
-    "type": "minted",
-    "from": 750,
-    "value": 812
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "crimson-ronin-831462114",
-    "type": "minted",
-    "from": 934,
-    "value": 982
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "midnightpuppets",
-    "type": "minted",
-    "from": 135,
-    "value": 136
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "computers-rh-17",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "pixelpunks-865451217",
-    "type": "minted",
-    "from": 6823,
-    "value": 7000
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "wandering-sages",
-    "type": "minted",
-    "from": 927,
-    "value": 966
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "zk-skulls",
-    "type": "minted",
-    "from": 4281,
-    "value": 4285
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "hood-mouse",
-    "type": "minted",
-    "from": 1376,
-    "value": 1430
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "owlcult",
-    "type": "minted",
-    "from": 358,
-    "value": 375
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "owlcult",
-    "type": "price",
-    "from": 2.5e-05,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "dogbyte-126799736",
-    "type": "minted",
-    "from": 702,
-    "value": 704
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
     "slug": "scarecrow-801144274",
     "type": "status",
     "from": "UPCOMING",
@@ -32125,6 +32043,81 @@
   {
     "at": "2026-10-21T03:11:10.228845+00:00",
     "slug": "gta6-fan-collection",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-21T03:39:47.520062+00:00",
+    "slug": "0x9c4da4b8e38cae4819b97fffcac9bc4d6df3acad",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-21T03:39:47.520062+00:00",
+    "slug": "slasherznft",
+    "type": "minted",
+    "from": 681,
+    "value": 684
+  },
+  {
+    "at": "2026-10-21T03:39:47.520062+00:00",
+    "slug": "floor-feeders-1",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-21T03:39:47.520062+00:00",
+    "slug": "monkihood",
+    "type": "minted",
+    "from": 747,
+    "value": 769
+  },
+  {
+    "at": "2026-10-21T03:39:47.520062+00:00",
+    "slug": "ccff00-bluepunks",
+    "type": "minted",
+    "from": 8894,
+    "value": 9131
+  },
+  {
+    "at": "2026-10-21T03:39:47.520062+00:00",
+    "slug": "rh-cocks",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-21T03:39:47.520062+00:00",
+    "slug": "0xcf3f377b1cf2811b3b6eca95621d69809b5aa524",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-21T03:39:47.520062+00:00",
+    "slug": "thezorpians",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-21T03:39:47.520062+00:00",
+    "slug": "wif-outlaws",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-21T03:39:47.520062+00:00",
+    "slug": "whalestreet",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-21T03:39:47.520062+00:00",
+    "slug": "facetsart",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-21T03:39:47.520062+00:00",
+    "slug": "rare-friends-genesis",
     "type": "discovered",
     "value": "SOLD_OUT"
   }
