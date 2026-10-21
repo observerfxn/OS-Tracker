@@ -1,123 +1,5 @@
 [
   {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "scarecrow-801144274",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "scarecrow-801144274",
-    "type": "minted",
-    "from": 0,
-    "value": 60
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "scarecrow-801144274",
-    "type": "price",
-    "from": null,
-    "value": 2e-05
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "toy-legends-568501659",
-    "type": "minted",
-    "from": 1190,
-    "value": 1247
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "toy-legends-568501659",
-    "type": "price",
-    "from": 0.0,
-    "value": 1e-05
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "0xb1036e170650dfb3e819d4d07562aa51f1eb0133",
-    "type": "minted",
-    "from": 8,
-    "value": 11
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "scarecrow-448109478",
-    "type": "price",
-    "from": 2e-05,
-    "value": 3e-05
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "sixss",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "cropz",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "hoodlums-boys",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "glocks-onchain",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "pricedout",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "suited-ape-society",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "ntrpygenesis",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-15T22:38:32.096955+00:00",
-    "slug": "0xc21159f412c294ca2c38f2a9ecaaccf9d93ec929",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-15T23:33:58.641387+00:00",
-    "slug": "sixss",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-15T23:33:58.641387+00:00",
-    "slug": "sixss",
-    "type": "minted",
-    "from": 0,
-    "value": 150
-  },
-  {
-    "at": "2026-10-15T23:33:58.641387+00:00",
-    "slug": "sixss",
-    "type": "price",
-    "from": null,
-    "value": 0.0
-  },
-  {
     "at": "2026-10-15T23:33:58.641387+00:00",
     "slug": "keysnfts",
     "type": "minted",
@@ -32118,6 +32000,118 @@
   {
     "at": "2026-10-21T03:39:47.520062+00:00",
     "slug": "rare-friends-genesis",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-21T04:13:54.167361+00:00",
+    "slug": "bot-testing-55727836",
+    "type": "minted",
+    "from": 1054,
+    "value": 1095
+  },
+  {
+    "at": "2026-10-21T04:13:54.167361+00:00",
+    "slug": "--clock--in-------",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-21T04:13:54.167361+00:00",
+    "slug": "floor-feeders-1",
+    "type": "minted",
+    "from": 47,
+    "value": 51
+  },
+  {
+    "at": "2026-10-21T04:13:54.167361+00:00",
+    "slug": "floor-feeders-1",
+    "type": "price",
+    "from": 1e-15,
+    "value": 0.003
+  },
+  {
+    "at": "2026-10-21T04:13:54.167361+00:00",
+    "slug": "0x5668f09a202e3cd6ca677ff712775ec12032b12f",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-21T04:13:54.167361+00:00",
+    "slug": "waveform-club",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-21T04:13:54.167361+00:00",
+    "slug": "ccff00-bluepunks",
+    "type": "minted",
+    "from": 9131,
+    "value": 9188
+  },
+  {
+    "at": "2026-10-21T04:13:54.167361+00:00",
+    "slug": "hoodbitz-58716435",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-21T04:13:54.167361+00:00",
+    "slug": "mysterious-satoshi-555862990",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-21T04:13:54.167361+00:00",
+    "slug": "hoodvandalz",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-21T04:13:54.167361+00:00",
+    "slug": "sknots-go-down",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-21T04:13:54.167361+00:00",
+    "slug": "0xc21159f412c294ca2c38f2a9ecaaccf9d93ec929",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-21T04:13:54.167361+00:00",
+    "slug": "the-crayons",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-21T04:13:54.167361+00:00",
+    "slug": "mutants-society",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-21T04:13:54.167361+00:00",
+    "slug": "pixel-cats-on-drugs",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-21T04:13:54.167361+00:00",
+    "slug": "reefersrh",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-21T04:13:54.167361+00:00",
+    "slug": "kid-story-760618637",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-21T04:13:54.167361+00:00",
+    "slug": "jeanphil-nft",
     "type": "discovered",
     "value": "SOLD_OUT"
   }
