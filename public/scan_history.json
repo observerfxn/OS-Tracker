@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-16T23:57:58.712940+00:00",
-    "slug": "robintoys",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-16T23:57:58.712940+00:00",
     "slug": "primal-apes-robinhood",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -31983,5 +31977,12 @@
     "type": "minted",
     "from": 1686,
     "value": 1687
+  },
+  {
+    "at": "2026-10-22T18:45:01.125187+00:00",
+    "slug": "roadster-582769474",
+    "type": "minted",
+    "from": 3602,
+    "value": 3707
   }
 ]
