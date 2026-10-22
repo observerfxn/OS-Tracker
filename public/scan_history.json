@@ -1,20 +1,6 @@
 [
   {
     "at": "2026-10-17T00:50:07.586036+00:00",
-    "slug": "hey-ccff00",
-    "type": "minted",
-    "from": 1403,
-    "value": 1547
-  },
-  {
-    "at": "2026-10-17T00:50:07.586036+00:00",
-    "slug": "hey-ccff00",
-    "type": "price",
-    "from": 4e-05,
-    "value": 5e-06
-  },
-  {
-    "at": "2026-10-17T00:50:07.586036+00:00",
     "slug": "overload-beta-gas-turbine",
     "type": "discovered",
     "value": "LIVE"
@@ -31989,5 +31975,19 @@
     "type": "minted",
     "from": 4831,
     "value": 4851
+  },
+  {
+    "at": "2026-10-22T21:37:51.419382+00:00",
+    "slug": "pac-world-genesis",
+    "type": "minted",
+    "from": 2124,
+    "value": 2214
+  },
+  {
+    "at": "2026-10-22T21:37:51.419382+00:00",
+    "slug": "roadster-582769474",
+    "type": "minted",
+    "from": 4851,
+    "value": 4868
   }
 ]
