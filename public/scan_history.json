@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-16T23:33:45.971387+00:00",
-    "slug": "frosties-227167563",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-16T23:33:45.971387+00:00",
     "slug": "pixel-651995541",
     "type": "minted",
     "from": 367,
@@ -31967,5 +31961,12 @@
     "type": "minted",
     "from": 908,
     "value": 926
+  },
+  {
+    "at": "2026-10-22T11:44:42.590383+00:00",
+    "slug": "genesis-key-voxel-",
+    "type": "minted",
+    "from": 926,
+    "value": 940
   }
 ]
