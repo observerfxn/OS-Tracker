@@ -1,20 +1,6 @@
 [
   {
     "at": "2026-10-16T23:57:58.712940+00:00",
-    "slug": "hey-ccff00",
-    "type": "minted",
-    "from": 1393,
-    "value": 1403
-  },
-  {
-    "at": "2026-10-16T23:57:58.712940+00:00",
-    "slug": "hey-ccff00",
-    "type": "price",
-    "from": 0.0,
-    "value": 4e-05
-  },
-  {
-    "at": "2026-10-16T23:57:58.712940+00:00",
     "slug": "derek-mercer-gang",
     "type": "minted",
     "from": 1123,
@@ -31980,5 +31966,19 @@
     "type": "price",
     "from": 5e-06,
     "value": null
+  },
+  {
+    "at": "2026-10-22T15:15:25.851998+00:00",
+    "slug": "hey-ccff00",
+    "type": "minted",
+    "from": 1658,
+    "value": 1686
+  },
+  {
+    "at": "2026-10-22T15:15:25.851998+00:00",
+    "slug": "genesis-key-voxel-",
+    "type": "minted",
+    "from": 940,
+    "value": 944
   }
 ]
