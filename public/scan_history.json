@@ -1,18 +1,6 @@
 [
   {
     "at": "2026-10-16T23:57:58.712940+00:00",
-    "slug": "primal-apes-robinhood",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-16T23:57:58.712940+00:00",
-    "slug": "bloomshire-founding-farmers",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-16T23:57:58.712940+00:00",
     "slug": "seeker-net",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -31984,5 +31972,19 @@
     "type": "minted",
     "from": 3602,
     "value": 3707
+  },
+  {
+    "at": "2026-10-22T19:19:23.421894+00:00",
+    "slug": "roadster-582769474",
+    "type": "minted",
+    "from": 3707,
+    "value": 4301
+  },
+  {
+    "at": "2026-10-22T19:19:23.421894+00:00",
+    "slug": "hey-ccff00",
+    "type": "minted",
+    "from": 1687,
+    "value": 1689
   }
 ]
