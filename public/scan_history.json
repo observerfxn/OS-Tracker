@@ -1,13 +1,6 @@
 [
   {
     "at": "2026-10-17T00:50:07.586036+00:00",
-    "slug": "reefers-nft",
-    "type": "price",
-    "from": 0.0,
-    "value": 0.00041
-  },
-  {
-    "at": "2026-10-17T00:50:07.586036+00:00",
     "slug": "robin-arklis-nft",
     "type": "discovered",
     "value": "LIVE"
@@ -31990,5 +31983,12 @@
     "type": "price",
     "from": 0.0,
     "value": null
+  },
+  {
+    "at": "2026-10-22T23:37:16.867888+00:00",
+    "slug": "dripster-507498710",
+    "type": "minted",
+    "from": 850,
+    "value": 1139
   }
 ]
