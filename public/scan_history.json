@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-16T23:57:58.712940+00:00",
-    "slug": "seeker-net",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-16T23:57:58.712940+00:00",
     "slug": "flamingos-eth",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -31986,5 +31980,12 @@
     "type": "minted",
     "from": 1687,
     "value": 1689
+  },
+  {
+    "at": "2026-10-22T20:09:45.486635+00:00",
+    "slug": "roadster-582769474",
+    "type": "minted",
+    "from": 4301,
+    "value": 4607
   }
 ]
