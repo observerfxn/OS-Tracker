@@ -1,13 +1,6 @@
 [
   {
     "at": "2026-10-16T23:33:45.971387+00:00",
-    "slug": "pixel-651995541",
-    "type": "minted",
-    "from": 367,
-    "value": 458
-  },
-  {
-    "at": "2026-10-16T23:33:45.971387+00:00",
     "slug": "odd-in-game",
     "type": "discovered",
     "value": "LIVE"
@@ -31968,5 +31961,12 @@
     "type": "minted",
     "from": 926,
     "value": 940
+  },
+  {
+    "at": "2026-10-22T12:14:42.124765+00:00",
+    "slug": "genesis-key-voxel-",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.0001
   }
 ]
