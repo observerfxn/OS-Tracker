@@ -1,100 +1,5 @@
 [
   {
-    "at": "2026-10-16T17:36:46.760363+00:00",
-    "slug": "0xcf3f377b1cf2811b3b6eca95621d69809b5aa524",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-16T17:36:46.760363+00:00",
-    "slug": "crawl-net",
-    "type": "status",
-    "from": "LIVE",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-16T17:36:46.760363+00:00",
-    "slug": "crawl-net",
-    "type": "minted",
-    "from": 323,
-    "value": 1111
-  },
-  {
-    "at": "2026-10-16T17:36:46.760363+00:00",
-    "slug": "crawl-net",
-    "type": "price",
-    "from": 0.0,
-    "value": null
-  },
-  {
-    "at": "2026-10-16T17:36:46.760363+00:00",
-    "slug": "demonics-638685096",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-16T17:36:46.760363+00:00",
-    "slug": "prntrs",
-    "type": "status",
-    "from": "LIVE",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-16T17:36:46.760363+00:00",
-    "slug": "prntrs",
-    "type": "minted",
-    "from": 5974,
-    "value": 6000
-  },
-  {
-    "at": "2026-10-16T17:36:46.760363+00:00",
-    "slug": "prntrs",
-    "type": "price",
-    "from": 0.0012,
-    "value": null
-  },
-  {
-    "at": "2026-10-16T17:36:46.760363+00:00",
-    "slug": "frost-society",
-    "type": "discovered",
-    "value": "ENDED"
-  },
-  {
-    "at": "2026-10-16T18:06:36.064363+00:00",
-    "slug": "dhtt-500686279",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-16T18:06:36.064363+00:00",
-    "slug": "dhtt-500686279",
-    "type": "minted",
-    "from": 0,
-    "value": 27
-  },
-  {
-    "at": "2026-10-16T18:06:36.064363+00:00",
-    "slug": "dhtt-500686279",
-    "type": "price",
-    "from": null,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-16T18:06:36.064363+00:00",
-    "slug": "0x9b390bba6f318ceb8bd9c72dd07d7535969473ff",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-16T18:06:36.064363+00:00",
-    "slug": "0x9b390bba6f318ceb8bd9c72dd07d7535969473ff",
-    "type": "minted",
-    "from": 0,
-    "value": 52
-  },
-  {
     "at": "2026-10-16T18:06:36.064363+00:00",
     "slug": "0x9b390bba6f318ceb8bd9c72dd07d7535969473ff",
     "type": "price",
@@ -32036,5 +31941,94 @@
     "slug": "cats-on-rugs",
     "type": "discovered",
     "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-22T00:03:07.610736+00:00",
+    "slug": "ccff00-circle",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-22T00:03:07.610736+00:00",
+    "slug": "0x30115498b85df7af218fe1d16b40d77573af3e37",
+    "type": "minted",
+    "from": 30,
+    "value": 220
+  },
+  {
+    "at": "2026-10-22T00:03:07.610736+00:00",
+    "slug": "0x30115498b85df7af218fe1d16b40d77573af3e37",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.0001
+  },
+  {
+    "at": "2026-10-22T00:03:07.610736+00:00",
+    "slug": "bag-headz-949827447",
+    "type": "minted",
+    "from": 479,
+    "value": 485
+  },
+  {
+    "at": "2026-10-22T00:03:07.610736+00:00",
+    "slug": "pixelbot-legends",
+    "type": "minted",
+    "from": 1009,
+    "value": 1034
+  },
+  {
+    "at": "2026-10-22T00:03:07.610736+00:00",
+    "slug": "pixel-foxes-333298148",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-22T00:03:07.610736+00:00",
+    "slug": "skull-bros-official",
+    "type": "minted",
+    "from": 787,
+    "value": 793
+  },
+  {
+    "at": "2026-10-22T00:03:07.610736+00:00",
+    "slug": "aux-arbres-rh",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-22T00:03:07.610736+00:00",
+    "slug": "cash-grab-rh",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-22T00:03:07.610736+00:00",
+    "slug": "suited-ape-society",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-22T00:03:07.610736+00:00",
+    "slug": "yield-farm",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-22T00:03:07.610736+00:00",
+    "slug": "oozlings",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-22T00:03:07.610736+00:00",
+    "slug": "jeanphil-nft",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-22T00:03:07.610736+00:00",
+    "slug": "pickles-friends",
+    "type": "discovered",
+    "value": "ENDED"
   }
 ]
