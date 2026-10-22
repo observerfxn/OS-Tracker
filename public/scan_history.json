@@ -1,129 +1,5 @@
 [
   {
-    "at": "2026-10-16T20:02:14.792681+00:00",
-    "slug": "yield-fields-216477313",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-16T20:02:14.792681+00:00",
-    "slug": "fjiu-57609555",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-16T20:02:14.792681+00:00",
-    "slug": "mona-de-degens-947464813",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-16T20:02:14.792681+00:00",
-    "slug": "conso-312334909",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-16T20:02:14.792681+00:00",
-    "slug": "pixel-cats-on-drugs",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-16T20:02:14.792681+00:00",
-    "slug": "thezorpians",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-16T20:02:14.792681+00:00",
-    "slug": "theloudhouse",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-16T20:38:54.134215+00:00",
-    "slug": "hey-ccff00",
-    "type": "minted",
-    "from": 1343,
-    "value": 1349
-  },
-  {
-    "at": "2026-10-16T20:38:54.134215+00:00",
-    "slug": "derek-mercer-gang",
-    "type": "minted",
-    "from": 362,
-    "value": 479
-  },
-  {
-    "at": "2026-10-16T20:38:54.134215+00:00",
-    "slug": "surfboard-nft-965525565",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-16T20:38:54.134215+00:00",
-    "slug": "youshet-nft",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-16T20:38:54.134215+00:00",
-    "slug": "yield-fields-216477313",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-16T20:38:54.134215+00:00",
-    "slug": "yield-fields-216477313",
-    "type": "minted",
-    "from": 0,
-    "value": 240
-  },
-  {
-    "at": "2026-10-16T20:38:54.134215+00:00",
-    "slug": "yield-fields-216477313",
-    "type": "price",
-    "from": null,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-16T20:38:54.134215+00:00",
-    "slug": "mona-de-degens-947464813",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-16T20:38:54.134215+00:00",
-    "slug": "mona-de-degens-947464813",
-    "type": "minted",
-    "from": 0,
-    "value": 1370
-  },
-  {
-    "at": "2026-10-16T20:38:54.134215+00:00",
-    "slug": "mona-de-degens-947464813",
-    "type": "price",
-    "from": null,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-16T20:38:54.134215+00:00",
-    "slug": "conso-312334909",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-16T20:38:54.134215+00:00",
-    "slug": "conso-312334909",
-    "type": "minted",
-    "from": 0,
-    "value": 96
-  },
-  {
     "at": "2026-10-16T20:38:54.134215+00:00",
     "slug": "conso-312334909",
     "type": "price",
@@ -32023,5 +31899,129 @@
     "slug": "the-3333-experiments",
     "type": "discovered",
     "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-22T04:43:04.299922+00:00",
+    "slug": "the-rich-ape-robin",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-22T04:43:04.299922+00:00",
+    "slug": "boredtraders-nft",
+    "type": "status",
+    "from": "UPCOMING",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-22T04:43:04.299922+00:00",
+    "slug": "boredtraders-nft",
+    "type": "minted",
+    "from": 0,
+    "value": 146
+  },
+  {
+    "at": "2026-10-22T04:43:04.299922+00:00",
+    "slug": "boredtraders-nft",
+    "type": "price",
+    "from": null,
+    "value": 0.0
+  },
+  {
+    "at": "2026-10-22T04:43:04.299922+00:00",
+    "slug": "robin-bond-nft",
+    "type": "discovered",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-22T04:43:04.299922+00:00",
+    "slug": "old-folks",
+    "type": "minted",
+    "from": 12,
+    "value": 13
+  },
+  {
+    "at": "2026-10-22T04:43:04.299922+00:00",
+    "slug": "hood-minis",
+    "type": "minted",
+    "from": 126,
+    "value": 148
+  },
+  {
+    "at": "2026-10-22T04:43:04.299922+00:00",
+    "slug": "hood-minis",
+    "type": "price",
+    "from": 0.0,
+    "value": 5.2e-05
+  },
+  {
+    "at": "2026-10-22T04:43:04.299922+00:00",
+    "slug": "genesis-key-voxel-",
+    "type": "minted",
+    "from": 707,
+    "value": 711
+  },
+  {
+    "at": "2026-10-22T04:43:04.299922+00:00",
+    "slug": "robinbones-club",
+    "type": "discovered",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-22T04:43:04.299922+00:00",
+    "slug": "mindsdotgames",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-22T04:43:04.299922+00:00",
+    "slug": "mintlatch",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-22T04:43:04.299922+00:00",
+    "slug": "monkeyhoodnfts",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-22T04:43:04.299922+00:00",
+    "slug": "ffcc00",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-22T04:43:04.299922+00:00",
+    "slug": "yoodles-reborn",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-22T04:43:04.299922+00:00",
+    "slug": "0xquit-operation-26448",
+    "type": "discovered",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-22T04:43:04.299922+00:00",
+    "slug": "bag-headz-949827447",
+    "type": "status",
+    "from": "LIVE",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-22T04:43:04.299922+00:00",
+    "slug": "bag-headz-949827447",
+    "type": "minted",
+    "from": 491,
+    "value": 2222
+  },
+  {
+    "at": "2026-10-22T04:43:04.299922+00:00",
+    "slug": "bag-headz-949827447",
+    "type": "price",
+    "from": 0.0,
+    "value": null
   }
 ]
