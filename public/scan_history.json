@@ -1,29 +1,5 @@
 [
   {
-    "at": "2026-10-17T00:50:07.586036+00:00",
-    "slug": "facetsart",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T00:50:07.586036+00:00",
-    "slug": "gta6-fan-collection",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T00:50:07.586036+00:00",
-    "slug": "rh_barbarians",
-    "type": "discovered",
-    "value": "ENDED"
-  },
-  {
-    "at": "2026-10-17T01:36:34.262731+00:00",
-    "slug": "hey-robin",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
     "at": "2026-10-17T01:36:34.262731+00:00",
     "slug": "overload-beta-gas-turbine",
     "type": "minted",
@@ -32007,5 +31983,33 @@
     "type": "price",
     "from": 0.0008,
     "value": 0.0003
+  },
+  {
+    "at": "2026-10-23T16:48:42.329859+00:00",
+    "slug": "rht2",
+    "type": "minted",
+    "from": 32811,
+    "value": 32986
+  },
+  {
+    "at": "2026-10-23T16:48:42.329859+00:00",
+    "slug": "pac-world-genesis",
+    "type": "minted",
+    "from": 2307,
+    "value": 2308
+  },
+  {
+    "at": "2026-10-23T16:48:42.329859+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 2738,
+    "value": 2739
+  },
+  {
+    "at": "2026-10-23T16:48:42.329859+00:00",
+    "slug": "roadster-582769474",
+    "type": "minted",
+    "from": 5629,
+    "value": 5729
   }
 ]
