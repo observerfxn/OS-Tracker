@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T00:50:07.586036+00:00",
-    "slug": "hood-lords-654442012",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T00:50:07.586036+00:00",
     "slug": "theapehood",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32000,5 +31994,12 @@
     "type": "minted",
     "from": 5588,
     "value": 5629
+  },
+  {
+    "at": "2026-10-23T11:41:25.699761+00:00",
+    "slug": "axii-777559558",
+    "type": "minted",
+    "from": 8422,
+    "value": 8423
   }
 ]
