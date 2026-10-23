@@ -1,18 +1,6 @@
 [
   {
     "at": "2026-10-17T00:50:07.586036+00:00",
-    "slug": "yunarh",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T00:50:07.586036+00:00",
-    "slug": "amor-pedum",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T00:50:07.586036+00:00",
     "slug": "streethoodminis",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32002,5 +31990,19 @@
     "type": "minted",
     "from": 32793,
     "value": 32811
+  },
+  {
+    "at": "2026-10-23T13:47:30.554222+00:00",
+    "slug": "black-squarerh",
+    "type": "minted",
+    "from": 786,
+    "value": 804
+  },
+  {
+    "at": "2026-10-23T13:47:30.554222+00:00",
+    "slug": "sakura-996741917",
+    "type": "minted",
+    "from": 1594,
+    "value": 1646
   }
 ]
