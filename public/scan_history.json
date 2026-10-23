@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T00:50:07.586036+00:00",
-    "slug": "rektobear",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T00:50:07.586036+00:00",
     "slug": "hoodvale-centralcity",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -31996,5 +31990,12 @@
     "type": "minted",
     "from": 5425,
     "value": 5458
+  },
+  {
+    "at": "2026-10-23T09:14:53.754639+00:00",
+    "slug": "roadster-582769474",
+    "type": "minted",
+    "from": 5458,
+    "value": 5588
   }
 ]
