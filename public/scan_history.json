@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T00:50:07.586036+00:00",
-    "slug": "0xc4136016e3cf80733685a05805aeca0ae735ef0d",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T00:50:07.586036+00:00",
     "slug": "justsk00l",
     "type": "minted",
     "from": 2280,
@@ -31991,5 +31985,12 @@
     "type": "minted",
     "from": 1439,
     "value": 1442
+  },
+  {
+    "at": "2026-10-23T02:14:38.500670+00:00",
+    "slug": "giant-stone",
+    "type": "minted",
+    "from": 1030,
+    "value": 1032
   }
 ]
