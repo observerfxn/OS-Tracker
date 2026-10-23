@@ -2,13 +2,6 @@
   {
     "at": "2026-10-17T01:36:34.262731+00:00",
     "slug": "vvv-season-1-234760755",
-    "type": "minted",
-    "from": 0,
-    "value": 1347
-  },
-  {
-    "at": "2026-10-17T01:36:34.262731+00:00",
-    "slug": "vvv-season-1-234760755",
     "type": "price",
     "from": null,
     "value": 0.0053
@@ -32012,5 +32005,12 @@
     "type": "minted",
     "from": 348,
     "value": 349
+  },
+  {
+    "at": "2026-10-23T21:10:24.317206+00:00",
+    "slug": "bigger-ape",
+    "type": "minted",
+    "from": 1552,
+    "value": 1553
   }
 ]
