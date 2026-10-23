@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T01:36:34.262731+00:00",
-    "slug": "parklife-hood",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T01:36:34.262731+00:00",
     "slug": "altpunks-rh",
     "type": "minted",
     "from": 2128,
@@ -32012,5 +32006,12 @@
     "type": "minted",
     "from": 349,
     "value": 351
+  },
+  {
+    "at": "2026-10-23T23:06:44.100861+00:00",
+    "slug": "street1punks",
+    "type": "minted",
+    "from": 351,
+    "value": 355
   }
 ]
