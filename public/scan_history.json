@@ -1,13 +1,6 @@
 [
   {
     "at": "2026-10-17T00:50:07.586036+00:00",
-    "slug": "robintoys",
-    "type": "price",
-    "from": null,
-    "value": 0.00041
-  },
-  {
-    "at": "2026-10-17T00:50:07.586036+00:00",
     "slug": "0xc4136016e3cf80733685a05805aeca0ae735ef0d",
     "type": "discovered",
     "value": "LIVE"
@@ -31991,5 +31984,12 @@
     "type": "minted",
     "from": 4868,
     "value": 5120
+  },
+  {
+    "at": "2026-10-23T01:44:48.204862+00:00",
+    "slug": "decent-kangaroos",
+    "type": "minted",
+    "from": 1439,
+    "value": 1442
   }
 ]
