@@ -1,18 +1,6 @@
 [
   {
     "at": "2026-10-17T00:50:07.586036+00:00",
-    "slug": "hopium-machines",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T00:50:07.586036+00:00",
-    "slug": "pixel-cats-on-drugs",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T00:50:07.586036+00:00",
     "slug": "hood-lords-654442012",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -31998,5 +31986,19 @@
     "type": "minted",
     "from": 8421,
     "value": 8422
+  },
+  {
+    "at": "2026-10-23T11:11:47.541313+00:00",
+    "slug": "amongrh-269330561",
+    "type": "minted",
+    "from": 83276,
+    "value": 83337
+  },
+  {
+    "at": "2026-10-23T11:11:47.541313+00:00",
+    "slug": "roadster-582769474",
+    "type": "minted",
+    "from": 5588,
+    "value": 5629
   }
 ]
