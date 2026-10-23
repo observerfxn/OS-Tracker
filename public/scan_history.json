@@ -1,13 +1,6 @@
 [
   {
     "at": "2026-10-17T01:36:34.262731+00:00",
-    "slug": "altpunks-rh",
-    "type": "minted",
-    "from": 2128,
-    "value": 2134
-  },
-  {
-    "at": "2026-10-17T01:36:34.262731+00:00",
     "slug": "zany-apes",
     "type": "discovered",
     "value": "UPCOMING"
@@ -32013,5 +32006,12 @@
     "type": "minted",
     "from": 351,
     "value": 355
+  },
+  {
+    "at": "2026-10-23T23:36:48.950623+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 2740,
+    "value": 2741
   }
 ]
