@@ -1,13 +1,6 @@
 [
   {
     "at": "2026-10-17T01:36:34.262731+00:00",
-    "slug": "justsk00l",
-    "type": "minted",
-    "from": 2330,
-    "value": 2350
-  },
-  {
-    "at": "2026-10-17T01:36:34.262731+00:00",
     "slug": "parklife-hood",
     "type": "discovered",
     "value": "LIVE"
@@ -32012,5 +32005,12 @@
     "type": "price",
     "from": 0.0,
     "value": null
+  },
+  {
+    "at": "2026-10-23T22:38:04.469288+00:00",
+    "slug": "street1punks",
+    "type": "minted",
+    "from": 349,
+    "value": 351
   }
 ]
