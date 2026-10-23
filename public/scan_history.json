@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T00:50:07.586036+00:00",
-    "slug": "altpunks-rh",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T00:50:07.586036+00:00",
     "slug": "vvv-season-1-234760755",
     "type": "discovered",
     "value": "UPCOMING"
@@ -31994,5 +31988,12 @@
     "type": "minted",
     "from": 1589,
     "value": 1590
+  },
+  {
+    "at": "2026-10-23T06:11:11.546782+00:00",
+    "slug": "roadster-582769474",
+    "type": "minted",
+    "from": 5124,
+    "value": 5425
   }
 ]
