@@ -1,27 +1,6 @@
 [
   {
     "at": "2026-10-17T01:36:34.262731+00:00",
-    "slug": "vvv-season-1-234760755",
-    "type": "price",
-    "from": null,
-    "value": 0.0053
-  },
-  {
-    "at": "2026-10-17T01:36:34.262731+00:00",
-    "slug": "0xc4136016e3cf80733685a05805aeca0ae735ef0d",
-    "type": "minted",
-    "from": 127,
-    "value": 137
-  },
-  {
-    "at": "2026-10-17T01:36:34.262731+00:00",
-    "slug": "0xc4136016e3cf80733685a05805aeca0ae735ef0d",
-    "type": "price",
-    "from": 0.0,
-    "value": 0.0001
-  },
-  {
-    "at": "2026-10-17T01:36:34.262731+00:00",
     "slug": "justsk00l",
     "type": "minted",
     "from": 2330,
@@ -32012,5 +31991,26 @@
     "type": "minted",
     "from": 1552,
     "value": 1553
+  },
+  {
+    "at": "2026-10-23T21:39:09.915471+00:00",
+    "slug": "fcfs-test-04",
+    "type": "status",
+    "from": "LIVE",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-23T21:39:09.915471+00:00",
+    "slug": "fcfs-test-04",
+    "type": "minted",
+    "from": 663,
+    "value": 10000
+  },
+  {
+    "at": "2026-10-23T21:39:09.915471+00:00",
+    "slug": "fcfs-test-04",
+    "type": "price",
+    "from": 0.0,
+    "value": null
   }
 ]
