@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T00:50:07.586036+00:00",
-    "slug": "hoodvale-centralcity",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T00:50:07.586036+00:00",
     "slug": "hopium-machines",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -31997,5 +31991,12 @@
     "type": "minted",
     "from": 5458,
     "value": 5588
+  },
+  {
+    "at": "2026-10-23T10:42:45.383841+00:00",
+    "slug": "axii-777559558",
+    "type": "minted",
+    "from": 8421,
+    "value": 8422
   }
 ]
