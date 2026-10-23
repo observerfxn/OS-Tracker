@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T00:50:07.586036+00:00",
-    "slug": "vvv-season-1-234760755",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-17T00:50:07.586036+00:00",
     "slug": "rektobear",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -31995,5 +31989,12 @@
     "type": "minted",
     "from": 5124,
     "value": 5425
+  },
+  {
+    "at": "2026-10-23T08:42:27.567686+00:00",
+    "slug": "roadster-582769474",
+    "type": "minted",
+    "from": 5425,
+    "value": 5458
   }
 ]
