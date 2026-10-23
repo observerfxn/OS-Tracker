@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T00:50:07.586036+00:00",
-    "slug": "logan-hl",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T00:50:07.586036+00:00",
     "slug": "altpunks-rh",
     "type": "discovered",
     "value": "LIVE"
@@ -31993,5 +31987,12 @@
     "type": "minted",
     "from": 5120,
     "value": 5124
+  },
+  {
+    "at": "2026-10-23T04:41:42.719007+00:00",
+    "slug": "status-warrior",
+    "type": "minted",
+    "from": 1589,
+    "value": 1590
   }
 ]
