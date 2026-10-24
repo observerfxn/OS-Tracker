@@ -1,18 +1,5 @@
 [
   {
-    "at": "2026-10-17T01:36:34.262731+00:00",
-    "slug": "claystonkz",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T02:06:37.883111+00:00",
-    "slug": "hey-robin",
-    "type": "minted",
-    "from": 215,
-    "value": 216
-  },
-  {
     "at": "2026-10-17T02:06:37.883111+00:00",
     "slug": "derek-mercer-gang",
     "type": "minted",
@@ -32026,5 +32013,19 @@
     "type": "price",
     "from": 5e-07,
     "value": 1.3e-07
+  },
+  {
+    "at": "2026-10-24T17:07:07.977272+00:00",
+    "slug": "0x686cd2c08ed188b1a32423f71612d7fdc59adc7c",
+    "type": "minted",
+    "from": 4886,
+    "value": 4887
+  },
+  {
+    "at": "2026-10-24T17:07:07.977272+00:00",
+    "slug": "roadster-582769474",
+    "type": "minted",
+    "from": 6441,
+    "value": 6442
   }
 ]
