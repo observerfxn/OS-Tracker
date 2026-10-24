@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T01:36:34.262731+00:00",
-    "slug": "projectshiesty",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T01:36:34.262731+00:00",
     "slug": "cityofstonks",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32017,5 +32011,12 @@
     "type": "minted",
     "from": 6137,
     "value": 6434
+  },
+  {
+    "at": "2026-10-24T08:06:15.378961+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 2743,
+    "value": 2748
   }
 ]
