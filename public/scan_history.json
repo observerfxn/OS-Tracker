@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T02:06:37.883111+00:00",
-    "slug": "ccffoopunk",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T02:06:37.883111+00:00",
     "slug": "altpunks-rh",
     "type": "minted",
     "from": 2134,
@@ -32027,5 +32021,12 @@
     "type": "minted",
     "from": 6442,
     "value": 6443
+  },
+  {
+    "at": "2026-10-24T18:39:29.033513+00:00",
+    "slug": "pac-world-genesis",
+    "type": "minted",
+    "from": 2332,
+    "value": 2336
   }
 ]
