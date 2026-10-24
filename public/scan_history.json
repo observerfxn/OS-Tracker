@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T01:36:34.262731+00:00",
-    "slug": "oozlings",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-17T01:36:34.262731+00:00",
     "slug": "sight-genesis-826300567",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32015,5 +32009,12 @@
     "type": "minted",
     "from": 5729,
     "value": 6135
+  },
+  {
+    "at": "2026-10-24T06:06:53.659239+00:00",
+    "slug": "roadster-582769474",
+    "type": "minted",
+    "from": 6135,
+    "value": 6137
   }
 ]
