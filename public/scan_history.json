@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T01:36:34.262731+00:00",
-    "slug": "cityofstonks",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T01:36:34.262731+00:00",
     "slug": "apocryphaz",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32018,5 +32012,12 @@
     "type": "minted",
     "from": 2743,
     "value": 2748
+  },
+  {
+    "at": "2026-10-24T12:05:42.492087+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 2748,
+    "value": 2749
   }
 ]
