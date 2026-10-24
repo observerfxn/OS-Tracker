@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T02:06:37.883111+00:00",
-    "slug": "reefersrh",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T02:06:37.883111+00:00",
     "slug": "wasteland-art",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32034,5 +32028,12 @@
     "type": "minted",
     "from": 2751,
     "value": 2752
+  },
+  {
+    "at": "2026-10-24T22:03:51.986499+00:00",
+    "slug": "roadster-582769474",
+    "type": "minted",
+    "from": 7258,
+    "value": 7265
   }
 ]
