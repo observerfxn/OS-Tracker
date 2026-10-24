@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T01:36:34.262731+00:00",
-    "slug": "sight-genesis-826300567",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T01:36:34.262731+00:00",
     "slug": "projectshiesty",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32016,5 +32010,12 @@
     "type": "minted",
     "from": 6135,
     "value": 6137
+  },
+  {
+    "at": "2026-10-24T06:45:14.531566+00:00",
+    "slug": "roadster-582769474",
+    "type": "minted",
+    "from": 6137,
+    "value": 6434
   }
 ]
