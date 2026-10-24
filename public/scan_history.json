@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T01:36:34.262731+00:00",
-    "slug": "apocryphaz",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T01:36:34.262731+00:00",
     "slug": "robot-mages",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32019,5 +32013,12 @@
     "type": "minted",
     "from": 2748,
     "value": 2749
+  },
+  {
+    "at": "2026-10-24T14:36:59.191514+00:00",
+    "slug": "roadster-582769474",
+    "type": "minted",
+    "from": 6434,
+    "value": 6436
   }
 ]
