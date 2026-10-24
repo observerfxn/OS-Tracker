@@ -1,24 +1,6 @@
 [
   {
     "at": "2026-10-17T01:36:34.262731+00:00",
-    "slug": "robot-mages",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T01:36:34.262731+00:00",
-    "slug": "opencatz-by-dizcorvus",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T01:36:34.262731+00:00",
-    "slug": "thezorpians",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T01:36:34.262731+00:00",
     "slug": "rekt-tradooor",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32020,5 +32002,26 @@
     "type": "minted",
     "from": 6434,
     "value": 6436
+  },
+  {
+    "at": "2026-10-24T15:37:59.514091+00:00",
+    "slug": "0x686cd2c08ed188b1a32423f71612d7fdc59adc7c",
+    "type": "minted",
+    "from": 2600,
+    "value": 4886
+  },
+  {
+    "at": "2026-10-24T15:37:59.514091+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 2749,
+    "value": 2750
+  },
+  {
+    "at": "2026-10-24T15:37:59.514091+00:00",
+    "slug": "roadster-582769474",
+    "type": "minted",
+    "from": 6436,
+    "value": 6441
   }
 ]
