@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T02:06:37.883111+00:00",
-    "slug": "aurelia-descendants",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-17T02:06:37.883111+00:00",
     "slug": "pixelhoodclan",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32029,5 +32023,12 @@
     "type": "minted",
     "from": 6443,
     "value": 6444
+  },
+  {
+    "at": "2026-10-24T19:59:39.848461+00:00",
+    "slug": "roadster-582769474",
+    "type": "minted",
+    "from": 6444,
+    "value": 6951
   }
 ]
