@@ -1,19 +1,6 @@
 [
   {
     "at": "2026-10-17T02:06:37.883111+00:00",
-    "slug": "altpunks-rh",
-    "type": "minted",
-    "from": 2134,
-    "value": 2136
-  },
-  {
-    "at": "2026-10-17T02:06:37.883111+00:00",
-    "slug": "ascension-stones",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-17T02:06:37.883111+00:00",
     "slug": "aurelia-descendants",
     "type": "discovered",
     "value": "UPCOMING"
@@ -32028,5 +32015,19 @@
     "type": "minted",
     "from": 2332,
     "value": 2336
+  },
+  {
+    "at": "2026-10-24T19:33:44.606315+00:00",
+    "slug": "pac-world-genesis",
+    "type": "minted",
+    "from": 2336,
+    "value": 2337
+  },
+  {
+    "at": "2026-10-24T19:33:44.606315+00:00",
+    "slug": "roadster-582769474",
+    "type": "minted",
+    "from": 6443,
+    "value": 6444
   }
 ]
