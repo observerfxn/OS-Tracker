@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T01:36:34.262731+00:00",
-    "slug": "zany-apes",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-17T01:36:34.262731+00:00",
     "slug": "hai-ku",
     "type": "discovered",
     "value": "UPCOMING"
@@ -32013,5 +32007,12 @@
     "type": "minted",
     "from": 2740,
     "value": 2741
+  },
+  {
+    "at": "2026-10-24T05:08:49.301132+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 2741,
+    "value": 2743
   }
 ]
