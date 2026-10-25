@@ -1,11 +1,5 @@
 [
   {
-    "at": "2026-10-17T03:37:29.248049+00:00",
-    "slug": "rare-friends-genesis",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
     "at": "2026-10-17T04:07:42.683921+00:00",
     "slug": "peeble-hood-410308618",
     "type": "discovered",
@@ -32075,5 +32069,12 @@
     "type": "minted",
     "from": 1211,
     "value": 1212
+  },
+  {
+    "at": "2026-10-25T21:04:18.475129+00:00",
+    "slug": "dripster-507498710",
+    "type": "minted",
+    "from": 1195,
+    "value": 1215
   }
 ]
