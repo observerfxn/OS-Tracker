@@ -1,11 +1,5 @@
 [
   {
-    "at": "2026-10-17T03:06:51.001105+00:00",
-    "slug": "zero-to-hero-academy",
-    "type": "discovered",
-    "value": "ENDED"
-  },
-  {
     "at": "2026-10-17T03:37:29.248049+00:00",
     "slug": "hey-ccff00",
     "type": "minted",
@@ -32063,5 +32057,12 @@
     "type": "minted",
     "from": 1019,
     "value": 1056
+  },
+  {
+    "at": "2026-10-25T15:37:58.676989+00:00",
+    "slug": "old-is-gold-786693409",
+    "type": "minted",
+    "from": 1197,
+    "value": 1208
   }
 ]
