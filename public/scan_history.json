@@ -1,18 +1,6 @@
 [
   {
     "at": "2026-10-17T03:06:51.001105+00:00",
-    "slug": "suited-ape-society",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T03:06:51.001105+00:00",
-    "slug": "the-1000-pass",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T03:06:51.001105+00:00",
     "slug": "claystonkz",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32060,5 +32048,19 @@
     "type": "minted",
     "from": 7276,
     "value": 7279
+  },
+  {
+    "at": "2026-10-25T13:17:20.307612+00:00",
+    "slug": "tiger-of-d-sky",
+    "type": "minted",
+    "from": 2222,
+    "value": 2227
+  },
+  {
+    "at": "2026-10-25T13:17:20.307612+00:00",
+    "slug": "roadster-582769474",
+    "type": "minted",
+    "from": 7279,
+    "value": 7280
   }
 ]
