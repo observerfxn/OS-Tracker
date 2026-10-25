@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T02:37:27.222738+00:00",
-    "slug": "macarune",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T02:37:27.222738+00:00",
     "slug": "yield-farm",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32042,5 +32036,12 @@
     "type": "price",
     "from": 0.0003,
     "value": null
+  },
+  {
+    "at": "2026-10-25T07:22:12.449849+00:00",
+    "slug": "pac-world-genesis",
+    "type": "minted",
+    "from": 2339,
+    "value": 2341
   }
 ]
