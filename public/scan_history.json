@@ -1,32 +1,6 @@
 [
   {
     "at": "2026-10-17T04:07:42.683921+00:00",
-    "slug": "justsk00l",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T04:07:42.683921+00:00",
-    "slug": "rh-orangs-nft-7958408",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T04:07:42.683921+00:00",
-    "slug": "ccffoopunk",
-    "type": "minted",
-    "from": 1417,
-    "value": 1419
-  },
-  {
-    "at": "2026-10-17T04:07:42.683921+00:00",
-    "slug": "illusion_rh",
-    "type": "minted",
-    "from": 413,
-    "value": 415
-  },
-  {
-    "at": "2026-10-17T04:07:42.683921+00:00",
     "slug": "wif-outlaws",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32080,5 +32054,33 @@
     "type": "minted",
     "from": 7280,
     "value": 8417
+  },
+  {
+    "at": "2026-10-25T22:02:35.586313+00:00",
+    "slug": "waifuchillio",
+    "type": "status",
+    "from": "UPCOMING",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-25T22:02:35.586313+00:00",
+    "slug": "waifuchillio",
+    "type": "minted",
+    "from": 108,
+    "value": 139
+  },
+  {
+    "at": "2026-10-25T22:02:35.586313+00:00",
+    "slug": "waifuchillio",
+    "type": "price",
+    "from": null,
+    "value": 0.0
+  },
+  {
+    "at": "2026-10-25T22:02:35.586313+00:00",
+    "slug": "roadster-582769474",
+    "type": "minted",
+    "from": 8417,
+    "value": 9410
   }
 ]
