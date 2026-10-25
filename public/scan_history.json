@@ -1,42 +1,5 @@
 [
   {
-    "at": "2026-10-17T02:37:27.222738+00:00",
-    "slug": "cannacats",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T02:37:27.222738+00:00",
-    "slug": "mindsdotgames",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T02:37:27.222738+00:00",
-    "slug": "stray-cucks",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T02:37:27.222738+00:00",
-    "slug": "primal-apes-robinhood",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T02:37:27.222738+00:00",
-    "slug": "hood-siege-genesis-nft",
-    "type": "discovered",
-    "value": "ENDED"
-  },
-  {
-    "at": "2026-10-17T03:06:51.001105+00:00",
-    "slug": "hey-robin",
-    "type": "minted",
-    "from": 333,
-    "value": 544
-  },
-  {
     "at": "2026-10-17T03:06:51.001105+00:00",
     "slug": "embervale---",
     "type": "discovered",
@@ -32046,5 +32009,47 @@
     "type": "minted",
     "from": 7273,
     "value": 7274
+  },
+  {
+    "at": "2026-10-25T10:06:30.735695+00:00",
+    "slug": "street1punks",
+    "type": "minted",
+    "from": 355,
+    "value": 357
+  },
+  {
+    "at": "2026-10-25T10:06:30.735695+00:00",
+    "slug": "old-is-gold-786693409",
+    "type": "minted",
+    "from": 1195,
+    "value": 1197
+  },
+  {
+    "at": "2026-10-25T10:06:30.735695+00:00",
+    "slug": "madlads-nft-463369509",
+    "type": "minted",
+    "from": 743,
+    "value": 745
+  },
+  {
+    "at": "2026-10-25T10:06:30.735695+00:00",
+    "slug": "0x7ff501171cb7211c2f7c3d05962f6260c8cddc94",
+    "type": "minted",
+    "from": 865,
+    "value": 867
+  },
+  {
+    "at": "2026-10-25T10:06:30.735695+00:00",
+    "slug": "pac-world-genesis",
+    "type": "minted",
+    "from": 2342,
+    "value": 2343
+  },
+  {
+    "at": "2026-10-25T10:06:30.735695+00:00",
+    "slug": "roadster-582769474",
+    "type": "minted",
+    "from": 7274,
+    "value": 7275
   }
 ]
