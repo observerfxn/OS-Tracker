@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T03:06:51.001105+00:00",
-    "slug": "claystonkz",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T03:06:51.001105+00:00",
     "slug": "zero-to-hero-academy",
     "type": "discovered",
     "value": "ENDED"
@@ -32062,5 +32056,12 @@
     "type": "minted",
     "from": 7279,
     "value": 7280
+  },
+  {
+    "at": "2026-10-25T15:05:31.016340+00:00",
+    "slug": "sixss",
+    "type": "minted",
+    "from": 1019,
+    "value": 1056
   }
 ]
