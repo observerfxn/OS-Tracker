@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T02:37:27.222738+00:00",
-    "slug": "yoodles-reborn",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T02:37:27.222738+00:00",
     "slug": "cannacats",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32045,5 +32039,12 @@
     "type": "minted",
     "from": 7271,
     "value": 7273
+  },
+  {
+    "at": "2026-10-25T09:38:09.379932+00:00",
+    "slug": "roadster-582769474",
+    "type": "minted",
+    "from": 7273,
+    "value": 7274
   }
 ]
