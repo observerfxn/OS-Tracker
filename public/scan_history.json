@@ -1,18 +1,6 @@
 [
   {
     "at": "2026-10-17T03:37:29.248049+00:00",
-    "slug": "flamingos-eth",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T03:37:29.248049+00:00",
-    "slug": "sight-genesis-826300567",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T03:37:29.248049+00:00",
     "slug": "cityofstonks",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32068,5 +32056,19 @@
     "type": "minted",
     "from": 1207,
     "value": 1209
+  },
+  {
+    "at": "2026-10-25T19:33:57.701276+00:00",
+    "slug": "rht2",
+    "type": "minted",
+    "from": 33026,
+    "value": 33146
+  },
+  {
+    "at": "2026-10-25T19:33:57.701276+00:00",
+    "slug": "swol-mferh",
+    "type": "minted",
+    "from": 1209,
+    "value": 1211
   }
 ]
