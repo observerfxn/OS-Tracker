@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T04:37:45.737779+00:00",
-    "slug": "punk-phicolu-nfts",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T04:37:45.737779+00:00",
     "slug": "wab3-salem",
     "type": "discovered",
     "value": "UPCOMING"
@@ -32085,5 +32079,12 @@
     "type": "price",
     "from": 0.0,
     "value": 0.0002
+  },
+  {
+    "at": "2026-10-25T23:32:57.877113+00:00",
+    "slug": "pac-world-genesis",
+    "type": "minted",
+    "from": 2347,
+    "value": 2348
   }
 ]
