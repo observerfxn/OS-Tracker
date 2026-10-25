@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T03:37:29.248049+00:00",
-    "slug": "monkeyhoodnfts",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T03:37:29.248049+00:00",
     "slug": "flamingos-eth",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32067,5 +32061,12 @@
     "type": "minted",
     "from": 873,
     "value": 881
+  },
+  {
+    "at": "2026-10-25T17:08:04.507333+00:00",
+    "slug": "soul-elevator-624321641",
+    "type": "minted",
+    "from": 1207,
+    "value": 1209
   }
 ]
