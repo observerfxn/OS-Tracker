@@ -1,18 +1,6 @@
 [
   {
     "at": "2026-10-17T02:37:27.222738+00:00",
-    "slug": "bloomshire-founding-farmers",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T02:37:27.222738+00:00",
-    "slug": "drip-dragons-151542630",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T02:37:27.222738+00:00",
     "slug": "macarune",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32040,5 +32028,19 @@
     "type": "minted",
     "from": 7269,
     "value": 7271
+  },
+  {
+    "at": "2026-10-25T06:45:24.673807+00:00",
+    "slug": "waifuchillio",
+    "type": "status",
+    "from": "LIVE",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-25T06:45:24.673807+00:00",
+    "slug": "waifuchillio",
+    "type": "price",
+    "from": 0.0003,
+    "value": null
   }
 ]
