@@ -1,24 +1,6 @@
 [
   {
     "at": "2026-10-17T04:37:45.737779+00:00",
-    "slug": "wab3-salem",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-17T04:37:45.737779+00:00",
-    "slug": "monkeyhoodnfts",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T04:37:45.737779+00:00",
-    "slug": "macarune",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T04:37:45.737779+00:00",
     "slug": "street-born-634001704",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32086,5 +32068,26 @@
     "type": "minted",
     "from": 2347,
     "value": 2348
+  },
+  {
+    "at": "2026-10-25T23:59:07.323478+00:00",
+    "slug": "amongrh-269330561",
+    "type": "minted",
+    "from": 83337,
+    "value": 83444
+  },
+  {
+    "at": "2026-10-25T23:59:07.323478+00:00",
+    "slug": "black-squarerh",
+    "type": "minted",
+    "from": 826,
+    "value": 828
+  },
+  {
+    "at": "2026-10-25T23:59:07.323478+00:00",
+    "slug": "waifuchillio",
+    "type": "minted",
+    "from": 225,
+    "value": 227
   }
 ]
