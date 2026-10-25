@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T02:06:37.883111+00:00",
-    "slug": "claymonsters",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T02:06:37.883111+00:00",
     "slug": "rhsnakes",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32037,5 +32031,12 @@
     "type": "minted",
     "from": 2752,
     "value": 2754
+  },
+  {
+    "at": "2026-10-25T02:09:06.038211+00:00",
+    "slug": "0x686cd2c08ed188b1a32423f71612d7fdc59adc7c",
+    "type": "minted",
+    "from": 4983,
+    "value": 4987
   }
 ]
