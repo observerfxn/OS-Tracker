@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T02:37:27.222738+00:00",
-    "slug": "yield-farm",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T02:37:27.222738+00:00",
     "slug": "rektobear",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32043,5 +32037,12 @@
     "type": "minted",
     "from": 2339,
     "value": 2341
+  },
+  {
+    "at": "2026-10-25T08:06:36.052850+00:00",
+    "slug": "pac-world-genesis",
+    "type": "minted",
+    "from": 2341,
+    "value": 2342
   }
 ]
