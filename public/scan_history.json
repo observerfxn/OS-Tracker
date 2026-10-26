@@ -1,11 +1,5 @@
 [
   {
-    "at": "2026-10-17T04:37:45.737779+00:00",
-    "slug": "rare-friends-genesis",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
     "at": "2026-10-17T05:05:36.174281+00:00",
     "slug": "hey-ccff00",
     "type": "minted",
@@ -32093,5 +32087,12 @@
     "type": "price",
     "from": 0.031,
     "value": 0.00011
+  },
+  {
+    "at": "2026-10-26T02:42:00.195471+00:00",
+    "slug": "amongrh-269330561",
+    "type": "minted",
+    "from": 83450,
+    "value": 83452
   }
 ]
