@@ -1,18 +1,6 @@
 [
   {
     "at": "2026-10-17T05:36:39.440305+00:00",
-    "slug": "cannacats",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T05:36:39.440305+00:00",
-    "slug": "seeker-net",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T05:36:39.440305+00:00",
     "slug": "sknots-go-down",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32110,5 +32098,19 @@
     "type": "minted",
     "from": 2759,
     "value": 2760
+  },
+  {
+    "at": "2026-10-26T21:12:07.688757+00:00",
+    "slug": "amongrh-269330561",
+    "type": "minted",
+    "from": 83657,
+    "value": 83659
+  },
+  {
+    "at": "2026-10-26T21:12:07.688757+00:00",
+    "slug": "pac-world-genesis",
+    "type": "minted",
+    "from": 2350,
+    "value": 2351
   }
 ]
