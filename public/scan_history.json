@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T05:05:36.174281+00:00",
-    "slug": "the-crayons",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T05:05:36.174281+00:00",
     "slug": "halo-nodes",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32099,5 +32093,12 @@
     "type": "minted",
     "from": 33191,
     "value": 33192
+  },
+  {
+    "at": "2026-10-26T09:50:32.725181+00:00",
+    "slug": "amongrh-269330561",
+    "type": "minted",
+    "from": 83459,
+    "value": 83461
   }
 ]
