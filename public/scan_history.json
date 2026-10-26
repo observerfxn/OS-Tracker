@@ -1,13 +1,6 @@
 [
   {
     "at": "2026-10-17T05:05:36.174281+00:00",
-    "slug": "hey-ccff00",
-    "type": "minted",
-    "from": 1557,
-    "value": 1560
-  },
-  {
-    "at": "2026-10-17T05:05:36.174281+00:00",
     "slug": "werlird-cats",
     "type": "discovered",
     "value": "LIVE"
@@ -32094,5 +32087,12 @@
     "type": "minted",
     "from": 83450,
     "value": 83452
+  },
+  {
+    "at": "2026-10-26T04:19:37.291807+00:00",
+    "slug": "status-warrior",
+    "type": "minted",
+    "from": 1590,
+    "value": 1593
   }
 ]
