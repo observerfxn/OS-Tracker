@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T17:44:35.154286+00:00",
+  "last_updated": "2026-10-26T18:17:54.824010+00:00",
   "scan_mode": "quick",
   "collections": [
     {
@@ -106,7 +106,7 @@
           "startTime": "2026-10-08T18:20:00.000Z",
           "endTime": "2027-10-08T18:20:00.000Z",
           "isFree": false,
-          "priceUsd": 0.557,
+          "priceUsd": 0.558,
           "priceToken": 0.00024,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -696,7 +696,7 @@
           "startTime": "2026-10-02T12:55:00.000Z",
           "endTime": "2026-12-31T13:00:00.000Z",
           "isFree": false,
-          "priceUsd": 0.233,
+          "priceUsd": 0.232,
           "priceToken": 0.0001,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -735,7 +735,7 @@
           "startTime": "2026-10-15T12:50:11.000Z",
           "endTime": "2027-01-23T12:50:11.000Z",
           "isFree": false,
-          "priceUsd": 4.645,
+          "priceUsd": 4.646,
           "priceToken": 0.002,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10
@@ -774,7 +774,7 @@
           "startTime": "2026-09-19T20:09:00.000Z",
           "endTime": "2026-10-29T20:13:00.000Z",
           "isFree": false,
-          "priceUsd": 1.627,
+          "priceUsd": 1.626,
           "priceToken": 0.0007,
           "tokenSymbol": "ETH",
           "maxPerWallet": 33
@@ -813,7 +813,7 @@
           "startTime": "2026-10-02T05:59:54.000Z",
           "endTime": "2026-12-31T05:59:54.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.161,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 33
@@ -913,7 +913,7 @@
           "startTime": "2026-11-01T18:12:00.000Z",
           "endTime": "2026-11-02T18:12:00.000Z",
           "isFree": false,
-          "priceUsd": 9.291,
+          "priceUsd": 9.295,
           "priceToken": 0.004,
           "tokenSymbol": "ETH",
           "maxPerWallet": 5
@@ -991,7 +991,7 @@
           "startTime": "2026-10-02T07:27:40.000Z",
           "endTime": "2026-12-31T07:28:40.000Z",
           "isFree": false,
-          "priceUsd": 1.627,
+          "priceUsd": 1.626,
           "priceToken": 0.0007,
           "tokenSymbol": "ETH",
           "maxPerWallet": 33
@@ -1030,7 +1030,7 @@
           "startTime": "2026-10-02T12:10:57.000Z",
           "endTime": "2026-11-21T12:10:57.000Z",
           "isFree": false,
-          "priceUsd": 0.93,
+          "priceUsd": 0.929,
           "priceToken": 0.0004,
           "tokenSymbol": "ETH",
           "maxPerWallet": 1000
@@ -1069,7 +1069,7 @@
           "startTime": "2026-09-28T10:30:46.000Z",
           "endTime": "2027-09-28T10:30:46.000Z",
           "isFree": false,
-          "priceUsd": 8.875,
+          "priceUsd": 8.869,
           "priceToken": 0.00381625641274187,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -1108,49 +1108,10 @@
           "startTime": "2026-09-28T10:30:46.000Z",
           "endTime": "2027-09-28T10:30:46.000Z",
           "isFree": false,
-          "priceUsd": 4.435,
+          "priceUsd": 4.434,
           "priceToken": 0.001908128206370935,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
-        }
-      ],
-      "twitterUsername": null,
-      "discordUrl": null,
-      "externalUrl": null,
-      "telegramUrl": null,
-      "isVerified": false,
-      "hasSocial": false
-    },
-    {
-      "slug": "zechfrogs",
-      "name": "ZechFrogs",
-      "description": "",
-      "imageUrl": "https://i2c.seadn.io/collection/zechfrogs/image_type_logo/8dd9cdaf1d93ff99087bcd8f6d60e9/578dd9cdaf1d93ff99087bcd8f6d60e9.jpeg",
-      "openseaUrl": "https://opensea.io/collection/zechfrogs/overview",
-      "contractAddress": "0xf7d6c4dfac166fc91a69be1825647929d3731aec",
-      "blockscoutUrl": "https://robinhoodchain.blockscout.com/address/0xf7d6c4dfac166fc91a69be1825647929d3731aec",
-      "chain": "Robinhood Chain",
-      "chainIdentifier": "robinhood",
-      "overallStatus": "LIVE",
-      "isSoldOut": false,
-      "itemsMinted": 10,
-      "maxSupply": 10000,
-      "remainingSupply": 9990,
-      "mintPercent": 0.1,
-      "hasFree": false,
-      "isPublicFree": false,
-      "earliestUpcoming": null,
-      "stages": [
-        {
-          "label": "Public stage",
-          "status": "LIVE",
-          "startTime": "2026-09-20T09:30:01.000Z",
-          "endTime": "2027-08-26T09:35:01.000Z",
-          "isFree": false,
-          "priceUsd": 1.163,
-          "priceToken": 0.0005,
-          "tokenSymbol": "ETH",
-          "maxPerWallet": 15
         }
       ],
       "twitterUsername": null,
@@ -1186,7 +1147,7 @@
           "startTime": "2026-09-20T09:25:43.000Z",
           "endTime": "2027-08-26T09:30:43.000Z",
           "isFree": false,
-          "priceUsd": 1.162,
+          "priceUsd": 1.161,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 15
@@ -1225,7 +1186,46 @@
           "startTime": "2026-09-20T09:34:11.000Z",
           "endTime": "2027-08-26T09:39:11.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.162,
+          "priceToken": 0.0005,
+          "tokenSymbol": "ETH",
+          "maxPerWallet": 15
+        }
+      ],
+      "twitterUsername": null,
+      "discordUrl": null,
+      "externalUrl": null,
+      "telegramUrl": null,
+      "isVerified": false,
+      "hasSocial": false
+    },
+    {
+      "slug": "zechfrogs",
+      "name": "ZechFrogs",
+      "description": "",
+      "imageUrl": "https://i2c.seadn.io/collection/zechfrogs/image_type_logo/8dd9cdaf1d93ff99087bcd8f6d60e9/578dd9cdaf1d93ff99087bcd8f6d60e9.jpeg",
+      "openseaUrl": "https://opensea.io/collection/zechfrogs/overview",
+      "contractAddress": "0xf7d6c4dfac166fc91a69be1825647929d3731aec",
+      "blockscoutUrl": "https://robinhoodchain.blockscout.com/address/0xf7d6c4dfac166fc91a69be1825647929d3731aec",
+      "chain": "Robinhood Chain",
+      "chainIdentifier": "robinhood",
+      "overallStatus": "LIVE",
+      "isSoldOut": false,
+      "itemsMinted": 10,
+      "maxSupply": 10000,
+      "remainingSupply": 9990,
+      "mintPercent": 0.1,
+      "hasFree": false,
+      "isPublicFree": false,
+      "earliestUpcoming": null,
+      "stages": [
+        {
+          "label": "Public stage",
+          "status": "LIVE",
+          "startTime": "2026-09-20T09:30:01.000Z",
+          "endTime": "2027-08-26T09:35:01.000Z",
+          "isFree": false,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 15
@@ -1264,7 +1264,7 @@
           "startTime": "2026-10-03T18:05:09.000Z",
           "endTime": "2026-11-11T18:11:09.000Z",
           "isFree": false,
-          "priceUsd": 465.126,
+          "priceUsd": 464.706,
           "priceToken": 0.2,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -1303,7 +1303,7 @@
           "startTime": "2026-10-02T07:20:32.000Z",
           "endTime": "2026-12-31T07:21:32.000Z",
           "isFree": false,
-          "priceUsd": 1.626,
+          "priceUsd": 1.627,
           "priceToken": 0.0007,
           "tokenSymbol": "ETH",
           "maxPerWallet": 33
@@ -1342,7 +1342,7 @@
           "startTime": "2026-10-01T18:00:51.000Z",
           "endTime": "2026-10-31T18:01:51.000Z",
           "isFree": false,
-          "priceUsd": 0.93,
+          "priceUsd": 0.929,
           "priceToken": 0.0004,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -1381,7 +1381,7 @@
           "startTime": "2026-10-03T07:21:50.000Z",
           "endTime": "2027-07-29T07:31:50.000Z",
           "isFree": false,
-          "priceUsd": 5.115,
+          "priceUsd": 5.112,
           "priceToken": 0.0022,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -1420,7 +1420,7 @@
           "startTime": "2026-09-28T10:30:46.000Z",
           "endTime": "2027-09-28T10:30:46.000Z",
           "isFree": false,
-          "priceUsd": 0.888,
+          "priceUsd": 0.887,
           "priceToken": 0.000381625641274187,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -1481,7 +1481,7 @@
           "startTime": "2026-11-03T10:52:00.000Z",
           "endTime": "2026-11-04T10:52:00.000Z",
           "isFree": false,
-          "priceUsd": 6.975,
+          "priceUsd": 6.971,
           "priceToken": 0.003,
           "tokenSymbol": "ETH",
           "maxPerWallet": 5
@@ -1534,6 +1534,45 @@
       "hasSocial": true
     },
     {
+      "slug": "nexus-rh-mining",
+      "name": "Nexus RH Mining",
+      "description": "",
+      "imageUrl": "https://i2c.seadn.io/collection/nexus-rh-mining/image_type_logo/62f1f839f185540cad99fd86c0d9f6/fd62f1f839f185540cad99fd86c0d9f6.jpeg",
+      "openseaUrl": "https://opensea.io/collection/nexus-rh-mining/overview",
+      "contractAddress": "0x6e55aff562610eb612b97a548ce3be742ac04fd5",
+      "blockscoutUrl": "https://robinhoodchain.blockscout.com/address/0x6e55aff562610eb612b97a548ce3be742ac04fd5",
+      "chain": "Robinhood Chain",
+      "chainIdentifier": "robinhood",
+      "overallStatus": "LIVE",
+      "isSoldOut": false,
+      "itemsMinted": 58,
+      "maxSupply": 9999,
+      "remainingSupply": 9941,
+      "mintPercent": 0.6,
+      "hasFree": false,
+      "isPublicFree": false,
+      "earliestUpcoming": null,
+      "stages": [
+        {
+          "label": "Public stage",
+          "status": "LIVE",
+          "startTime": "2026-09-20T14:53:17.000Z",
+          "endTime": "2027-08-19T14:58:17.000Z",
+          "isFree": false,
+          "priceUsd": 0.348,
+          "priceToken": 0.00015,
+          "tokenSymbol": "ETH",
+          "maxPerWallet": 333
+        }
+      ],
+      "twitterUsername": null,
+      "discordUrl": null,
+      "externalUrl": "https://nexusmining.lol/",
+      "telegramUrl": null,
+      "isVerified": false,
+      "hasSocial": true
+    },
+    {
       "slug": "nearratz-918975006",
       "name": "NearRatz",
       "description": "",
@@ -1573,45 +1612,6 @@
       "hasSocial": true
     },
     {
-      "slug": "nexus-rh-mining",
-      "name": "Nexus RH Mining",
-      "description": "",
-      "imageUrl": "https://i2c.seadn.io/collection/nexus-rh-mining/image_type_logo/62f1f839f185540cad99fd86c0d9f6/fd62f1f839f185540cad99fd86c0d9f6.jpeg",
-      "openseaUrl": "https://opensea.io/collection/nexus-rh-mining/overview",
-      "contractAddress": "0x6e55aff562610eb612b97a548ce3be742ac04fd5",
-      "blockscoutUrl": "https://robinhoodchain.blockscout.com/address/0x6e55aff562610eb612b97a548ce3be742ac04fd5",
-      "chain": "Robinhood Chain",
-      "chainIdentifier": "robinhood",
-      "overallStatus": "LIVE",
-      "isSoldOut": false,
-      "itemsMinted": 58,
-      "maxSupply": 9999,
-      "remainingSupply": 9941,
-      "mintPercent": 0.6,
-      "hasFree": false,
-      "isPublicFree": false,
-      "earliestUpcoming": null,
-      "stages": [
-        {
-          "label": "Public stage",
-          "status": "LIVE",
-          "startTime": "2026-09-20T14:53:17.000Z",
-          "endTime": "2027-08-19T14:58:17.000Z",
-          "isFree": false,
-          "priceUsd": 0.349,
-          "priceToken": 0.00015,
-          "tokenSymbol": "ETH",
-          "maxPerWallet": 333
-        }
-      ],
-      "twitterUsername": null,
-      "discordUrl": null,
-      "externalUrl": "https://nexusmining.lol/",
-      "telegramUrl": null,
-      "isVerified": false,
-      "hasSocial": true
-    },
-    {
       "slug": "hood-street-mini-205819451",
       "name": "Hood Street Mini",
       "description": "",
@@ -1637,7 +1637,7 @@
           "startTime": "2026-10-02T06:19:59.000Z",
           "endTime": "2026-12-31T06:19:59.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.161,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 5
@@ -1676,7 +1676,7 @@
           "startTime": "2026-10-14T11:22:24.000Z",
           "endTime": "2026-10-29T11:22:24.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -1715,7 +1715,7 @@
           "startTime": "2026-10-02T06:13:59.000Z",
           "endTime": "2026-12-31T06:13:59.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 5
@@ -1804,7 +1804,7 @@
           "startTime": "2026-10-02T07:16:26.000Z",
           "endTime": "2026-12-31T07:17:26.000Z",
           "isFree": false,
-          "priceUsd": 1.627,
+          "priceUsd": 1.626,
           "priceToken": 0.0007,
           "tokenSymbol": "ETH",
           "maxPerWallet": 33
@@ -1843,7 +1843,7 @@
           "startTime": "2026-10-02T15:32:21.000Z",
           "endTime": "2026-12-31T15:34:21.000Z",
           "isFree": false,
-          "priceUsd": 1.626,
+          "priceUsd": 1.627,
           "priceToken": 0.0007,
           "tokenSymbol": "ETH",
           "maxPerWallet": 33
@@ -1893,7 +1893,7 @@
           "startTime": "2026-10-02T14:32:08.000Z",
           "endTime": "2026-12-31T14:38:08.000Z",
           "isFree": false,
-          "priceUsd": 2.325,
+          "priceUsd": 2.323,
           "priceToken": 0.001,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -1932,7 +1932,7 @@
           "startTime": "2026-10-12T02:56:47.000Z",
           "endTime": "2026-11-12T02:56:47.000Z",
           "isFree": false,
-          "priceUsd": 11.628,
+          "priceUsd": 11.62,
           "priceToken": 0.005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10
@@ -1971,7 +1971,7 @@
           "startTime": "2026-10-02T07:53:50.000Z",
           "endTime": "2026-12-31T07:55:50.000Z",
           "isFree": false,
-          "priceUsd": 1.628,
+          "priceUsd": 1.626,
           "priceToken": 0.0007,
           "tokenSymbol": "ETH",
           "maxPerWallet": 33
@@ -2010,7 +2010,7 @@
           "startTime": "2026-10-02T06:57:38.000Z",
           "endTime": "2026-12-31T06:58:38.000Z",
           "isFree": false,
-          "priceUsd": 1.627,
+          "priceUsd": 1.626,
           "priceToken": 0.0007,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10
@@ -2049,7 +2049,7 @@
           "startTime": "2026-09-30T11:52:06.000Z",
           "endTime": "2027-08-29T11:57:06.000Z",
           "isFree": false,
-          "priceUsd": 0.233,
+          "priceUsd": 0.232,
           "priceToken": 0.0001,
           "tokenSymbol": "ETH",
           "maxPerWallet": 38
@@ -2088,7 +2088,7 @@
           "startTime": "2026-10-02T15:37:29.000Z",
           "endTime": "2026-12-31T15:39:29.000Z",
           "isFree": false,
-          "priceUsd": 1.626,
+          "priceUsd": 1.627,
           "priceToken": 0.0007,
           "tokenSymbol": "ETH",
           "maxPerWallet": 33
@@ -2127,7 +2127,7 @@
           "startTime": "2026-10-16T18:00:07.000Z",
           "endTime": "2026-11-16T18:00:07.000Z",
           "isFree": false,
-          "priceUsd": 11.62,
+          "priceUsd": 11.618,
           "priceToken": 0.005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -2166,7 +2166,7 @@
           "startTime": "2026-10-08T19:00:00.000Z",
           "endTime": "2027-01-16T20:00:00.000Z",
           "isFree": false,
-          "priceUsd": 0.14,
+          "priceUsd": 0.139,
           "priceToken": 6e-05,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -2205,7 +2205,7 @@
           "startTime": "2026-10-17T12:07:55.000Z",
           "endTime": "2026-11-01T12:17:55.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10
@@ -2361,7 +2361,7 @@
           "startTime": "2026-08-27T03:37:43.000Z",
           "endTime": "2026-08-27T03:40:43.000Z",
           "isFree": false,
-          "priceUsd": 2.326,
+          "priceUsd": 2.323,
           "priceToken": 0.001,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -2372,7 +2372,7 @@
           "startTime": "2026-08-27T03:40:43.000Z",
           "endTime": "2027-07-26T03:40:43.000Z",
           "isFree": false,
-          "priceUsd": 0.233,
+          "priceUsd": 0.232,
           "priceToken": 0.0001,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -2411,7 +2411,7 @@
           "startTime": "2026-10-08T16:05:02.000Z",
           "endTime": "2026-11-07T17:06:02.000Z",
           "isFree": false,
-          "priceUsd": 8.129,
+          "priceUsd": 8.133,
           "priceToken": 0.0035,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -2450,7 +2450,7 @@
           "startTime": "2026-10-02T15:27:45.000Z",
           "endTime": "2026-12-31T15:29:45.000Z",
           "isFree": false,
-          "priceUsd": 0.93,
+          "priceUsd": 0.929,
           "priceToken": 0.0004,
           "tokenSymbol": "ETH",
           "maxPerWallet": 33
@@ -2489,7 +2489,7 @@
           "startTime": "2026-10-14T03:36:00.000Z",
           "endTime": "2026-11-13T03:36:00.000Z",
           "isFree": false,
-          "priceUsd": 2.326,
+          "priceUsd": 2.323,
           "priceToken": 0.001,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -2528,7 +2528,7 @@
           "startTime": "2026-09-20T09:53:39.000Z",
           "endTime": "2026-12-29T09:59:39.000Z",
           "isFree": false,
-          "priceUsd": 0.441,
+          "priceUsd": 0.442,
           "priceToken": 0.00019,
           "tokenSymbol": "ETH",
           "maxPerWallet": 40
@@ -2540,45 +2540,6 @@
       "telegramUrl": null,
       "isVerified": false,
       "hasSocial": true
-    },
-    {
-      "slug": "caravan-rh-1",
-      "name": "CaravanRH",
-      "description": "",
-      "imageUrl": "https://i2c.seadn.io/collection/aklao/image_type_logo/9d3694cb5035308e3609dfe28dc426/259d3694cb5035308e3609dfe28dc426.jpeg",
-      "openseaUrl": "https://opensea.io/collection/caravan-rh-1/overview",
-      "contractAddress": "0xaebb3bbe3aa25eadae6a53ae0d4608279c5722b8",
-      "blockscoutUrl": "https://robinhoodchain.blockscout.com/address/0xaebb3bbe3aa25eadae6a53ae0d4608279c5722b8",
-      "chain": "Robinhood Chain",
-      "chainIdentifier": "robinhood",
-      "overallStatus": "LIVE",
-      "isSoldOut": false,
-      "itemsMinted": 130,
-      "maxSupply": 10000,
-      "remainingSupply": 9870,
-      "mintPercent": 1.3,
-      "hasFree": false,
-      "isPublicFree": false,
-      "earliestUpcoming": null,
-      "stages": [
-        {
-          "label": "Public stage",
-          "status": "LIVE",
-          "startTime": "2026-10-16T14:32:05.000Z",
-          "endTime": "2027-01-23T14:42:05.000Z",
-          "isFree": false,
-          "priceUsd": 2.092,
-          "priceToken": 0.0009,
-          "tokenSymbol": "ETH",
-          "maxPerWallet": 10000
-        }
-      ],
-      "twitterUsername": null,
-      "discordUrl": null,
-      "externalUrl": null,
-      "telegramUrl": null,
-      "isVerified": false,
-      "hasSocial": false
     },
     {
       "slug": "opepen-edition-by-visualizevalue-921351580",
@@ -2606,10 +2567,49 @@
           "startTime": "2026-10-12T13:09:07.000Z",
           "endTime": "2027-10-12T13:09:07.000Z",
           "isFree": false,
-          "priceUsd": 116.132,
+          "priceUsd": 116.186,
           "priceToken": 0.05,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10
+        }
+      ],
+      "twitterUsername": null,
+      "discordUrl": null,
+      "externalUrl": null,
+      "telegramUrl": null,
+      "isVerified": false,
+      "hasSocial": false
+    },
+    {
+      "slug": "caravan-rh-1",
+      "name": "CaravanRH",
+      "description": "",
+      "imageUrl": "https://i2c.seadn.io/collection/aklao/image_type_logo/9d3694cb5035308e3609dfe28dc426/259d3694cb5035308e3609dfe28dc426.jpeg",
+      "openseaUrl": "https://opensea.io/collection/caravan-rh-1/overview",
+      "contractAddress": "0xaebb3bbe3aa25eadae6a53ae0d4608279c5722b8",
+      "blockscoutUrl": "https://robinhoodchain.blockscout.com/address/0xaebb3bbe3aa25eadae6a53ae0d4608279c5722b8",
+      "chain": "Robinhood Chain",
+      "chainIdentifier": "robinhood",
+      "overallStatus": "LIVE",
+      "isSoldOut": false,
+      "itemsMinted": 130,
+      "maxSupply": 10000,
+      "remainingSupply": 9870,
+      "mintPercent": 1.3,
+      "hasFree": false,
+      "isPublicFree": false,
+      "earliestUpcoming": null,
+      "stages": [
+        {
+          "label": "Public stage",
+          "status": "LIVE",
+          "startTime": "2026-10-16T14:32:05.000Z",
+          "endTime": "2027-01-23T14:42:05.000Z",
+          "isFree": false,
+          "priceUsd": 2.091,
+          "priceToken": 0.0009,
+          "tokenSymbol": "ETH",
+          "maxPerWallet": 10000
         }
       ],
       "twitterUsername": null,
@@ -2645,7 +2645,7 @@
           "startTime": "2026-10-02T07:33:37.000Z",
           "endTime": "2026-12-31T07:35:37.000Z",
           "isFree": false,
-          "priceUsd": 1.627,
+          "priceUsd": 1.626,
           "priceToken": 0.0007,
           "tokenSymbol": "ETH",
           "maxPerWallet": 33
@@ -2706,7 +2706,7 @@
           "startTime": "2026-11-01T18:17:00.000Z",
           "endTime": "2026-11-02T18:17:00.000Z",
           "isFree": false,
-          "priceUsd": 7.442,
+          "priceUsd": 7.434,
           "priceToken": 0.0032,
           "tokenSymbol": "ETH",
           "maxPerWallet": 4
@@ -2795,7 +2795,7 @@
           "startTime": "2026-10-05T12:43:06.000Z",
           "endTime": "2026-11-04T12:43:06.000Z",
           "isFree": false,
-          "priceUsd": 3.489,
+          "priceUsd": 3.486,
           "priceToken": 0.0015,
           "tokenSymbol": "ETH",
           "maxPerWallet": 50
@@ -2834,7 +2834,7 @@
           "startTime": "2026-10-02T15:49:41.000Z",
           "endTime": "2027-05-24T15:51:41.000Z",
           "isFree": false,
-          "priceUsd": 2.093,
+          "priceUsd": 2.091,
           "priceToken": 0.0009,
           "tokenSymbol": "ETH",
           "maxPerWallet": 35
@@ -2884,7 +2884,7 @@
           "startTime": "2026-10-18T12:34:44.000Z",
           "endTime": "2026-11-17T12:34:44.000Z",
           "isFree": false,
-          "priceUsd": 1.396,
+          "priceUsd": 1.394,
           "priceToken": 0.0006,
           "tokenSymbol": "ETH",
           "maxPerWallet": 400
@@ -2934,7 +2934,7 @@
           "startTime": "2026-10-01T12:48:01.000Z",
           "endTime": "2027-10-01T12:48:01.000Z",
           "isFree": false,
-          "priceUsd": 11.628,
+          "priceUsd": 11.614,
           "priceToken": 0.005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10
@@ -2984,7 +2984,7 @@
           "startTime": "2026-10-01T12:55:33.000Z",
           "endTime": "2027-10-01T12:55:33.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -3034,7 +3034,7 @@
           "startTime": "2026-10-29T09:00:55.000Z",
           "endTime": "2026-11-28T09:00:55.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 50
@@ -3112,7 +3112,7 @@
           "startTime": "2026-09-20T09:05:42.000Z",
           "endTime": "2026-12-18T09:05:42.000Z",
           "isFree": false,
-          "priceUsd": 6.975,
+          "priceUsd": 6.972,
           "priceToken": 0.003,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -3229,7 +3229,7 @@
           "startTime": "2026-09-29T17:16:00.000Z",
           "endTime": "2026-10-29T17:25:00.000Z",
           "isFree": false,
-          "priceUsd": 6.977,
+          "priceUsd": 6.972,
           "priceToken": 0.003,
           "tokenSymbol": "ETH",
           "maxPerWallet": 30
@@ -3268,7 +3268,7 @@
           "startTime": "2026-09-29T14:18:36.000Z",
           "endTime": "2027-09-29T14:18:36.000Z",
           "isFree": false,
-          "priceUsd": 0.233,
+          "priceUsd": 0.232,
           "priceToken": 0.0001,
           "tokenSymbol": "ETH",
           "maxPerWallet": 5
@@ -3346,7 +3346,7 @@
           "startTime": "2026-10-20T03:36:06.000Z",
           "endTime": "2026-11-19T03:41:06.000Z",
           "isFree": false,
-          "priceUsd": 11.628,
+          "priceUsd": 11.615,
           "priceToken": 0.005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -3385,7 +3385,7 @@
           "startTime": "2026-09-30T08:02:50.000Z",
           "endTime": "2027-01-08T08:02:50.000Z",
           "isFree": false,
-          "priceUsd": 46.5,
+          "priceUsd": 46.471,
           "priceToken": 0.02,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10
@@ -3424,7 +3424,7 @@
           "startTime": "2026-10-14T12:55:14.000Z",
           "endTime": "2027-10-09T12:55:14.000Z",
           "isFree": false,
-          "priceUsd": 12.787,
+          "priceUsd": 12.779,
           "priceToken": 0.0055,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -3463,7 +3463,7 @@
           "startTime": "2026-10-08T00:24:57.000Z",
           "endTime": "2027-01-06T00:25:57.000Z",
           "isFree": false,
-          "priceUsd": 4.652,
+          "priceUsd": 4.646,
           "priceToken": 0.002,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -3502,7 +3502,7 @@
           "startTime": "2026-10-06T03:01:05.000Z",
           "endTime": "2027-08-01T03:21:05.000Z",
           "isFree": false,
-          "priceUsd": 16.275,
+          "priceUsd": 16.26,
           "priceToken": 0.007,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -3541,7 +3541,7 @@
           "startTime": "2026-10-22T04:20:15.000Z",
           "endTime": "2027-10-22T04:20:15.000Z",
           "isFree": false,
-          "priceUsd": 4.645,
+          "priceUsd": 4.647,
           "priceToken": 0.002,
           "tokenSymbol": "ETH",
           "maxPerWallet": 5
@@ -3580,7 +3580,7 @@
           "startTime": "2026-10-07T14:05:07.000Z",
           "endTime": "2026-11-05T14:05:07.000Z",
           "isFree": false,
-          "priceUsd": 0.698,
+          "priceUsd": 0.697,
           "priceToken": 0.0003,
           "tokenSymbol": "ETH",
           "maxPerWallet": 1000
@@ -3619,7 +3619,7 @@
           "startTime": "2026-09-30T00:52:06.000Z",
           "endTime": "2027-08-29T00:57:06.000Z",
           "isFree": false,
-          "priceUsd": 0.441,
+          "priceUsd": 0.442,
           "priceToken": 0.00019,
           "tokenSymbol": "ETH",
           "maxPerWallet": 35
@@ -3658,7 +3658,7 @@
           "startTime": "2026-09-28T22:45:26.000Z",
           "endTime": "2027-07-25T22:55:26.000Z",
           "isFree": false,
-          "priceUsd": 767.458,
+          "priceUsd": 766.603,
           "priceToken": 0.33,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -3697,7 +3697,7 @@
           "startTime": "2026-10-07T16:30:58.000Z",
           "endTime": "2027-06-13T16:30:58.000Z",
           "isFree": false,
-          "priceUsd": 4.65,
+          "priceUsd": 4.647,
           "priceToken": 0.002,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -3786,7 +3786,7 @@
           "startTime": "2026-10-14T10:10:38.000Z",
           "endTime": "2027-08-10T10:10:38.000Z",
           "isFree": false,
-          "priceUsd": 2.791,
+          "priceUsd": 2.788,
           "priceToken": 0.0012,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -3864,7 +3864,7 @@
           "startTime": "2026-09-20T14:49:00.000Z",
           "endTime": "2027-06-17T14:49:00.000Z",
           "isFree": false,
-          "priceUsd": 3600.077,
+          "priceUsd": 3602.107,
           "priceToken": 1.55,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -3992,7 +3992,7 @@
           "startTime": "2026-10-21T13:02:13.000Z",
           "endTime": "2026-11-20T13:02:13.000Z",
           "isFree": false,
-          "priceUsd": 10.452,
+          "priceUsd": 10.453,
           "priceToken": 0.0045,
           "tokenSymbol": "ETH",
           "maxPerWallet": 50
@@ -4131,7 +4131,7 @@
           "startTime": "2026-10-08T08:25:51.000Z",
           "endTime": "2026-11-07T08:25:51.000Z",
           "isFree": false,
-          "priceUsd": 1.861,
+          "priceUsd": 1.859,
           "priceToken": 0.0008,
           "tokenSymbol": "ETH",
           "maxPerWallet": 50
@@ -4170,7 +4170,7 @@
           "startTime": "2026-09-19T23:12:58.000Z",
           "endTime": "2026-10-28T00:12:58.000Z",
           "isFree": false,
-          "priceUsd": 2.787,
+          "priceUsd": 2.788,
           "priceToken": 0.0012,
           "tokenSymbol": "ETH",
           "maxPerWallet": 55
@@ -4209,7 +4209,7 @@
           "startTime": "2026-10-14T07:37:20.000Z",
           "endTime": "2027-10-09T07:37:20.000Z",
           "isFree": false,
-          "priceUsd": 41.807,
+          "priceUsd": 41.811,
           "priceToken": 0.018,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -4248,7 +4248,7 @@
           "startTime": "2026-10-13T16:45:00.000Z",
           "endTime": "2026-11-12T16:45:00.000Z",
           "isFree": false,
-          "priceUsd": 17.907,
+          "priceUsd": 17.893,
           "priceToken": 0.0077,
           "tokenSymbol": "ETH",
           "maxPerWallet": 50
@@ -4326,7 +4326,7 @@
           "startTime": "2026-10-20T04:54:03.000Z",
           "endTime": "2026-11-18T04:58:03.000Z",
           "isFree": false,
-          "priceUsd": 58.066,
+          "priceUsd": 58.093,
           "priceToken": 0.025,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -4404,7 +4404,7 @@
           "startTime": "2026-10-18T14:55:51.000Z",
           "endTime": "2026-12-17T15:56:51.000Z",
           "isFree": false,
-          "priceUsd": 10.465,
+          "priceUsd": 10.454,
           "priceToken": 0.0045,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -4416,45 +4416,6 @@
       "telegramUrl": null,
       "isVerified": false,
       "hasSocial": false
-    },
-    {
-      "slug": "inscription-924989359",
-      "name": "Inscription",
-      "description": "",
-      "imageUrl": "https://i2c.seadn.io/collection/inscription-924989359/image_type_logo/04b7d9e03785ac5ce35d0b33f10127/1304b7d9e03785ac5ce35d0b33f10127.jpeg",
-      "openseaUrl": "https://opensea.io/collection/inscription-924989359/overview",
-      "contractAddress": "0x7d714da800cfd4578258d407db4c8f93c18b13e0",
-      "blockscoutUrl": "https://robinhoodchain.blockscout.com/address/0x7d714da800cfd4578258d407db4c8f93c18b13e0",
-      "chain": "Robinhood Chain",
-      "chainIdentifier": "robinhood",
-      "overallStatus": "LIVE",
-      "isSoldOut": false,
-      "itemsMinted": 271,
-      "maxSupply": 10000,
-      "remainingSupply": 9729,
-      "mintPercent": 2.7,
-      "hasFree": false,
-      "isPublicFree": false,
-      "earliestUpcoming": null,
-      "stages": [
-        {
-          "label": "Public stage",
-          "status": "LIVE",
-          "startTime": "2026-09-30T09:08:12.000Z",
-          "endTime": "2026-10-31T09:08:12.000Z",
-          "isFree": false,
-          "priceUsd": 11.613,
-          "priceToken": 0.005,
-          "tokenSymbol": "ETH",
-          "maxPerWallet": 10
-        }
-      ],
-      "twitterUsername": null,
-      "discordUrl": null,
-      "externalUrl": "https://x.com/inscription123",
-      "telegramUrl": null,
-      "isVerified": false,
-      "hasSocial": true
     },
     {
       "slug": "rh-orangs-nft",
@@ -4493,7 +4454,7 @@
           "startTime": "2026-10-19T12:23:32.000Z",
           "endTime": "2026-11-18T12:23:32.000Z",
           "isFree": false,
-          "priceUsd": 3.487,
+          "priceUsd": 3.485,
           "priceToken": 0.0015,
           "tokenSymbol": "ETH",
           "maxPerWallet": 50
@@ -4502,6 +4463,45 @@
       "twitterUsername": "Fauzi_1938",
       "discordUrl": null,
       "externalUrl": "https://opensea.io/collection/rh-orangs/overview",
+      "telegramUrl": null,
+      "isVerified": false,
+      "hasSocial": true
+    },
+    {
+      "slug": "inscription-924989359",
+      "name": "Inscription",
+      "description": "",
+      "imageUrl": "https://i2c.seadn.io/collection/inscription-924989359/image_type_logo/04b7d9e03785ac5ce35d0b33f10127/1304b7d9e03785ac5ce35d0b33f10127.jpeg",
+      "openseaUrl": "https://opensea.io/collection/inscription-924989359/overview",
+      "contractAddress": "0x7d714da800cfd4578258d407db4c8f93c18b13e0",
+      "blockscoutUrl": "https://robinhoodchain.blockscout.com/address/0x7d714da800cfd4578258d407db4c8f93c18b13e0",
+      "chain": "Robinhood Chain",
+      "chainIdentifier": "robinhood",
+      "overallStatus": "LIVE",
+      "isSoldOut": false,
+      "itemsMinted": 271,
+      "maxSupply": 10000,
+      "remainingSupply": 9729,
+      "mintPercent": 2.7,
+      "hasFree": false,
+      "isPublicFree": false,
+      "earliestUpcoming": null,
+      "stages": [
+        {
+          "label": "Public stage",
+          "status": "LIVE",
+          "startTime": "2026-09-30T09:08:12.000Z",
+          "endTime": "2026-10-31T09:08:12.000Z",
+          "isFree": false,
+          "priceUsd": 11.615,
+          "priceToken": 0.005,
+          "tokenSymbol": "ETH",
+          "maxPerWallet": 10
+        }
+      ],
+      "twitterUsername": null,
+      "discordUrl": null,
+      "externalUrl": "https://x.com/inscription123",
       "telegramUrl": null,
       "isVerified": false,
       "hasSocial": true
@@ -4532,7 +4532,7 @@
           "startTime": "2026-08-11T15:21:22.000Z",
           "endTime": "2026-08-11T15:24:22.000Z",
           "isFree": false,
-          "priceUsd": 4.645,
+          "priceUsd": 4.646,
           "priceToken": 0.002,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -4543,7 +4543,7 @@
           "startTime": "2026-08-11T15:24:22.000Z",
           "endTime": "2027-07-10T15:24:22.000Z",
           "isFree": false,
-          "priceUsd": 1.161,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -4582,7 +4582,7 @@
           "startTime": "2026-09-20T05:49:00.000Z",
           "endTime": "2027-08-26T05:54:00.000Z",
           "isFree": false,
-          "priceUsd": 1.162,
+          "priceUsd": 1.161,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 15
@@ -4621,7 +4621,7 @@
           "startTime": "2026-10-02T16:36:45.000Z",
           "endTime": "2026-11-02T16:36:45.000Z",
           "isFree": false,
-          "priceUsd": 11.613,
+          "priceUsd": 11.618,
           "priceToken": 0.005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10
@@ -4671,7 +4671,7 @@
           "startTime": "2026-09-29T13:57:00.000Z",
           "endTime": "2026-10-29T13:57:00.000Z",
           "isFree": false,
-          "priceUsd": 12.774,
+          "priceUsd": 12.775,
           "priceToken": 0.0055,
           "tokenSymbol": "ETH",
           "maxPerWallet": 50
@@ -4683,6 +4683,45 @@
       "telegramUrl": null,
       "isVerified": false,
       "hasSocial": true
+    },
+    {
+      "slug": "brokentoys-rh",
+      "name": "BROKENTOYS RH",
+      "description": "",
+      "imageUrl": "https://i2c.seadn.io/collection/brokentoys-rh/image_type_logo/e7e5c7244f4a02d7b7335c38173a0d/91e7e5c7244f4a02d7b7335c38173a0d.jpeg",
+      "openseaUrl": "https://opensea.io/collection/brokentoys-rh/overview",
+      "contractAddress": "0x5fa7db18a32b6f03f91b56dc8f751bea11df1c4e",
+      "blockscoutUrl": "https://robinhoodchain.blockscout.com/address/0x5fa7db18a32b6f03f91b56dc8f751bea11df1c4e",
+      "chain": "Robinhood Chain",
+      "chainIdentifier": "robinhood",
+      "overallStatus": "LIVE",
+      "isSoldOut": false,
+      "itemsMinted": 286,
+      "maxSupply": 10000,
+      "remainingSupply": 9714,
+      "mintPercent": 2.9,
+      "hasFree": false,
+      "isPublicFree": false,
+      "earliestUpcoming": null,
+      "stages": [
+        {
+          "label": "Public stage",
+          "status": "LIVE",
+          "startTime": "2026-09-29T11:54:04.000Z",
+          "endTime": "2027-09-24T11:54:04.000Z",
+          "isFree": false,
+          "priceUsd": 34.853,
+          "priceToken": 0.015,
+          "tokenSymbol": "ETH",
+          "maxPerWallet": 100
+        }
+      ],
+      "twitterUsername": null,
+      "discordUrl": null,
+      "externalUrl": null,
+      "telegramUrl": null,
+      "isVerified": false,
+      "hasSocial": false
     },
     {
       "slug": "clever-hood",
@@ -4724,45 +4763,6 @@
       "hasSocial": false
     },
     {
-      "slug": "brokentoys-rh",
-      "name": "BROKENTOYS RH",
-      "description": "",
-      "imageUrl": "https://i2c.seadn.io/collection/brokentoys-rh/image_type_logo/e7e5c7244f4a02d7b7335c38173a0d/91e7e5c7244f4a02d7b7335c38173a0d.jpeg",
-      "openseaUrl": "https://opensea.io/collection/brokentoys-rh/overview",
-      "contractAddress": "0x5fa7db18a32b6f03f91b56dc8f751bea11df1c4e",
-      "blockscoutUrl": "https://robinhoodchain.blockscout.com/address/0x5fa7db18a32b6f03f91b56dc8f751bea11df1c4e",
-      "chain": "Robinhood Chain",
-      "chainIdentifier": "robinhood",
-      "overallStatus": "LIVE",
-      "isSoldOut": false,
-      "itemsMinted": 286,
-      "maxSupply": 10000,
-      "remainingSupply": 9714,
-      "mintPercent": 2.9,
-      "hasFree": false,
-      "isPublicFree": false,
-      "earliestUpcoming": null,
-      "stages": [
-        {
-          "label": "Public stage",
-          "status": "LIVE",
-          "startTime": "2026-09-29T11:54:04.000Z",
-          "endTime": "2027-09-24T11:54:04.000Z",
-          "isFree": false,
-          "priceUsd": 34.86,
-          "priceToken": 0.015,
-          "tokenSymbol": "ETH",
-          "maxPerWallet": 100
-        }
-      ],
-      "twitterUsername": null,
-      "discordUrl": null,
-      "externalUrl": null,
-      "telegramUrl": null,
-      "isVerified": false,
-      "hasSocial": false
-    },
-    {
       "slug": "egg-racers",
       "name": "EGG RACERS",
       "description": "",
@@ -4788,7 +4788,7 @@
           "startTime": "2026-09-28T22:36:18.000Z",
           "endTime": "2027-06-15T22:36:18.000Z",
           "isFree": false,
-          "priceUsd": 17.884,
+          "priceUsd": 17.887,
           "priceToken": 0.0077,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -5044,7 +5044,7 @@
           "startTime": "2026-09-29T13:35:22.000Z",
           "endTime": "2027-07-26T13:35:22.000Z",
           "isFree": false,
-          "priceUsd": 2302.374,
+          "priceUsd": 2300.483,
           "priceToken": 0.99,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -5083,7 +5083,7 @@
           "startTime": "2026-10-05T10:00:41.000Z",
           "endTime": "2027-04-22T10:00:41.000Z",
           "isFree": false,
-          "priceUsd": 3.487,
+          "priceUsd": 3.485,
           "priceToken": 0.0015,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -5122,7 +5122,7 @@
           "startTime": "2026-10-08T21:16:00.000Z",
           "endTime": "2027-08-04T21:16:00.000Z",
           "isFree": false,
-          "priceUsd": 41.861,
+          "priceUsd": 41.811,
           "priceToken": 0.018,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -5200,7 +5200,7 @@
           "startTime": "2026-09-19T20:15:26.000Z",
           "endTime": "2026-10-29T20:19:26.000Z",
           "isFree": false,
-          "priceUsd": 1.628,
+          "priceUsd": 1.626,
           "priceToken": 0.0007,
           "tokenSymbol": "ETH",
           "maxPerWallet": 15
@@ -5239,7 +5239,7 @@
           "startTime": "2026-10-01T13:46:41.000Z",
           "endTime": "2027-09-26T13:46:41.000Z",
           "isFree": false,
-          "priceUsd": 41.85,
+          "priceUsd": 41.827,
           "priceToken": 0.018,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -5289,7 +5289,7 @@
           "startTime": "2026-10-29T12:10:20.000Z",
           "endTime": "2026-11-28T12:10:20.000Z",
           "isFree": false,
-          "priceUsd": 3.487,
+          "priceUsd": 3.485,
           "priceToken": 0.0015,
           "tokenSymbol": "ETH",
           "maxPerWallet": 400
@@ -5378,7 +5378,7 @@
           "startTime": "2026-10-20T13:35:40.000Z",
           "endTime": "2026-11-19T13:35:40.000Z",
           "isFree": false,
-          "priceUsd": 8.129,
+          "priceUsd": 8.13,
           "priceToken": 0.0035,
           "tokenSymbol": "ETH",
           "maxPerWallet": 400
@@ -5417,7 +5417,7 @@
           "startTime": "2026-09-21T12:53:07.000Z",
           "endTime": "2027-05-01T12:54:07.000Z",
           "isFree": false,
-          "priceUsd": 197.424,
+          "priceUsd": 197.516,
           "priceToken": 0.085,
           "tokenSymbol": "ETH",
           "maxPerWallet": 9999
@@ -5509,6 +5509,56 @@
       "hasSocial": false
     },
     {
+      "slug": "punks-nft-954987085",
+      "name": "Punks NFT ",
+      "description": "",
+      "imageUrl": "https://i2c.seadn.io/collection/punks-nft-954987085/image_type_logo/51b9cdb7bafe610b95b957083ddd88/4a51b9cdb7bafe610b95b957083ddd88.jpeg",
+      "openseaUrl": "https://opensea.io/collection/punks-nft-954987085/overview",
+      "contractAddress": "0x2623f3670d249556b415992509e42b42bf678ced",
+      "blockscoutUrl": "https://robinhoodchain.blockscout.com/address/0x2623f3670d249556b415992509e42b42bf678ced",
+      "chain": "Robinhood Chain",
+      "chainIdentifier": "robinhood",
+      "overallStatus": "LIVE",
+      "isSoldOut": false,
+      "itemsMinted": 232,
+      "maxSupply": 9870,
+      "remainingSupply": 9638,
+      "mintPercent": 2.4,
+      "hasFree": true,
+      "isPublicFree": false,
+      "earliestUpcoming": "2026-10-29T11:45:46+00:00",
+      "stages": [
+        {
+          "label": "Gg",
+          "status": "LIVE",
+          "startTime": "2026-10-21T11:45:46.000Z",
+          "endTime": "2026-10-29T11:45:46.000Z",
+          "isFree": true,
+          "priceUsd": 0.0,
+          "priceToken": 0.0,
+          "tokenSymbol": "ETH",
+          "maxPerWallet": 9870
+        },
+        {
+          "label": "Public stage",
+          "status": "UPCOMING",
+          "startTime": "2026-10-29T11:45:46.000Z",
+          "endTime": "2026-11-28T11:45:46.000Z",
+          "isFree": false,
+          "priceUsd": 3.485,
+          "priceToken": 0.0015,
+          "tokenSymbol": "ETH",
+          "maxPerWallet": 400
+        }
+      ],
+      "twitterUsername": null,
+      "discordUrl": null,
+      "externalUrl": null,
+      "telegramUrl": null,
+      "isVerified": false,
+      "hasSocial": false
+    },
+    {
       "slug": "street1punks",
       "name": "street1punks ",
       "description": "",
@@ -5548,56 +5598,6 @@
       "hasSocial": false
     },
     {
-      "slug": "punks-nft-954987085",
-      "name": "Punks NFT ",
-      "description": "",
-      "imageUrl": "https://i2c.seadn.io/collection/punks-nft-954987085/image_type_logo/51b9cdb7bafe610b95b957083ddd88/4a51b9cdb7bafe610b95b957083ddd88.jpeg",
-      "openseaUrl": "https://opensea.io/collection/punks-nft-954987085/overview",
-      "contractAddress": "0x2623f3670d249556b415992509e42b42bf678ced",
-      "blockscoutUrl": "https://robinhoodchain.blockscout.com/address/0x2623f3670d249556b415992509e42b42bf678ced",
-      "chain": "Robinhood Chain",
-      "chainIdentifier": "robinhood",
-      "overallStatus": "LIVE",
-      "isSoldOut": false,
-      "itemsMinted": 232,
-      "maxSupply": 9870,
-      "remainingSupply": 9638,
-      "mintPercent": 2.4,
-      "hasFree": true,
-      "isPublicFree": false,
-      "earliestUpcoming": "2026-10-29T11:45:46+00:00",
-      "stages": [
-        {
-          "label": "Gg",
-          "status": "LIVE",
-          "startTime": "2026-10-21T11:45:46.000Z",
-          "endTime": "2026-10-29T11:45:46.000Z",
-          "isFree": true,
-          "priceUsd": 0.0,
-          "priceToken": 0.0,
-          "tokenSymbol": "ETH",
-          "maxPerWallet": 9870
-        },
-        {
-          "label": "Public stage",
-          "status": "UPCOMING",
-          "startTime": "2026-10-29T11:45:46.000Z",
-          "endTime": "2026-11-28T11:45:46.000Z",
-          "isFree": false,
-          "priceUsd": 3.484,
-          "priceToken": 0.0015,
-          "tokenSymbol": "ETH",
-          "maxPerWallet": 400
-        }
-      ],
-      "twitterUsername": null,
-      "discordUrl": null,
-      "externalUrl": null,
-      "telegramUrl": null,
-      "isVerified": false,
-      "hasSocial": false
-    },
-    {
       "slug": "rh-surfboard",
       "name": "RH SurfBoard",
       "description": "",
@@ -5623,7 +5623,7 @@
           "startTime": "2026-10-15T04:15:49.000Z",
           "endTime": "2027-08-11T04:35:49.000Z",
           "isFree": false,
-          "priceUsd": 18.6,
+          "priceUsd": 18.59,
           "priceToken": 0.008,
           "tokenSymbol": "ETH",
           "maxPerWallet": 70
@@ -5673,7 +5673,7 @@
           "startTime": "2026-11-11T12:15:32.000Z",
           "endTime": "2026-12-11T12:15:32.000Z",
           "isFree": false,
-          "priceUsd": 5.812,
+          "priceUsd": 5.809,
           "priceToken": 0.0025,
           "tokenSymbol": "ETH",
           "maxPerWallet": 400
@@ -5723,7 +5723,7 @@
           "startTime": "2026-10-30T11:55:44.000Z",
           "endTime": "2026-11-29T11:55:44.000Z",
           "isFree": false,
-          "priceUsd": 5.807,
+          "priceUsd": 5.808,
           "priceToken": 0.0025,
           "tokenSymbol": "ETH",
           "maxPerWallet": 400
@@ -5762,7 +5762,7 @@
           "startTime": "2026-09-29T13:39:08.000Z",
           "endTime": "2027-07-26T13:39:08.000Z",
           "isFree": false,
-          "priceUsd": 76.746,
+          "priceUsd": 76.683,
           "priceToken": 0.033,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -5801,7 +5801,7 @@
           "startTime": "2026-10-15T15:12:14.000Z",
           "endTime": "2026-10-30T15:17:14.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -5840,7 +5840,7 @@
           "startTime": "2026-10-14T00:48:57.000Z",
           "endTime": "2027-09-10T01:03:57.000Z",
           "isFree": false,
-          "priceUsd": 127.874,
+          "priceUsd": 127.817,
           "priceToken": 0.055,
           "tokenSymbol": "ETH",
           "maxPerWallet": 50
@@ -5890,7 +5890,7 @@
           "startTime": "2026-10-17T13:40:48.000Z",
           "endTime": "2026-11-16T13:40:48.000Z",
           "isFree": false,
-          "priceUsd": 5.807,
+          "priceUsd": 5.809,
           "priceToken": 0.0025,
           "tokenSymbol": "ETH",
           "maxPerWallet": 400
@@ -5940,7 +5940,7 @@
           "startTime": "2026-08-27T02:45:32.000Z",
           "endTime": "2027-02-22T02:45:32.000Z",
           "isFree": false,
-          "priceUsd": 0.93,
+          "priceUsd": 0.929,
           "priceToken": 0.0004,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -6018,7 +6018,7 @@
           "startTime": "2026-09-29T14:43:48.000Z",
           "endTime": "2027-09-29T14:43:48.000Z",
           "isFree": false,
-          "priceUsd": 11.628,
+          "priceUsd": 11.615,
           "priceToken": 0.005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -6146,7 +6146,7 @@
           "startTime": "2026-10-14T08:38:40.000Z",
           "endTime": "2026-10-29T08:38:40.000Z",
           "isFree": false,
-          "priceUsd": 1.162,
+          "priceUsd": 1.161,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -6235,7 +6235,7 @@
           "startTime": "2026-10-14T11:55:05.000Z",
           "endTime": "2027-08-10T11:55:05.000Z",
           "isFree": false,
-          "priceUsd": 27.9,
+          "priceUsd": 27.874,
           "priceToken": 0.012,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -6274,10 +6274,49 @@
           "startTime": "2026-09-28T16:30:03.000Z",
           "endTime": "2027-07-25T16:30:03.000Z",
           "isFree": false,
-          "priceUsd": 61.645,
+          "priceUsd": 61.561,
           "priceToken": 0.0265,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
+        }
+      ],
+      "twitterUsername": null,
+      "discordUrl": null,
+      "externalUrl": null,
+      "telegramUrl": null,
+      "isVerified": false,
+      "hasSocial": false
+    },
+    {
+      "slug": "alter-hood-2",
+      "name": "ALTERHOOD",
+      "description": "",
+      "imageUrl": "https://i2c.seadn.io/collection/alter-hood-2/image_type_logo/7a80e7c9fe71b5ef1ebeafe5747ff1/4d7a80e7c9fe71b5ef1ebeafe5747ff1.jpeg",
+      "openseaUrl": "https://opensea.io/collection/alter-hood-2/overview",
+      "contractAddress": "0xd2f952badf8f05e5ebc1fe6bd50a901f02b6f175",
+      "blockscoutUrl": "https://robinhoodchain.blockscout.com/address/0xd2f952badf8f05e5ebc1fe6bd50a901f02b6f175",
+      "chain": "Robinhood Chain",
+      "chainIdentifier": "robinhood",
+      "overallStatus": "LIVE",
+      "isSoldOut": false,
+      "itemsMinted": 496,
+      "maxSupply": 10000,
+      "remainingSupply": 9504,
+      "mintPercent": 5.0,
+      "hasFree": false,
+      "isPublicFree": false,
+      "earliestUpcoming": null,
+      "stages": [
+        {
+          "label": "Public stage",
+          "status": "LIVE",
+          "startTime": "2026-09-22T01:45:36.000Z",
+          "endTime": "2027-04-08T01:45:36.000Z",
+          "isFree": false,
+          "priceUsd": 0.929,
+          "priceToken": 0.0004,
+          "tokenSymbol": "ETH",
+          "maxPerWallet": 10000
         }
       ],
       "twitterUsername": null,
@@ -6324,7 +6363,7 @@
           "startTime": "2026-10-22T12:35:00.000Z",
           "endTime": "2026-11-21T12:35:00.000Z",
           "isFree": false,
-          "priceUsd": 8.835,
+          "priceUsd": 8.828,
           "priceToken": 0.0038,
           "tokenSymbol": "ETH",
           "maxPerWallet": 400
@@ -6336,45 +6375,6 @@
       "telegramUrl": null,
       "isVerified": false,
       "hasSocial": true
-    },
-    {
-      "slug": "alter-hood-2",
-      "name": "ALTERHOOD",
-      "description": "",
-      "imageUrl": "https://i2c.seadn.io/collection/alter-hood-2/image_type_logo/7a80e7c9fe71b5ef1ebeafe5747ff1/4d7a80e7c9fe71b5ef1ebeafe5747ff1.jpeg",
-      "openseaUrl": "https://opensea.io/collection/alter-hood-2/overview",
-      "contractAddress": "0xd2f952badf8f05e5ebc1fe6bd50a901f02b6f175",
-      "blockscoutUrl": "https://robinhoodchain.blockscout.com/address/0xd2f952badf8f05e5ebc1fe6bd50a901f02b6f175",
-      "chain": "Robinhood Chain",
-      "chainIdentifier": "robinhood",
-      "overallStatus": "LIVE",
-      "isSoldOut": false,
-      "itemsMinted": 496,
-      "maxSupply": 10000,
-      "remainingSupply": 9504,
-      "mintPercent": 5.0,
-      "hasFree": false,
-      "isPublicFree": false,
-      "earliestUpcoming": null,
-      "stages": [
-        {
-          "label": "Public stage",
-          "status": "LIVE",
-          "startTime": "2026-09-22T01:45:36.000Z",
-          "endTime": "2027-04-08T01:45:36.000Z",
-          "isFree": false,
-          "priceUsd": 0.93,
-          "priceToken": 0.0004,
-          "tokenSymbol": "ETH",
-          "maxPerWallet": 10000
-        }
-      ],
-      "twitterUsername": null,
-      "discordUrl": null,
-      "externalUrl": null,
-      "telegramUrl": null,
-      "isVerified": false,
-      "hasSocial": false
     },
     {
       "slug": "cropz-genesis-rh",
@@ -6441,7 +6441,7 @@
           "startTime": "2026-10-15T15:11:39.000Z",
           "endTime": "2026-10-30T15:16:39.000Z",
           "isFree": false,
-          "priceUsd": 1.162,
+          "priceUsd": 1.161,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -6491,7 +6491,7 @@
           "startTime": "2026-10-20T13:25:53.000Z",
           "endTime": "2026-11-19T13:25:53.000Z",
           "isFree": false,
-          "priceUsd": 2.791,
+          "priceUsd": 2.789,
           "priceToken": 0.0012,
           "tokenSymbol": "ETH",
           "maxPerWallet": 400
@@ -6541,7 +6541,7 @@
           "startTime": "2026-10-30T11:18:14.000Z",
           "endTime": "2026-11-29T11:18:14.000Z",
           "isFree": false,
-          "priceUsd": 3.484,
+          "priceUsd": 3.485,
           "priceToken": 0.0015,
           "tokenSymbol": "ETH",
           "maxPerWallet": 400
@@ -6591,7 +6591,7 @@
           "startTime": "2026-10-05T23:29:49.000Z",
           "endTime": "2026-11-04T23:29:49.000Z",
           "isFree": false,
-          "priceUsd": 6.503,
+          "priceUsd": 6.507,
           "priceToken": 0.0028,
           "tokenSymbol": "ETH",
           "maxPerWallet": 50
@@ -6641,7 +6641,7 @@
           "startTime": "2026-09-30T08:36:00.000Z",
           "endTime": "2026-10-29T09:36:00.000Z",
           "isFree": false,
-          "priceUsd": 11.628,
+          "priceUsd": 11.619,
           "priceToken": 0.005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 1000
@@ -6719,7 +6719,7 @@
           "startTime": "2026-10-07T06:30:57.000Z",
           "endTime": "2026-11-05T06:30:57.000Z",
           "isFree": false,
-          "priceUsd": 197.424,
+          "priceUsd": 197.535,
           "priceToken": 0.085,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -6769,7 +6769,7 @@
           "startTime": "2026-09-29T14:22:32.000Z",
           "endTime": "2027-09-29T14:22:32.000Z",
           "isFree": false,
-          "priceUsd": 11.625,
+          "priceUsd": 11.62,
           "priceToken": 0.005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -6819,7 +6819,7 @@
           "startTime": "2026-11-11T13:00:39.000Z",
           "endTime": "2026-12-11T13:00:39.000Z",
           "isFree": false,
-          "priceUsd": 17.43,
+          "priceUsd": 17.428,
           "priceToken": 0.0075,
           "tokenSymbol": "ETH",
           "maxPerWallet": 400
@@ -6947,7 +6947,7 @@
           "startTime": "2026-10-30T23:18:49.000Z",
           "endTime": "2026-11-29T23:18:49.000Z",
           "isFree": false,
-          "priceUsd": 3.489,
+          "priceUsd": 3.486,
           "priceToken": 0.0015,
           "tokenSymbol": "ETH",
           "maxPerWallet": 50
@@ -6986,7 +6986,7 @@
           "startTime": "2026-09-19T19:13:00.000Z",
           "endTime": "2027-06-16T19:13:00.000Z",
           "isFree": false,
-          "priceUsd": 116.311,
+          "priceUsd": 116.186,
           "priceToken": 0.05,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -7075,47 +7075,8 @@
           "startTime": "2026-09-29T14:53:44.000Z",
           "endTime": "2027-09-29T14:53:44.000Z",
           "isFree": false,
-          "priceUsd": 11.628,
+          "priceUsd": 11.619,
           "priceToken": 0.005,
-          "tokenSymbol": "ETH",
-          "maxPerWallet": 10000
-        }
-      ],
-      "twitterUsername": null,
-      "discordUrl": null,
-      "externalUrl": null,
-      "telegramUrl": null,
-      "isVerified": false,
-      "hasSocial": false
-    },
-    {
-      "slug": "-nft-743579604",
-      "name": "PonsBros Nft",
-      "description": "",
-      "imageUrl": "https://i2c.seadn.io/collection/darkhoods-nft-743579604/image_type_logo/55f740e026ec7edbbe57c6c0c9c786/3e55f740e026ec7edbbe57c6c0c9c786.jpeg",
-      "openseaUrl": "https://opensea.io/collection/-nft-743579604/overview",
-      "contractAddress": "0xcc5fc091b71621ed1402485ec0fb5cfd3bcaf64c",
-      "blockscoutUrl": "https://robinhoodchain.blockscout.com/address/0xcc5fc091b71621ed1402485ec0fb5cfd3bcaf64c",
-      "chain": "Robinhood Chain",
-      "chainIdentifier": "robinhood",
-      "overallStatus": "LIVE",
-      "isSoldOut": false,
-      "itemsMinted": 628,
-      "maxSupply": 10000,
-      "remainingSupply": 9372,
-      "mintPercent": 6.3,
-      "hasFree": false,
-      "isPublicFree": false,
-      "earliestUpcoming": null,
-      "stages": [
-        {
-          "label": "Public stage",
-          "status": "LIVE",
-          "startTime": "2026-10-14T11:23:11.000Z",
-          "endTime": "2026-10-29T11:23:11.000Z",
-          "isFree": false,
-          "priceUsd": 1.162,
-          "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
         }
@@ -7175,10 +7136,49 @@
           "startTime": "2026-11-10T05:21:00.000Z",
           "endTime": "2026-11-11T05:21:00.000Z",
           "isFree": false,
-          "priceUsd": 4.882,
+          "priceUsd": 4.878,
           "priceToken": 0.0021,
           "tokenSymbol": "ETH",
           "maxPerWallet": 5
+        }
+      ],
+      "twitterUsername": null,
+      "discordUrl": null,
+      "externalUrl": null,
+      "telegramUrl": null,
+      "isVerified": false,
+      "hasSocial": false
+    },
+    {
+      "slug": "-nft-743579604",
+      "name": "PonsBros Nft",
+      "description": "",
+      "imageUrl": "https://i2c.seadn.io/collection/darkhoods-nft-743579604/image_type_logo/55f740e026ec7edbbe57c6c0c9c786/3e55f740e026ec7edbbe57c6c0c9c786.jpeg",
+      "openseaUrl": "https://opensea.io/collection/-nft-743579604/overview",
+      "contractAddress": "0xcc5fc091b71621ed1402485ec0fb5cfd3bcaf64c",
+      "blockscoutUrl": "https://robinhoodchain.blockscout.com/address/0xcc5fc091b71621ed1402485ec0fb5cfd3bcaf64c",
+      "chain": "Robinhood Chain",
+      "chainIdentifier": "robinhood",
+      "overallStatus": "LIVE",
+      "isSoldOut": false,
+      "itemsMinted": 628,
+      "maxSupply": 10000,
+      "remainingSupply": 9372,
+      "mintPercent": 6.3,
+      "hasFree": false,
+      "isPublicFree": false,
+      "earliestUpcoming": null,
+      "stages": [
+        {
+          "label": "Public stage",
+          "status": "LIVE",
+          "startTime": "2026-10-14T11:23:11.000Z",
+          "endTime": "2026-10-29T11:23:11.000Z",
+          "isFree": false,
+          "priceUsd": 1.162,
+          "priceToken": 0.0005,
+          "tokenSymbol": "ETH",
+          "maxPerWallet": 10000
         }
       ],
       "twitterUsername": null,
@@ -7214,7 +7214,7 @@
           "startTime": "2026-09-28T16:28:20.000Z",
           "endTime": "2027-07-25T16:28:20.000Z",
           "isFree": false,
-          "priceUsd": 15.106,
+          "priceUsd": 15.098,
           "priceToken": 0.0065,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -7292,7 +7292,7 @@
           "startTime": "2026-10-07T15:04:15.000Z",
           "endTime": "2027-01-15T15:04:15.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 1000
@@ -7331,7 +7331,7 @@
           "startTime": "2026-10-17T16:38:49.000Z",
           "endTime": "2027-01-15T16:43:49.000Z",
           "isFree": false,
-          "priceUsd": 1.162,
+          "priceUsd": 1.161,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -7370,7 +7370,7 @@
           "startTime": "2026-10-17T13:24:51.000Z",
           "endTime": "2027-01-15T13:29:51.000Z",
           "isFree": false,
-          "priceUsd": 1.161,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -7431,7 +7431,7 @@
           "startTime": "2026-11-02T02:49:00.000Z",
           "endTime": "2026-11-03T02:49:00.000Z",
           "isFree": false,
-          "priceUsd": 5.582,
+          "priceUsd": 5.577,
           "priceToken": 0.0024,
           "tokenSymbol": "ETH",
           "maxPerWallet": 3
@@ -7492,7 +7492,7 @@
           "startTime": "2026-11-01T17:09:00.000Z",
           "endTime": "2026-11-02T17:09:00.000Z",
           "isFree": false,
-          "priceUsd": 8.366,
+          "priceUsd": 8.362,
           "priceToken": 0.0036,
           "tokenSymbol": "ETH",
           "maxPerWallet": 4
@@ -7531,7 +7531,7 @@
           "startTime": "2026-10-17T04:03:11.000Z",
           "endTime": "2026-11-01T04:08:11.000Z",
           "isFree": false,
-          "priceUsd": 1.161,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -7592,7 +7592,7 @@
           "startTime": "2026-11-01T17:10:00.000Z",
           "endTime": "2026-11-02T17:10:00.000Z",
           "isFree": false,
-          "priceUsd": 4.419,
+          "priceUsd": 4.414,
           "priceToken": 0.0019,
           "tokenSymbol": "ETH",
           "maxPerWallet": 3
@@ -7692,7 +7692,7 @@
           "startTime": "2026-11-01T17:08:00.000Z",
           "endTime": "2026-11-02T17:08:00.000Z",
           "isFree": false,
-          "priceUsd": 7.442,
+          "priceUsd": 7.433,
           "priceToken": 0.0032,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10
@@ -7731,7 +7731,7 @@
           "startTime": "2026-10-17T16:40:31.000Z",
           "endTime": "2027-01-15T16:45:31.000Z",
           "isFree": false,
-          "priceUsd": 1.161,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -7770,7 +7770,7 @@
           "startTime": "2026-10-14T08:40:10.000Z",
           "endTime": "2026-10-29T08:50:10.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -7831,7 +7831,7 @@
           "startTime": "2026-11-02T02:51:00.000Z",
           "endTime": "2026-11-03T02:51:00.000Z",
           "isFree": false,
-          "priceUsd": 9.305,
+          "priceUsd": 9.295,
           "priceToken": 0.004,
           "tokenSymbol": "ETH",
           "maxPerWallet": 3
@@ -7870,7 +7870,7 @@
           "startTime": "2026-10-19T16:19:43.000Z",
           "endTime": "2027-02-06T16:24:43.000Z",
           "isFree": false,
-          "priceUsd": 1.395,
+          "priceUsd": 1.394,
           "priceToken": 0.0006,
           "tokenSymbol": "ETH",
           "maxPerWallet": 50
@@ -7948,7 +7948,7 @@
           "startTime": "2026-10-17T13:22:48.000Z",
           "endTime": "2027-01-15T13:27:48.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -8048,7 +8048,7 @@
           "startTime": "2026-11-06T21:28:00.000Z",
           "endTime": "2026-11-07T21:28:00.000Z",
           "isFree": false,
-          "priceUsd": 116.281,
+          "priceUsd": 116.186,
           "priceToken": 0.05,
           "tokenSymbol": "ETH",
           "maxPerWallet": 1
@@ -8087,7 +8087,7 @@
           "startTime": "2026-10-06T15:56:00.000Z",
           "endTime": "2027-07-03T15:56:00.000Z",
           "isFree": false,
-          "priceUsd": 41.85,
+          "priceUsd": 41.831,
           "priceToken": 0.018,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -8148,7 +8148,7 @@
           "startTime": "2026-11-07T02:32:00.000Z",
           "endTime": "2026-11-08T02:32:00.000Z",
           "isFree": false,
-          "priceUsd": 11.62,
+          "priceUsd": 11.619,
           "priceToken": 0.005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10
@@ -8209,7 +8209,7 @@
           "startTime": "2026-11-02T02:48:00.000Z",
           "endTime": "2026-11-03T02:48:00.000Z",
           "isFree": false,
-          "priceUsd": 10.0,
+          "priceUsd": 9.989,
           "priceToken": 0.0043,
           "tokenSymbol": "ETH",
           "maxPerWallet": 4
@@ -8259,7 +8259,7 @@
           "startTime": "2026-10-25T20:15:43.000Z",
           "endTime": "2026-11-24T20:15:43.000Z",
           "isFree": false,
-          "priceUsd": 12.787,
+          "priceUsd": 12.775,
           "priceToken": 0.0055,
           "tokenSymbol": "ETH",
           "maxPerWallet": 400
@@ -8320,7 +8320,7 @@
           "startTime": "2026-11-12T05:00:13.000Z",
           "endTime": "2026-11-13T05:00:13.000Z",
           "isFree": false,
-          "priceUsd": 5.113,
+          "priceUsd": 5.11,
           "priceToken": 0.0022,
           "tokenSymbol": "ETH",
           "maxPerWallet": 5
@@ -8420,7 +8420,7 @@
           "startTime": "2026-11-06T03:12:00.000Z",
           "endTime": "2026-11-07T03:12:00.000Z",
           "isFree": false,
-          "priceUsd": 6.975,
+          "priceUsd": 6.969,
           "priceToken": 0.003,
           "tokenSymbol": "ETH",
           "maxPerWallet": 6
@@ -8481,7 +8481,7 @@
           "startTime": "2026-11-01T17:08:00.000Z",
           "endTime": "2026-11-02T17:08:00.000Z",
           "isFree": false,
-          "priceUsd": 9.768,
+          "priceUsd": 9.756,
           "priceToken": 0.0042,
           "tokenSymbol": "ETH",
           "maxPerWallet": 3
@@ -8520,7 +8520,7 @@
           "startTime": "2026-10-19T06:02:09.000Z",
           "endTime": "2026-11-03T06:12:09.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -8559,46 +8559,7 @@
           "startTime": "2026-10-14T08:34:52.000Z",
           "endTime": "2026-10-29T08:44:52.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
-          "priceToken": 0.0005,
-          "tokenSymbol": "ETH",
-          "maxPerWallet": 10000
-        }
-      ],
-      "twitterUsername": null,
-      "discordUrl": null,
-      "externalUrl": null,
-      "telegramUrl": null,
-      "isVerified": false,
-      "hasSocial": false
-    },
-    {
-      "slug": "hoodies-trainers-342846526",
-      "name": "Hoodies Trainers",
-      "description": "",
-      "imageUrl": "https://i2c.seadn.io/collection/hoodies-trainers-342846526/image_type_logo/08ce0431db2eff3a9c9afdd1c73368/2e08ce0431db2eff3a9c9afdd1c73368.jpeg",
-      "openseaUrl": "https://opensea.io/collection/hoodies-trainers-342846526/overview",
-      "contractAddress": "0x8c90bb6247a8289217afe1e91e63389c05327b86",
-      "blockscoutUrl": "https://robinhoodchain.blockscout.com/address/0x8c90bb6247a8289217afe1e91e63389c05327b86",
-      "chain": "Robinhood Chain",
-      "chainIdentifier": "robinhood",
-      "overallStatus": "LIVE",
-      "isSoldOut": false,
-      "itemsMinted": 840,
-      "maxSupply": 10000,
-      "remainingSupply": 9160,
-      "mintPercent": 8.4,
-      "hasFree": false,
-      "isPublicFree": false,
-      "earliestUpcoming": null,
-      "stages": [
-        {
-          "label": "Public stage",
-          "status": "LIVE",
-          "startTime": "2026-10-17T16:29:13.000Z",
-          "endTime": "2027-01-15T16:34:13.000Z",
-          "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -8637,7 +8598,46 @@
           "startTime": "2026-10-17T16:34:46.000Z",
           "endTime": "2027-01-15T16:39:46.000Z",
           "isFree": false,
-          "priceUsd": 1.162,
+          "priceUsd": 1.161,
+          "priceToken": 0.0005,
+          "tokenSymbol": "ETH",
+          "maxPerWallet": 10000
+        }
+      ],
+      "twitterUsername": null,
+      "discordUrl": null,
+      "externalUrl": null,
+      "telegramUrl": null,
+      "isVerified": false,
+      "hasSocial": false
+    },
+    {
+      "slug": "hoodies-trainers-342846526",
+      "name": "Hoodies Trainers",
+      "description": "",
+      "imageUrl": "https://i2c.seadn.io/collection/hoodies-trainers-342846526/image_type_logo/08ce0431db2eff3a9c9afdd1c73368/2e08ce0431db2eff3a9c9afdd1c73368.jpeg",
+      "openseaUrl": "https://opensea.io/collection/hoodies-trainers-342846526/overview",
+      "contractAddress": "0x8c90bb6247a8289217afe1e91e63389c05327b86",
+      "blockscoutUrl": "https://robinhoodchain.blockscout.com/address/0x8c90bb6247a8289217afe1e91e63389c05327b86",
+      "chain": "Robinhood Chain",
+      "chainIdentifier": "robinhood",
+      "overallStatus": "LIVE",
+      "isSoldOut": false,
+      "itemsMinted": 840,
+      "maxSupply": 10000,
+      "remainingSupply": 9160,
+      "mintPercent": 8.4,
+      "hasFree": false,
+      "isPublicFree": false,
+      "earliestUpcoming": null,
+      "stages": [
+        {
+          "label": "Public stage",
+          "status": "LIVE",
+          "startTime": "2026-10-17T16:29:13.000Z",
+          "endTime": "2027-01-15T16:34:13.000Z",
+          "isFree": false,
+          "priceUsd": 1.161,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -8715,7 +8715,7 @@
           "startTime": "2026-10-19T06:01:41.000Z",
           "endTime": "2026-11-03T06:11:41.000Z",
           "isFree": false,
-          "priceUsd": 1.161,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -8754,7 +8754,7 @@
           "startTime": "2026-10-19T06:02:38.000Z",
           "endTime": "2026-11-03T06:12:38.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -8793,7 +8793,7 @@
           "startTime": "2026-10-13T21:41:00.000Z",
           "endTime": "2026-11-09T21:41:00.000Z",
           "isFree": false,
-          "priceUsd": 882.599,
+          "priceUsd": 883.014,
           "priceToken": 0.38,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -8854,7 +8854,7 @@
           "startTime": "2026-11-03T10:54:00.000Z",
           "endTime": "2026-11-04T10:54:00.000Z",
           "isFree": false,
-          "priceUsd": 9.523,
+          "priceUsd": 9.524,
           "priceToken": 0.0041,
           "tokenSymbol": "ETH",
           "maxPerWallet": 2
@@ -8915,7 +8915,7 @@
           "startTime": "2026-11-09T02:51:00.000Z",
           "endTime": "2026-11-10T02:51:00.000Z",
           "isFree": false,
-          "priceUsd": 9.3,
+          "priceUsd": 9.291,
           "priceToken": 0.004,
           "tokenSymbol": "ETH",
           "maxPerWallet": 4
@@ -8954,7 +8954,7 @@
           "startTime": "2026-09-29T11:36:08.000Z",
           "endTime": "2027-08-16T11:51:08.000Z",
           "isFree": false,
-          "priceUsd": 0.93,
+          "priceUsd": 0.929,
           "priceToken": 0.0004,
           "tokenSymbol": "ETH",
           "maxPerWallet": 1000
@@ -8993,7 +8993,7 @@
           "startTime": "2026-10-19T06:01:13.000Z",
           "endTime": "2026-11-03T06:11:13.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -9054,7 +9054,7 @@
           "startTime": "2026-11-10T21:03:45.000Z",
           "endTime": "2026-11-11T21:03:45.000Z",
           "isFree": false,
-          "priceUsd": 6.975,
+          "priceUsd": 6.971,
           "priceToken": 0.003,
           "tokenSymbol": "ETH",
           "maxPerWallet": 5
@@ -9115,49 +9115,10 @@
           "startTime": "2026-10-26T16:28:00.000Z",
           "endTime": "2026-10-27T16:28:00.000Z",
           "isFree": false,
-          "priceUsd": 1.861,
+          "priceUsd": 1.859,
           "priceToken": 0.0008,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10
-        }
-      ],
-      "twitterUsername": null,
-      "discordUrl": null,
-      "externalUrl": null,
-      "telegramUrl": null,
-      "isVerified": false,
-      "hasSocial": false
-    },
-    {
-      "slug": "wired-agentic-hood",
-      "name": "Wired Agentic Hood",
-      "description": "",
-      "imageUrl": "https://i2c.seadn.io/collection/wired-agentic-hood/image_type_logo/60dc2083067a9912e56c2b9671e61d/d560dc2083067a9912e56c2b9671e61d.jpeg",
-      "openseaUrl": "https://opensea.io/collection/wired-agentic-hood/overview",
-      "contractAddress": "0xd1859ebd5f4e6b96e5ed3ee994338c8d96de0d8b",
-      "blockscoutUrl": "https://robinhoodchain.blockscout.com/address/0xd1859ebd5f4e6b96e5ed3ee994338c8d96de0d8b",
-      "chain": "Robinhood Chain",
-      "chainIdentifier": "robinhood",
-      "overallStatus": "LIVE",
-      "isSoldOut": false,
-      "itemsMinted": 925,
-      "maxSupply": 10000,
-      "remainingSupply": 9075,
-      "mintPercent": 9.2,
-      "hasFree": false,
-      "isPublicFree": false,
-      "earliestUpcoming": null,
-      "stages": [
-        {
-          "label": "Public stage",
-          "status": "LIVE",
-          "startTime": "2026-10-17T16:31:30.000Z",
-          "endTime": "2027-01-15T16:36:30.000Z",
-          "isFree": false,
-          "priceUsd": 1.162,
-          "priceToken": 0.0005,
-          "tokenSymbol": "ETH",
-          "maxPerWallet": 10000
         }
       ],
       "twitterUsername": null,
@@ -9204,8 +9165,47 @@
           "startTime": "2026-09-29T15:39:53.000Z",
           "endTime": "2027-09-29T15:39:53.000Z",
           "isFree": false,
-          "priceUsd": 11.628,
+          "priceUsd": 11.62,
           "priceToken": 0.005,
+          "tokenSymbol": "ETH",
+          "maxPerWallet": 10000
+        }
+      ],
+      "twitterUsername": null,
+      "discordUrl": null,
+      "externalUrl": null,
+      "telegramUrl": null,
+      "isVerified": false,
+      "hasSocial": false
+    },
+    {
+      "slug": "wired-agentic-hood",
+      "name": "Wired Agentic Hood",
+      "description": "",
+      "imageUrl": "https://i2c.seadn.io/collection/wired-agentic-hood/image_type_logo/60dc2083067a9912e56c2b9671e61d/d560dc2083067a9912e56c2b9671e61d.jpeg",
+      "openseaUrl": "https://opensea.io/collection/wired-agentic-hood/overview",
+      "contractAddress": "0xd1859ebd5f4e6b96e5ed3ee994338c8d96de0d8b",
+      "blockscoutUrl": "https://robinhoodchain.blockscout.com/address/0xd1859ebd5f4e6b96e5ed3ee994338c8d96de0d8b",
+      "chain": "Robinhood Chain",
+      "chainIdentifier": "robinhood",
+      "overallStatus": "LIVE",
+      "isSoldOut": false,
+      "itemsMinted": 925,
+      "maxSupply": 10000,
+      "remainingSupply": 9075,
+      "mintPercent": 9.2,
+      "hasFree": false,
+      "isPublicFree": false,
+      "earliestUpcoming": null,
+      "stages": [
+        {
+          "label": "Public stage",
+          "status": "LIVE",
+          "startTime": "2026-10-17T16:31:30.000Z",
+          "endTime": "2027-01-15T16:36:30.000Z",
+          "isFree": false,
+          "priceUsd": 1.161,
+          "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
         }
@@ -9265,7 +9265,7 @@
           "startTime": "2026-11-05T17:27:00.000Z",
           "endTime": "2026-11-06T17:27:00.000Z",
           "isFree": false,
-          "priceUsd": 13.936,
+          "priceUsd": 13.938,
           "priceToken": 0.006,
           "tokenSymbol": "ETH",
           "maxPerWallet": 2
@@ -9304,7 +9304,7 @@
           "startTime": "2026-09-28T12:54:07.000Z",
           "endTime": "2027-07-25T12:54:07.000Z",
           "isFree": false,
-          "priceUsd": 34.875,
+          "priceUsd": 34.856,
           "priceToken": 0.015,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -9404,7 +9404,7 @@
           "startTime": "2026-09-29T21:33:28.000Z",
           "endTime": "2026-10-30T21:33:28.000Z",
           "isFree": false,
-          "priceUsd": 11.613,
+          "priceUsd": 11.619,
           "priceToken": 0.005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10
@@ -9504,7 +9504,7 @@
           "startTime": "2026-11-12T20:21:00.000Z",
           "endTime": "2026-11-13T20:21:00.000Z",
           "isFree": false,
-          "priceUsd": 6.977,
+          "priceUsd": 6.971,
           "priceToken": 0.003,
           "tokenSymbol": "ETH",
           "maxPerWallet": 2
@@ -9565,7 +9565,7 @@
           "startTime": "2026-11-01T17:07:00.000Z",
           "endTime": "2026-11-02T17:07:00.000Z",
           "isFree": false,
-          "priceUsd": 9.3,
+          "priceUsd": 9.292,
           "priceToken": 0.004,
           "tokenSymbol": "ETH",
           "maxPerWallet": 3
@@ -9604,7 +9604,7 @@
           "startTime": "2026-10-17T12:07:09.000Z",
           "endTime": "2026-11-01T12:17:09.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -9665,7 +9665,7 @@
           "startTime": "2026-11-06T03:14:00.000Z",
           "endTime": "2026-11-07T03:14:00.000Z",
           "isFree": false,
-          "priceUsd": 9.303,
+          "priceUsd": 9.291,
           "priceToken": 0.004,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10
@@ -9704,7 +9704,7 @@
           "startTime": "2026-10-15T15:12:34.000Z",
           "endTime": "2026-10-30T15:17:34.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -9765,7 +9765,7 @@
           "startTime": "2026-11-03T11:22:00.000Z",
           "endTime": "2026-11-04T11:22:00.000Z",
           "isFree": false,
-          "priceUsd": 7.2,
+          "priceUsd": 7.201,
           "priceToken": 0.0031,
           "tokenSymbol": "ETH",
           "maxPerWallet": 4
@@ -9887,7 +9887,7 @@
           "startTime": "2026-11-01T18:02:00.000Z",
           "endTime": "2026-11-02T18:02:00.000Z",
           "isFree": false,
-          "priceUsd": 9.532,
+          "priceUsd": 9.527,
           "priceToken": 0.0041,
           "tokenSymbol": "ETH",
           "maxPerWallet": 5
@@ -9948,7 +9948,7 @@
           "startTime": "2026-11-06T21:29:00.000Z",
           "endTime": "2026-11-07T21:29:00.000Z",
           "isFree": false,
-          "priceUsd": 4.645,
+          "priceUsd": 4.646,
           "priceToken": 0.002,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10
@@ -10009,7 +10009,7 @@
           "startTime": "2026-11-12T23:54:00.000Z",
           "endTime": "2026-11-13T23:54:00.000Z",
           "isFree": false,
-          "priceUsd": 4.884,
+          "priceUsd": 4.88,
           "priceToken": 0.0021,
           "tokenSymbol": "ETH",
           "maxPerWallet": 5
@@ -10087,7 +10087,7 @@
           "startTime": "2026-10-14T08:39:03.000Z",
           "endTime": "2026-10-29T08:49:03.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.161,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -10126,7 +10126,7 @@
           "startTime": "2026-10-17T12:07:35.000Z",
           "endTime": "2026-11-01T12:17:35.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -10135,45 +10135,6 @@
       "twitterUsername": "SHADOWINNFTS",
       "discordUrl": null,
       "externalUrl": null,
-      "telegramUrl": null,
-      "isVerified": false,
-      "hasSocial": true
-    },
-    {
-      "slug": "rarelist-485867289",
-      "name": "Rarelist",
-      "description": "",
-      "imageUrl": "https://i2c.seadn.io/collection/rarelist-485867289/image_type_logo/c8f98ad4753d62067e6dd00fa5e1ea/afc8f98ad4753d62067e6dd00fa5e1ea.jpeg",
-      "openseaUrl": "https://opensea.io/collection/rarelist-485867289/overview",
-      "contractAddress": "0xd1ee2c686eadea66dd244ab24169a320b8478bab",
-      "blockscoutUrl": "https://robinhoodchain.blockscout.com/address/0xd1ee2c686eadea66dd244ab24169a320b8478bab",
-      "chain": "Robinhood Chain",
-      "chainIdentifier": "robinhood",
-      "overallStatus": "LIVE",
-      "isSoldOut": false,
-      "itemsMinted": 48,
-      "maxSupply": 8888,
-      "remainingSupply": 8840,
-      "mintPercent": 0.5,
-      "hasFree": false,
-      "isPublicFree": false,
-      "earliestUpcoming": null,
-      "stages": [
-        {
-          "label": "Public stage",
-          "status": "LIVE",
-          "startTime": "2026-10-03T05:56:44.000Z",
-          "endTime": "2027-01-11T05:56:44.000Z",
-          "isFree": false,
-          "priceUsd": 0.103,
-          "priceToken": 4.44e-05,
-          "tokenSymbol": "ETH",
-          "maxPerWallet": 20
-        }
-      ],
-      "twitterUsername": null,
-      "discordUrl": null,
-      "externalUrl": "https://rarelist.io/",
       "telegramUrl": null,
       "isVerified": false,
       "hasSocial": true
@@ -10226,7 +10187,7 @@
           "startTime": "2026-11-05T12:11:00.000Z",
           "endTime": "2026-11-06T12:11:00.000Z",
           "isFree": false,
-          "priceUsd": 7.672,
+          "priceUsd": 7.668,
           "priceToken": 0.0033,
           "tokenSymbol": "ETH",
           "maxPerWallet": 5
@@ -10238,6 +10199,45 @@
       "telegramUrl": null,
       "isVerified": false,
       "hasSocial": false
+    },
+    {
+      "slug": "rarelist-485867289",
+      "name": "Rarelist",
+      "description": "",
+      "imageUrl": "https://i2c.seadn.io/collection/rarelist-485867289/image_type_logo/c8f98ad4753d62067e6dd00fa5e1ea/afc8f98ad4753d62067e6dd00fa5e1ea.jpeg",
+      "openseaUrl": "https://opensea.io/collection/rarelist-485867289/overview",
+      "contractAddress": "0xd1ee2c686eadea66dd244ab24169a320b8478bab",
+      "blockscoutUrl": "https://robinhoodchain.blockscout.com/address/0xd1ee2c686eadea66dd244ab24169a320b8478bab",
+      "chain": "Robinhood Chain",
+      "chainIdentifier": "robinhood",
+      "overallStatus": "LIVE",
+      "isSoldOut": false,
+      "itemsMinted": 48,
+      "maxSupply": 8888,
+      "remainingSupply": 8840,
+      "mintPercent": 0.5,
+      "hasFree": false,
+      "isPublicFree": false,
+      "earliestUpcoming": null,
+      "stages": [
+        {
+          "label": "Public stage",
+          "status": "LIVE",
+          "startTime": "2026-10-03T05:56:44.000Z",
+          "endTime": "2027-01-11T05:56:44.000Z",
+          "isFree": false,
+          "priceUsd": 0.103,
+          "priceToken": 4.44e-05,
+          "tokenSymbol": "ETH",
+          "maxPerWallet": 20
+        }
+      ],
+      "twitterUsername": null,
+      "discordUrl": null,
+      "externalUrl": "https://rarelist.io/",
+      "telegramUrl": null,
+      "isVerified": false,
+      "hasSocial": true
     },
     {
       "slug": "ancient-of-day",
@@ -10287,7 +10287,7 @@
           "startTime": "2026-11-05T17:05:00.000Z",
           "endTime": "2026-11-06T17:05:00.000Z",
           "isFree": false,
-          "priceUsd": 13.957,
+          "priceUsd": 13.944,
           "priceToken": 0.006,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10
@@ -10365,7 +10365,7 @@
           "startTime": "2026-10-21T13:12:42.000Z",
           "endTime": "2027-01-19T13:17:42.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -10426,7 +10426,7 @@
           "startTime": "2026-11-05T17:29:00.000Z",
           "endTime": "2026-11-06T17:29:00.000Z",
           "isFree": false,
-          "priceUsd": 16.268,
+          "priceUsd": 16.26,
           "priceToken": 0.007,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10
@@ -10515,7 +10515,7 @@
           "startTime": "2026-10-20T03:29:07.000Z",
           "endTime": "2027-02-07T03:34:07.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -10565,7 +10565,7 @@
           "startTime": "2026-10-09T10:30:02.000Z",
           "endTime": "2026-10-09T10:31:02.000Z",
           "isFree": false,
-          "priceUsd": 18.61,
+          "priceUsd": 18.59,
           "priceToken": 0.008,
           "tokenSymbol": "ETH",
           "maxPerWallet": 8
@@ -10576,7 +10576,7 @@
           "startTime": "2026-10-09T10:31:02.000Z",
           "endTime": "2026-11-08T10:31:02.000Z",
           "isFree": false,
-          "priceUsd": 20.471,
+          "priceUsd": 20.449,
           "priceToken": 0.0088,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -10665,7 +10665,7 @@
           "startTime": "2026-10-28T11:48:02.000Z",
           "endTime": "2026-11-27T11:48:02.000Z",
           "isFree": false,
-          "priceUsd": 8.137,
+          "priceUsd": 8.133,
           "priceToken": 0.0035,
           "tokenSymbol": "ETH",
           "maxPerWallet": 400
@@ -10743,7 +10743,7 @@
           "startTime": "2026-10-14T08:41:03.000Z",
           "endTime": "2026-10-29T08:51:03.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -10893,7 +10893,7 @@
           "startTime": "2026-11-08T17:04:00.000Z",
           "endTime": "2026-11-09T17:04:00.000Z",
           "isFree": false,
-          "priceUsd": 7.677,
+          "priceUsd": 7.668,
           "priceToken": 0.0033,
           "tokenSymbol": "ETH",
           "maxPerWallet": 5
@@ -10954,7 +10954,7 @@
           "startTime": "2026-11-03T10:53:00.000Z",
           "endTime": "2026-11-04T10:53:00.000Z",
           "isFree": false,
-          "priceUsd": 8.361,
+          "priceUsd": 8.362,
           "priceToken": 0.0036,
           "tokenSymbol": "ETH",
           "maxPerWallet": 5
@@ -10993,7 +10993,7 @@
           "startTime": "2026-09-29T11:29:07.000Z",
           "endTime": "2027-08-16T11:44:07.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 1000
@@ -11032,7 +11032,7 @@
           "startTime": "2026-10-19T16:06:09.000Z",
           "endTime": "2026-11-03T16:11:09.000Z",
           "isFree": false,
-          "priceUsd": 1.161,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -11093,7 +11093,7 @@
           "startTime": "2026-11-01T17:06:00.000Z",
           "endTime": "2026-11-02T17:06:00.000Z",
           "isFree": false,
-          "priceUsd": 6.968,
+          "priceUsd": 6.972,
           "priceToken": 0.003,
           "tokenSymbol": "ETH",
           "maxPerWallet": 5
@@ -11132,7 +11132,7 @@
           "startTime": "2026-10-19T05:59:47.000Z",
           "endTime": "2026-11-03T06:09:47.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.161,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -11210,7 +11210,7 @@
           "startTime": "2026-10-21T13:08:52.000Z",
           "endTime": "2027-01-19T13:13:52.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -11271,7 +11271,7 @@
           "startTime": "2026-11-03T11:20:00.000Z",
           "endTime": "2026-11-04T11:20:00.000Z",
           "isFree": false,
-          "priceUsd": 4.416,
+          "priceUsd": 4.415,
           "priceToken": 0.0019,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10
@@ -11371,7 +11371,7 @@
           "startTime": "2026-10-11T13:57:38.000Z",
           "endTime": "2026-11-10T13:57:38.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 50
@@ -11432,7 +11432,7 @@
           "startTime": "2026-11-04T23:33:00.000Z",
           "endTime": "2026-11-05T23:33:00.000Z",
           "isFree": false,
-          "priceUsd": 1.627,
+          "priceUsd": 1.626,
           "priceToken": 0.0007,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10
@@ -11493,7 +11493,7 @@
           "startTime": "2026-11-01T17:05:00.000Z",
           "endTime": "2026-11-02T17:05:00.000Z",
           "isFree": false,
-          "priceUsd": 9.528,
+          "priceUsd": 9.524,
           "priceToken": 0.0041,
           "tokenSymbol": "ETH",
           "maxPerWallet": 3
@@ -11593,7 +11593,7 @@
           "startTime": "2026-11-04T17:45:00.000Z",
           "endTime": "2026-11-05T17:45:00.000Z",
           "isFree": false,
-          "priceUsd": 6.275,
+          "priceUsd": 6.272,
           "priceToken": 0.0027,
           "tokenSymbol": "ETH",
           "maxPerWallet": 6
@@ -11632,7 +11632,7 @@
           "startTime": "2026-10-14T08:37:25.000Z",
           "endTime": "2026-10-29T08:47:25.000Z",
           "isFree": false,
-          "priceUsd": 1.161,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -11671,7 +11671,7 @@
           "startTime": "2026-10-21T13:01:17.000Z",
           "endTime": "2027-01-19T13:06:17.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -11732,7 +11732,7 @@
           "startTime": "2026-11-04T17:46:00.000Z",
           "endTime": "2026-11-05T17:46:00.000Z",
           "isFree": false,
-          "priceUsd": 9.303,
+          "priceUsd": 9.291,
           "priceToken": 0.004,
           "tokenSymbol": "ETH",
           "maxPerWallet": 3
@@ -11771,7 +11771,7 @@
           "startTime": "2026-10-14T04:44:00.000Z",
           "endTime": "2027-05-09T04:44:00.000Z",
           "isFree": false,
-          "priceUsd": 813.971,
+          "priceUsd": 813.064,
           "priceToken": 0.35,
           "tokenSymbol": "ETH",
           "maxPerWallet": 1000
@@ -11810,7 +11810,7 @@
           "startTime": "2026-10-19T06:00:16.000Z",
           "endTime": "2026-11-03T06:10:16.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -11871,7 +11871,7 @@
           "startTime": "2026-11-04T23:35:00.000Z",
           "endTime": "2026-11-05T23:35:00.000Z",
           "isFree": false,
-          "priceUsd": 7.432,
+          "priceUsd": 7.436,
           "priceToken": 0.0032,
           "tokenSymbol": "ETH",
           "maxPerWallet": 5
@@ -12010,7 +12010,7 @@
           "startTime": "2026-10-01T11:44:00.000Z",
           "endTime": "2026-10-30T11:44:00.000Z",
           "isFree": false,
-          "priceUsd": 1.859,
+          "priceUsd": 1.858,
           "priceToken": 0.0008,
           "tokenSymbol": "ETH",
           "maxPerWallet": 9000
@@ -12049,7 +12049,7 @@
           "startTime": "2026-10-03T07:17:00.000Z",
           "endTime": "2027-01-01T07:17:00.000Z",
           "isFree": false,
-          "priceUsd": 18.581,
+          "priceUsd": 18.592,
           "priceToken": 0.008,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -12088,7 +12088,7 @@
           "startTime": "2026-10-14T11:21:36.000Z",
           "endTime": "2026-10-29T11:21:36.000Z",
           "isFree": false,
-          "priceUsd": 1.161,
+          "priceUsd": 1.162,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -12149,7 +12149,7 @@
           "startTime": "2026-11-01T16:33:00.000Z",
           "endTime": "2026-11-02T16:33:00.000Z",
           "isFree": false,
-          "priceUsd": 9.296,
+          "priceUsd": 9.292,
           "priceToken": 0.004,
           "tokenSymbol": "ETH",
           "maxPerWallet": 5
@@ -12227,7 +12227,7 @@
           "startTime": "2026-10-14T11:21:14.000Z",
           "endTime": "2026-10-29T11:21:14.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.161,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -12288,7 +12288,7 @@
           "startTime": "2026-11-04T23:36:00.000Z",
           "endTime": "2026-11-05T23:36:00.000Z",
           "isFree": false,
-          "priceUsd": 9.3,
+          "priceUsd": 9.295,
           "priceToken": 0.004,
           "tokenSymbol": "ETH",
           "maxPerWallet": 2
@@ -12349,7 +12349,7 @@
           "startTime": "2026-11-01T16:36:00.000Z",
           "endTime": "2026-11-02T16:36:00.000Z",
           "isFree": false,
-          "priceUsd": 7.442,
+          "priceUsd": 7.436,
           "priceToken": 0.0032,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10
@@ -12449,7 +12449,7 @@
           "startTime": "2026-11-01T16:34:00.000Z",
           "endTime": "2026-11-02T16:34:00.000Z",
           "isFree": false,
-          "priceUsd": 11.845,
+          "priceUsd": 11.85,
           "priceToken": 0.0051,
           "tokenSymbol": "ETH",
           "maxPerWallet": 4
@@ -12538,7 +12538,7 @@
           "startTime": "2026-10-29T11:30:50.000Z",
           "endTime": "2026-11-28T11:30:50.000Z",
           "isFree": false,
-          "priceUsd": 3.484,
+          "priceUsd": 3.486,
           "priceToken": 0.0015,
           "tokenSymbol": "ETH",
           "maxPerWallet": 400
@@ -12638,7 +12638,7 @@
           "startTime": "2026-10-22T12:54:00.000Z",
           "endTime": "2026-11-18T12:54:00.000Z",
           "isFree": false,
-          "priceUsd": 20.703,
+          "priceUsd": 20.681,
           "priceToken": 0.0089,
           "tokenSymbol": "ETH",
           "maxPerWallet": 400
@@ -12677,7 +12677,7 @@
           "startTime": "2026-09-29T16:28:49.000Z",
           "endTime": "2027-01-06T16:33:49.000Z",
           "isFree": false,
-          "priceUsd": 1.626,
+          "priceUsd": 1.627,
           "priceToken": 0.0007,
           "tokenSymbol": "ETH",
           "maxPerWallet": 1111
@@ -12766,7 +12766,7 @@
           "startTime": "2026-10-05T23:39:33.000Z",
           "endTime": "2026-11-04T23:39:33.000Z",
           "isFree": false,
-          "priceUsd": 8.837,
+          "priceUsd": 8.831,
           "priceToken": 0.0038,
           "tokenSymbol": "ETH",
           "maxPerWallet": 50
@@ -12866,7 +12866,7 @@
           "startTime": "2026-11-01T17:07:00.000Z",
           "endTime": "2026-11-02T17:07:00.000Z",
           "isFree": false,
-          "priceUsd": 7.672,
+          "priceUsd": 7.666,
           "priceToken": 0.0033,
           "tokenSymbol": "ETH",
           "maxPerWallet": 3
@@ -12905,7 +12905,7 @@
           "startTime": "2026-10-17T12:06:50.000Z",
           "endTime": "2026-11-01T12:16:50.000Z",
           "isFree": false,
-          "priceUsd": 1.162,
+          "priceUsd": 1.161,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -12955,7 +12955,7 @@
           "startTime": "2026-10-26T13:18:01.000Z",
           "endTime": "2026-11-25T13:18:01.000Z",
           "isFree": false,
-          "priceUsd": 5.812,
+          "priceUsd": 5.809,
           "priceToken": 0.0025,
           "tokenSymbol": "ETH",
           "maxPerWallet": 40
@@ -12994,7 +12994,7 @@
           "startTime": "2026-10-14T08:40:37.000Z",
           "endTime": "2026-10-29T08:50:37.000Z",
           "isFree": false,
-          "priceUsd": 1.163,
+          "priceUsd": 1.161,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -13055,7 +13055,7 @@
           "startTime": "2026-11-10T05:20:00.000Z",
           "endTime": "2026-11-11T05:20:00.000Z",
           "isFree": false,
-          "priceUsd": 6.975,
+          "priceUsd": 6.971,
           "priceToken": 0.003,
           "tokenSymbol": "ETH",
           "maxPerWallet": 5
@@ -13116,49 +13116,10 @@
           "startTime": "2026-11-01T17:09:00.000Z",
           "endTime": "2026-11-02T17:09:00.000Z",
           "isFree": false,
-          "priceUsd": 9.3,
+          "priceUsd": 9.295,
           "priceToken": 0.004,
           "tokenSymbol": "ETH",
           "maxPerWallet": 1
-        }
-      ],
-      "twitterUsername": null,
-      "discordUrl": null,
-      "externalUrl": null,
-      "telegramUrl": null,
-      "isVerified": false,
-      "hasSocial": false
-    },
-    {
-      "slug": "robinbones-club-built",
-      "name": "RobinBones Club Built",
-      "description": "",
-      "imageUrl": "https://i2c.seadn.io/collection/robinbones-club-built/image_type_logo/b118a132dd45bca237fcecd8a1020f/c0b118a132dd45bca237fcecd8a1020f.jpeg",
-      "openseaUrl": "https://opensea.io/collection/robinbones-club-built/overview",
-      "contractAddress": "0x639c0aba2c9822a3703373ea0fe60339a8ea849b",
-      "blockscoutUrl": "https://robinhoodchain.blockscout.com/address/0x639c0aba2c9822a3703373ea0fe60339a8ea849b",
-      "chain": "Robinhood Chain",
-      "chainIdentifier": "robinhood",
-      "overallStatus": "LIVE",
-      "isSoldOut": false,
-      "itemsMinted": 1800,
-      "maxSupply": 10000,
-      "remainingSupply": 8200,
-      "mintPercent": 18.0,
-      "hasFree": false,
-      "isPublicFree": false,
-      "earliestUpcoming": null,
-      "stages": [
-        {
-          "label": "Public stage",
-          "status": "LIVE",
-          "startTime": "2026-10-22T06:17:01.000Z",
-          "endTime": "2027-08-18T06:17:01.000Z",
-          "isFree": false,
-          "priceUsd": 20.466,
-          "priceToken": 0.0088,
-          "tokenSymbol": "ETH",
-          "maxPerWallet": 100
         }
       ],
       "twitterUsername": null,
@@ -13205,10 +13166,49 @@
           "startTime": "2026-09-29T15:00:06.000Z",
           "endTime": "2027-09-29T15:00:06.000Z",
           "isFree": false,
-          "priceUsd": 11.631,
+          "priceUsd": 11.62,
           "priceToken": 0.005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
+        }
+      ],
+      "twitterUsername": null,
+      "discordUrl": null,
+      "externalUrl": null,
+      "telegramUrl": null,
+      "isVerified": false,
+      "hasSocial": false
+    },
+    {
+      "slug": "robinbones-club-built",
+      "name": "RobinBones Club Built",
+      "description": "",
+      "imageUrl": "https://i2c.seadn.io/collection/robinbones-club-built/image_type_logo/b118a132dd45bca237fcecd8a1020f/c0b118a132dd45bca237fcecd8a1020f.jpeg",
+      "openseaUrl": "https://opensea.io/collection/robinbones-club-built/overview",
+      "contractAddress": "0x639c0aba2c9822a3703373ea0fe60339a8ea849b",
+      "blockscoutUrl": "https://robinhoodchain.blockscout.com/address/0x639c0aba2c9822a3703373ea0fe60339a8ea849b",
+      "chain": "Robinhood Chain",
+      "chainIdentifier": "robinhood",
+      "overallStatus": "LIVE",
+      "isSoldOut": false,
+      "itemsMinted": 1800,
+      "maxSupply": 10000,
+      "remainingSupply": 8200,
+      "mintPercent": 18.0,
+      "hasFree": false,
+      "isPublicFree": false,
+      "earliestUpcoming": null,
+      "stages": [
+        {
+          "label": "Public stage",
+          "status": "LIVE",
+          "startTime": "2026-10-22T06:17:01.000Z",
+          "endTime": "2027-08-18T06:17:01.000Z",
+          "isFree": false,
+          "priceUsd": 20.441,
+          "priceToken": 0.0088,
+          "tokenSymbol": "ETH",
+          "maxPerWallet": 100
         }
       ],
       "twitterUsername": null,
@@ -13305,7 +13305,7 @@
           "startTime": "2026-11-06T03:10:00.000Z",
           "endTime": "2026-11-07T03:10:00.000Z",
           "isFree": false,
-          "priceUsd": 9.77,
+          "priceUsd": 9.756,
           "priceToken": 0.0042,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10
@@ -13366,7 +13366,7 @@
           "startTime": "2026-11-04T23:37:00.000Z",
           "endTime": "2026-11-05T23:37:00.000Z",
           "isFree": false,
-          "priceUsd": 11.631,
+          "priceUsd": 11.614,
           "priceToken": 0.005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 2
@@ -13427,7 +13427,7 @@
           "startTime": "2026-11-04T17:49:00.000Z",
           "endTime": "2026-11-05T17:49:00.000Z",
           "isFree": false,
-          "priceUsd": 9.535,
+          "priceUsd": 9.527,
           "priceToken": 0.0041,
           "tokenSymbol": "ETH",
           "maxPerWallet": 4
@@ -13488,7 +13488,7 @@
           "startTime": "2026-11-02T02:45:00.000Z",
           "endTime": "2026-11-03T02:45:00.000Z",
           "isFree": false,
-          "priceUsd": 6.977,
+          "priceUsd": 6.969,
           "priceToken": 0.003,
           "tokenSymbol": "ETH",
           "maxPerWallet": 2
@@ -13549,7 +13549,7 @@
           "startTime": "2026-11-04T17:53:00.000Z",
           "endTime": "2026-11-05T17:53:00.000Z",
           "isFree": false,
-          "priceUsd": 2.555,
+          "priceUsd": 2.556,
           "priceToken": 0.0011,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10
@@ -13610,7 +13610,7 @@
           "startTime": "2026-11-02T02:47:00.000Z",
           "endTime": "2026-11-03T02:47:00.000Z",
           "isFree": false,
-          "priceUsd": 9.303,
+          "priceUsd": 9.295,
           "priceToken": 0.004,
           "tokenSymbol": "ETH",
           "maxPerWallet": 2
@@ -13649,7 +13649,7 @@
           "startTime": "2026-10-17T14:32:52.000Z",
           "endTime": "2027-08-13T14:32:52.000Z",
           "isFree": false,
-          "priceUsd": 20.46,
+          "priceUsd": 20.451,
           "priceToken": 0.0088,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -13688,7 +13688,7 @@
           "startTime": "2026-10-19T16:16:09.000Z",
           "endTime": "2026-11-03T16:21:09.000Z",
           "isFree": false,
-          "priceUsd": 1.162,
+          "priceUsd": 1.161,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -13727,7 +13727,7 @@
           "startTime": "2026-10-14T15:11:00.000Z",
           "endTime": "2026-10-29T15:11:00.000Z",
           "isFree": false,
-          "priceUsd": 1.162,
+          "priceUsd": 1.161,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -13766,7 +13766,7 @@
           "startTime": "2026-10-04T22:35:38.000Z",
           "endTime": "2026-11-04T22:35:38.000Z",
           "isFree": false,
-          "priceUsd": 11.628,
+          "priceUsd": 11.615,
           "priceToken": 0.005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 80
@@ -13827,7 +13827,7 @@
           "startTime": "2026-11-04T17:51:00.000Z",
           "endTime": "2026-11-05T17:51:00.000Z",
           "isFree": false,
-          "priceUsd": 5.115,
+          "priceUsd": 5.112,
           "priceToken": 0.0022,
           "tokenSymbol": "ETH",
           "maxPerWallet": 5
@@ -13888,7 +13888,7 @@
           "startTime": "2026-11-02T02:45:00.000Z",
           "endTime": "2026-11-03T02:45:00.000Z",
           "isFree": false,
-          "priceUsd": 6.512,
+          "priceUsd": 6.504,
           "priceToken": 0.0028,
           "tokenSymbol": "ETH",
           "maxPerWallet": 3
@@ -13977,7 +13977,7 @@
           "startTime": "2026-09-30T10:35:00.000Z",
           "endTime": "2026-10-27T10:35:00.000Z",
           "isFree": false,
-          "priceUsd": 2.325,
+          "priceUsd": 2.324,
           "priceToken": 0.001,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -14016,7 +14016,7 @@
           "startTime": "2026-09-21T14:08:35.000Z",
           "endTime": "2026-12-27T14:08:35.000Z",
           "isFree": false,
-          "priceUsd": 4.65,
+          "priceUsd": 4.646,
           "priceToken": 0.002,
           "tokenSymbol": "ETH",
           "maxPerWallet": 8000
@@ -14066,7 +14066,7 @@
           "startTime": "2026-10-14T02:23:42.000Z",
           "endTime": "2027-10-14T02:23:42.000Z",
           "isFree": false,
-          "priceUsd": 34.875,
+          "priceUsd": 34.846,
           "priceToken": 0.015,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -14105,7 +14105,7 @@
           "startTime": "2026-10-14T11:15:29.000Z",
           "endTime": "2026-10-29T11:15:29.000Z",
           "isFree": false,
-          "priceUsd": 1.162,
+          "priceUsd": 1.161,
           "priceToken": 0.0005,
           "tokenSymbol": "ETH",
           "maxPerWallet": 10000
@@ -14194,7 +14194,7 @@
           "startTime": "2026-10-17T10:48:18.000Z",
           "endTime": "2026-11-16T10:53:18.000Z",
           "isFree": false,
-          "priceUsd": 3.489,
+          "priceUsd": 3.484,
           "priceToken": 0.0015,
           "tokenSymbol": "ETH",
           "maxPerWallet": 40
@@ -14294,7 +14294,7 @@
           "startTime": "2026-10-30T13:03:45.000Z",
           "endTime": "2026-11-29T13:03:45.000Z",
           "isFree": false,
-          "priceUsd": 8.142,
+          "priceUsd": 8.133,
           "priceToken": 0.0035,
           "tokenSymbol": "ETH",
           "maxPerWallet": 50
@@ -14433,7 +14433,7 @@
           "startTime": "2026-11-03T11:01:00.000Z",
           "endTime": "2026-11-04T11:01:00.000Z",
           "isFree": false,
-          "priceUsd": 8.599,
+          "priceUsd": 8.597,
           "priceToken": 0.0037,
           "tokenSymbol": "ETH",
           "maxPerWallet": 2
@@ -14472,7 +14472,7 @@
           "startTime": "2026-10-08T12:29:00.000Z",
           "endTime": "2027-07-05T12:29:00.000Z",
           "isFree": false,
-          "priceUsd": 34.875,
+          "priceUsd": 34.842,
           "priceToken": 0.015,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -14561,7 +14561,7 @@
           "startTime": "2026-10-06T19:00:00.000Z",
           "endTime": "2027-10-06T19:00:00.000Z",
           "isFree": false,
-          "priceUsd": 5.574,
+          "priceUsd": 5.577,
           "priceToken": 0.0024,
           "tokenSymbol": "ETH",
           "maxPerWallet": 25
@@ -14600,7 +14600,7 @@
           "startTime": "2026-10-22T00:09:09.000Z",
           "endTime": "2026-11-21T00:19:09.000Z",
           "isFree": false,
-          "priceUsd": 123.224,
+          "priceUsd": 123.109,
           "priceToken": 0.053,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -14639,7 +14639,7 @@
           "startTime": "2026-10-21T23:12:48.000Z",
           "endTime": "2027-01-29T23:12:48.000Z",
           "isFree": false,
-          "priceUsd": 37.184,
+          "priceUsd": 37.176,
           "priceToken": 0.016,
           "tokenSymbol": "ETH",
           "maxPerWallet": 100
@@ -15017,7 +15017,7 @@
           "startTime": "2026-10-22T08:30:00.000Z",
           "endTime": "2027-10-22T08:30:00.000Z",
           "isFree": false,
-          "priceUsd": 0.233,
+          "priceUsd": 0.232,
           "priceToken": 0.0001,
           "tokenSymbol": "ETH",
           "maxPerWallet": 1111
@@ -15067,7 +15067,7 @@
           "startTime": "2026-10-22T08:30:00.000Z",
           "endTime": "2027-10-22T08:30:00.000Z",
           "isFree": false,
-          "priceUsd": 0.233,
+          "priceUsd": 0.232,
           "priceToken": 0.0001,
           "tokenSymbol": "ETH",
           "maxPerWallet": 1111
@@ -15195,7 +15195,7 @@
           "startTime": "2026-10-12T17:55:57.000Z",
           "endTime": "2026-11-14T17:55:57.000Z",
           "isFree": false,
-          "priceUsd": 20.904,
+          "priceUsd": 20.905,
           "priceToken": 0.009,
           "tokenSymbol": "ETH",
           "maxPerWallet": 25
@@ -15245,7 +15245,7 @@
           "startTime": "2026-10-12T10:04:00.000Z",
           "endTime": "2026-10-12T10:05:00.000Z",
           "isFree": false,
-          "priceUsd": 18.581,
+          "priceUsd": 18.584,
           "priceToken": 0.008,
           "tokenSymbol": "ETH",
           "maxPerWallet": 2
@@ -15256,7 +15256,7 @@
           "startTime": "2026-10-12T10:05:00.000Z",
           "endTime": "2027-09-10T10:05:00.000Z",
           "isFree": false,
-          "priceUsd": 20.439,
+          "priceUsd": 20.443,
           "priceToken": 0.0088,
           "tokenSymbol": "ETH",
           "maxPerWallet": 29
@@ -15270,13 +15270,157 @@
       "hasSocial": true
     },
     {
+      "slug": "facetsart",
+      "name": "Facets",
+      "description": "FACETS is an art collection of 2,222 pieces built on seven distinct personas from the web3 space, each with its own story and characteristics. Fully on-chain and animated, drawn in Solidity as pixel blocks on a 35x35 grid.\n\nIt carries two mechanics: Burn to Forge, and The Turn, which shares royalties with holders. Every piece also turns toward the wallet holding it and is redrawn when it changes hands, and each one carries a name from a book of 832, written by hand.",
+      "imageUrl": "https://i2c.seadn.io/collection/facetsart/image_type_logo/4b8d659d14715447c8d68ce2b0c993/864b8d659d14715447c8d68ce2b0c993.png",
+      "openseaUrl": "https://opensea.io/collection/facetsart/overview",
+      "contractAddress": null,
+      "blockscoutUrl": null,
+      "chain": "Robinhood Chain",
+      "chainIdentifier": "robinhood",
+      "overallStatus": "SOLD_OUT",
+      "isSoldOut": true,
+      "itemsMinted": 2222,
+      "maxSupply": 2222,
+      "remainingSupply": 0,
+      "mintPercent": 100.0,
+      "hasFree": true,
+      "isPublicFree": false,
+      "earliestUpcoming": null,
+      "stages": [
+        {
+          "label": "Artist (Team) Stage",
+          "status": "ENDED",
+          "startTime": "2026-09-16T13:00:00.000Z",
+          "endTime": "2026-09-16T15:00:00.000Z",
+          "isFree": true,
+          "priceUsd": 0.0,
+          "priceToken": 0.0,
+          "tokenSymbol": "ETH",
+          "maxPerWallet": 569
+        },
+        {
+          "label": "Holders Stage (Gruffters, Phigures, Pulverulents, School of Art, 6529 Meme Card 'WORTHLESS' and 1/1)",
+          "status": "ENDED",
+          "startTime": "2026-09-16T15:00:00.000Z",
+          "endTime": "2026-09-16T16:30:00.000Z",
+          "isFree": false,
+          "priceUsd": 16.027,
+          "priceToken": 0.0069,
+          "tokenSymbol": "ETH",
+          "maxPerWallet": 32
+        },
+        {
+          "label": "GTD Collaborations & Raffles Stage",
+          "status": "ENDED",
+          "startTime": "2026-09-16T16:30:00.000Z",
+          "endTime": "2026-09-16T18:00:00.000Z",
+          "isFree": false,
+          "priceUsd": 16.027,
+          "priceToken": 0.0069,
+          "tokenSymbol": "ETH",
+          "maxPerWallet": 1
+        },
+        {
+          "label": "FCFS Stage",
+          "status": "ENDED",
+          "startTime": "2026-09-16T18:00:00.000Z",
+          "endTime": "2026-09-16T19:30:00.000Z",
+          "isFree": false,
+          "priceUsd": 16.027,
+          "priceToken": 0.0069,
+          "tokenSymbol": "ETH",
+          "maxPerWallet": 1
+        },
+        {
+          "label": "Public Stage",
+          "status": "ENDED",
+          "startTime": "2026-09-16T19:30:00.000Z",
+          "endTime": "2026-09-30T00:35:47.000Z",
+          "isFree": false,
+          "priceUsd": 3.949,
+          "priceToken": 0.0017,
+          "tokenSymbol": "ETH",
+          "maxPerWallet": 69
+        }
+      ],
+      "twitterUsername": "facetsart",
+      "discordUrl": null,
+      "externalUrl": null,
+      "telegramUrl": null,
+      "isVerified": true,
+      "hasSocial": true
+    },
+    {
+      "slug": "gta6-fan-collection",
+      "name": "Fan Collection - GAT",
+      "description": " Fan Collection A fan-made NFT collection inspired by the GTA 6 universe, created for collectors and gaming enthusiasts.\n",
+      "imageUrl": "https://i2c.seadn.io/collection/gta-6-fan-collection/image_type_logo/2fc7a7379663da742150a9d2b80803/0e2fc7a7379663da742150a9d2b80803.jpeg",
+      "openseaUrl": "https://opensea.io/collection/gta6-fan-collection/overview",
+      "contractAddress": null,
+      "blockscoutUrl": null,
+      "chain": "Robinhood Chain",
+      "chainIdentifier": "robinhood",
+      "overallStatus": "SOLD_OUT",
+      "isSoldOut": true,
+      "itemsMinted": 185,
+      "maxSupply": 185,
+      "remainingSupply": 0,
+      "mintPercent": 100.0,
+      "hasFree": true,
+      "isPublicFree": true,
+      "earliestUpcoming": null,
+      "stages": [
+        {
+          "label": "Team",
+          "status": "ENDED",
+          "startTime": "2026-09-26T13:00:00.000Z",
+          "endTime": "2026-09-26T21:00:00.000Z",
+          "isFree": true,
+          "priceUsd": 0.0,
+          "priceToken": 0.0,
+          "tokenSymbol": "ETH",
+          "maxPerWallet": 25
+        },
+        {
+          "label": "WL",
+          "status": "ENDED",
+          "startTime": "2026-09-26T21:00:00.000Z",
+          "endTime": "2026-09-27T21:00:00.000Z",
+          "isFree": true,
+          "priceUsd": 0.0,
+          "priceToken": 0.0,
+          "tokenSymbol": "ETH",
+          "maxPerWallet": 1
+        },
+        {
+          "label": "Public stage",
+          "status": "ENDED",
+          "startTime": "2026-09-27T21:00:00.000Z",
+          "endTime": "2026-10-07T21:00:00.000Z",
+          "isFree": true,
+          "priceUsd": 0.0,
+          "priceToken": 0.0,
+          "tokenSymbol": "ETH",
+          "maxPerWallet": 1
+        }
+      ],
+      "twitterUsername": "GTA6neon",
+      "discordUrl": null,
+      "externalUrl": null,
+      "telegramUrl": "https://t.me/GTA6_5000",
+      "isVerified": false,
+      "hasSocial": true
+    },
+    {
       "slug": "rare-friends-genesis",
       "name": "Rare Friends Genesis",
       "description": "",
       "imageUrl": "https://i2c.seadn.io/collection/rare-friends-genesis/image_type_logo/dfd32c74ec72b8be55ac425277dc8f/44dfd32c74ec72b8be55ac425277dc8f.png",
       "openseaUrl": "https://opensea.io/collection/rare-friends-genesis/overview",
-      "contractAddress": null,
-      "blockscoutUrl": null,
+      "contractAddress": "0x116eaa62241751e0c98da43d458600c6c17cd361",
+      "blockscoutUrl": "https://robinhoodchain.blockscout.com/address/0x116eaa62241751e0c98da43d458600c6c17cd361",
       "chain": "Robinhood Chain",
       "chainIdentifier": "robinhood",
       "overallStatus": "SOLD_OUT",
@@ -15351,151 +15495,7 @@
       "telegramUrl": null,
       "isVerified": true,
       "hasSocial": true
-    },
-    {
-      "slug": "facetsart",
-      "name": "Facets",
-      "description": "FACETS is an art collection of 2,222 pieces built on seven distinct personas from the web3 space, each with its own story and characteristics. Fully on-chain and animated, drawn in Solidity as pixel blocks on a 35x35 grid.\n\nIt carries two mechanics: Burn to Forge, and The Turn, which shares royalties with holders. Every piece also turns toward the wallet holding it and is redrawn when it changes hands, and each one carries a name from a book of 832, written by hand.",
-      "imageUrl": "https://i2c.seadn.io/collection/facetsart/image_type_logo/4b8d659d14715447c8d68ce2b0c993/864b8d659d14715447c8d68ce2b0c993.png",
-      "openseaUrl": "https://opensea.io/collection/facetsart/overview",
-      "contractAddress": null,
-      "blockscoutUrl": null,
-      "chain": "Robinhood Chain",
-      "chainIdentifier": "robinhood",
-      "overallStatus": "SOLD_OUT",
-      "isSoldOut": true,
-      "itemsMinted": 2222,
-      "maxSupply": 2222,
-      "remainingSupply": 0,
-      "mintPercent": 100.0,
-      "hasFree": true,
-      "isPublicFree": false,
-      "earliestUpcoming": null,
-      "stages": [
-        {
-          "label": "Artist (Team) Stage",
-          "status": "ENDED",
-          "startTime": "2026-09-16T13:00:00.000Z",
-          "endTime": "2026-09-16T15:00:00.000Z",
-          "isFree": true,
-          "priceUsd": 0.0,
-          "priceToken": 0.0,
-          "tokenSymbol": "ETH",
-          "maxPerWallet": 569
-        },
-        {
-          "label": "Holders Stage (Gruffters, Phigures, Pulverulents, School of Art, 6529 Meme Card 'WORTHLESS' and 1/1)",
-          "status": "ENDED",
-          "startTime": "2026-09-16T15:00:00.000Z",
-          "endTime": "2026-09-16T16:30:00.000Z",
-          "isFree": false,
-          "priceUsd": 16.036,
-          "priceToken": 0.0069,
-          "tokenSymbol": "ETH",
-          "maxPerWallet": 32
-        },
-        {
-          "label": "GTD Collaborations & Raffles Stage",
-          "status": "ENDED",
-          "startTime": "2026-09-16T16:30:00.000Z",
-          "endTime": "2026-09-16T18:00:00.000Z",
-          "isFree": false,
-          "priceUsd": 16.036,
-          "priceToken": 0.0069,
-          "tokenSymbol": "ETH",
-          "maxPerWallet": 1
-        },
-        {
-          "label": "FCFS Stage",
-          "status": "ENDED",
-          "startTime": "2026-09-16T18:00:00.000Z",
-          "endTime": "2026-09-16T19:30:00.000Z",
-          "isFree": false,
-          "priceUsd": 16.036,
-          "priceToken": 0.0069,
-          "tokenSymbol": "ETH",
-          "maxPerWallet": 1
-        },
-        {
-          "label": "Public Stage",
-          "status": "ENDED",
-          "startTime": "2026-09-16T19:30:00.000Z",
-          "endTime": "2026-09-30T00:35:47.000Z",
-          "isFree": false,
-          "priceUsd": 3.951,
-          "priceToken": 0.0017,
-          "tokenSymbol": "ETH",
-          "maxPerWallet": 69
-        }
-      ],
-      "twitterUsername": "facetsart",
-      "discordUrl": null,
-      "externalUrl": null,
-      "telegramUrl": null,
-      "isVerified": true,
-      "hasSocial": true
-    },
-    {
-      "slug": "gta6-fan-collection",
-      "name": "Fan Collection - GAT",
-      "description": " Fan Collection A fan-made NFT collection inspired by the GTA 6 universe, created for collectors and gaming enthusiasts.\n",
-      "imageUrl": "https://i2c.seadn.io/collection/gta-6-fan-collection/image_type_logo/2fc7a7379663da742150a9d2b80803/0e2fc7a7379663da742150a9d2b80803.jpeg",
-      "openseaUrl": "https://opensea.io/collection/gta6-fan-collection/overview",
-      "contractAddress": null,
-      "blockscoutUrl": null,
-      "chain": "Robinhood Chain",
-      "chainIdentifier": "robinhood",
-      "overallStatus": "SOLD_OUT",
-      "isSoldOut": true,
-      "itemsMinted": 185,
-      "maxSupply": 185,
-      "remainingSupply": 0,
-      "mintPercent": 100.0,
-      "hasFree": true,
-      "isPublicFree": true,
-      "earliestUpcoming": null,
-      "stages": [
-        {
-          "label": "Team",
-          "status": "ENDED",
-          "startTime": "2026-09-26T13:00:00.000Z",
-          "endTime": "2026-09-26T21:00:00.000Z",
-          "isFree": true,
-          "priceUsd": 0.0,
-          "priceToken": 0.0,
-          "tokenSymbol": "ETH",
-          "maxPerWallet": 25
-        },
-        {
-          "label": "WL",
-          "status": "ENDED",
-          "startTime": "2026-09-26T21:00:00.000Z",
-          "endTime": "2026-09-27T21:00:00.000Z",
-          "isFree": true,
-          "priceUsd": 0.0,
-          "priceToken": 0.0,
-          "tokenSymbol": "ETH",
-          "maxPerWallet": 1
-        },
-        {
-          "label": "Public stage",
-          "status": "ENDED",
-          "startTime": "2026-09-27T21:00:00.000Z",
-          "endTime": "2026-10-07T21:00:00.000Z",
-          "isFree": true,
-          "priceUsd": 0.0,
-          "priceToken": 0.0,
-          "tokenSymbol": "ETH",
-          "maxPerWallet": 1
-        }
-      ],
-      "twitterUsername": "GTA6neon",
-      "discordUrl": null,
-      "externalUrl": null,
-      "telegramUrl": "https://t.me/GTA6_5000",
-      "isVerified": false,
-      "hasSocial": true
     }
   ],
-  "last_scanned_block": 98597623
+  "last_scanned_block": 98617266
 }
