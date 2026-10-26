@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T05:36:39.440305+00:00",
-    "slug": "rcpts",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T05:36:39.440305+00:00",
     "slug": "internetmonkes",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32116,5 +32110,12 @@
     "type": "minted",
     "from": 83880,
     "value": 83892
+  },
+  {
+    "at": "2026-10-26T23:10:04.315535+00:00",
+    "slug": "bot-testing-55727836",
+    "type": "minted",
+    "from": 1199,
+    "value": 1209
   }
 ]
