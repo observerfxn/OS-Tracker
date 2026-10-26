@@ -1,30 +1,6 @@
 [
   {
     "at": "2026-10-17T04:37:45.737779+00:00",
-    "slug": "street-born-634001704",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T04:37:45.737779+00:00",
-    "slug": "the-3333-experiments",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T04:37:45.737779+00:00",
-    "slug": "facetsart",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T04:37:45.737779+00:00",
-    "slug": "gta6-fan-collection",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T04:37:45.737779+00:00",
     "slug": "rare-friends-genesis",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32089,5 +32065,33 @@
     "type": "minted",
     "from": 225,
     "value": 227
+  },
+  {
+    "at": "2026-10-26T01:01:25.152707+00:00",
+    "slug": "amongrh-269330561",
+    "type": "minted",
+    "from": 83444,
+    "value": 83450
+  },
+  {
+    "at": "2026-10-26T01:01:25.152707+00:00",
+    "slug": "black-squarerh",
+    "type": "minted",
+    "from": 828,
+    "value": 829
+  },
+  {
+    "at": "2026-10-26T01:01:25.152707+00:00",
+    "slug": "the-rich-ape-robin",
+    "type": "minted",
+    "from": 362,
+    "value": 617
+  },
+  {
+    "at": "2026-10-26T01:01:25.152707+00:00",
+    "slug": "the-rich-ape-robin",
+    "type": "price",
+    "from": 0.031,
+    "value": 0.00011
   }
 ]
