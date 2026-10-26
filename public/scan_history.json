@@ -1,32 +1,6 @@
 [
   {
     "at": "2026-10-17T05:05:36.174281+00:00",
-    "slug": "0xe14e6e6789ea3313440c0a9aad54ba31bf956a6c",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T05:05:36.174281+00:00",
-    "slug": "justsk00l",
-    "type": "minted",
-    "from": 2363,
-    "value": 2419
-  },
-  {
-    "at": "2026-10-17T05:05:36.174281+00:00",
-    "slug": "unknown-society-33848521",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T05:05:36.174281+00:00",
-    "slug": "wab3-salem",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T05:05:36.174281+00:00",
     "slug": "wab3-salem",
     "type": "minted",
     "from": 0,
@@ -32096,5 +32070,33 @@
     "type": "minted",
     "from": 83454,
     "value": 83456
+  },
+  {
+    "at": "2026-10-26T07:56:40.063501+00:00",
+    "slug": "amongrh-269330561",
+    "type": "minted",
+    "from": 83456,
+    "value": 83457
+  },
+  {
+    "at": "2026-10-26T07:56:40.063501+00:00",
+    "slug": "black-squarerh",
+    "type": "minted",
+    "from": 829,
+    "value": 830
+  },
+  {
+    "at": "2026-10-26T07:56:40.063501+00:00",
+    "slug": "sixss",
+    "type": "minted",
+    "from": 1078,
+    "value": 1079
+  },
+  {
+    "at": "2026-10-26T07:56:40.063501+00:00",
+    "slug": "rht2",
+    "type": "minted",
+    "from": 33151,
+    "value": 33191
   }
 ]
