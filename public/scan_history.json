@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T05:36:39.440305+00:00",
-    "slug": "printers-hood",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-17T05:36:39.440305+00:00",
     "slug": "cybercrew-gen02-rh-502993066",
     "type": "discovered",
     "value": "UPCOMING"
@@ -32108,5 +32102,12 @@
     "type": "price",
     "from": 0.0,
     "value": null
+  },
+  {
+    "at": "2026-10-26T20:11:02.445931+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 2758,
+    "value": 2759
   }
 ]
