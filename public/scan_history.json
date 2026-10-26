@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T05:36:39.440305+00:00",
-    "slug": "cybercrew-gen02-rh-502993066",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-17T05:36:39.440305+00:00",
     "slug": "cannacats",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32109,5 +32103,12 @@
     "type": "minted",
     "from": 2758,
     "value": 2759
+  },
+  {
+    "at": "2026-10-26T20:41:36.136117+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 2759,
+    "value": 2760
   }
 ]
