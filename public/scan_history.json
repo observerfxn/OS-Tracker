@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T05:05:36.174281+00:00",
-    "slug": "halo-nodes",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T05:05:36.174281+00:00",
     "slug": "robinfrens-art",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32100,5 +32094,12 @@
     "type": "minted",
     "from": 83459,
     "value": 83461
+  },
+  {
+    "at": "2026-10-26T10:47:23.252439+00:00",
+    "slug": "amongrh-269330561",
+    "type": "minted",
+    "from": 83461,
+    "value": 83522
   }
 ]
