@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T05:36:39.440305+00:00",
-    "slug": "urchin-frens",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T05:36:39.440305+00:00",
     "slug": "rcpts",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32115,5 +32109,12 @@
     "type": "minted",
     "from": 2760,
     "value": 2765
+  },
+  {
+    "at": "2026-10-26T22:11:31.873739+00:00",
+    "slug": "amongrh-269330561",
+    "type": "minted",
+    "from": 83880,
+    "value": 83892
   }
 ]
