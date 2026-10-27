@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T06:04:00.811458+00:00",
-    "slug": "hootangclan",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T06:04:00.811458+00:00",
     "slug": "pixelhoodminis",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32126,5 +32120,12 @@
     "type": "minted",
     "from": 2352,
     "value": 2353
+  },
+  {
+    "at": "2026-10-27T11:17:14.173879+00:00",
+    "slug": "street1punks",
+    "type": "minted",
+    "from": 364,
+    "value": 366
   }
 ]
