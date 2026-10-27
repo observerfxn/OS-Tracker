@@ -1,11 +1,5 @@
 [
   {
-    "at": "2026-10-17T05:36:39.440305+00:00",
-    "slug": "internetmonkes",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
     "at": "2026-10-17T06:04:00.811458+00:00",
     "slug": "hey-robin",
     "type": "minted",
@@ -32117,5 +32111,12 @@
     "type": "minted",
     "from": 1199,
     "value": 1209
+  },
+  {
+    "at": "2026-10-27T00:06:04.518056+00:00",
+    "slug": "amongrh-269330561",
+    "type": "minted",
+    "from": 83892,
+    "value": 83914
   }
 ]
