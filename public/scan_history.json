@@ -1,11 +1,5 @@
 [
   {
-    "at": "2026-10-17T07:18:04.592662+00:00",
-    "slug": "halo-nodes",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
     "at": "2026-10-17T08:03:24.517297+00:00",
     "slug": "testcollectionsz",
     "type": "minted",
@@ -32158,5 +32152,12 @@
     "type": "minted",
     "from": 33448,
     "value": 33514
+  },
+  {
+    "at": "2026-10-27T19:46:17.830748+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 2765,
+    "value": 2766
   }
 ]
