@@ -1,19 +1,6 @@
 [
   {
     "at": "2026-10-17T08:03:24.517297+00:00",
-    "slug": "the-mutual-fun-907760855",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T08:03:24.517297+00:00",
-    "slug": "noctrive-72516360",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T08:03:24.517297+00:00",
     "slug": "noctrive-72516360",
     "type": "minted",
     "from": 0,
@@ -32163,5 +32150,19 @@
     "type": "minted",
     "from": 1057,
     "value": 1058
+  },
+  {
+    "at": "2026-10-27T23:11:56.498520+00:00",
+    "slug": "rht2",
+    "type": "minted",
+    "from": 33519,
+    "value": 33520
+  },
+  {
+    "at": "2026-10-27T23:11:56.498520+00:00",
+    "slug": "pac-world-genesis",
+    "type": "minted",
+    "from": 2359,
+    "value": 2360
   }
 ]
