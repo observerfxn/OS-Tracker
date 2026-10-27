@@ -1,18 +1,6 @@
 [
   {
     "at": "2026-10-17T07:18:04.592662+00:00",
-    "slug": "punk-phicolu",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T07:18:04.592662+00:00",
-    "slug": "wasteland-art",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T07:18:04.592662+00:00",
     "slug": "for-the-birds-rh",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32155,5 +32143,19 @@
     "type": "minted",
     "from": 2187,
     "value": 2192
+  },
+  {
+    "at": "2026-10-27T17:50:51.570577+00:00",
+    "slug": "amongrh-269330561",
+    "type": "minted",
+    "from": 85242,
+    "value": 85243
+  },
+  {
+    "at": "2026-10-27T17:50:51.570577+00:00",
+    "slug": "akumafuda-209462407",
+    "type": "minted",
+    "from": 2192,
+    "value": 2212
   }
 ]
