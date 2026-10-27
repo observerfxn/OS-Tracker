@@ -1,24 +1,6 @@
 [
   {
     "at": "2026-10-17T06:44:06.286524+00:00",
-    "slug": "goatgangrh",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T06:44:06.286524+00:00",
-    "slug": "rhstone",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T06:44:06.286524+00:00",
-    "slug": "py0py0py0py0",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T06:44:06.286524+00:00",
     "slug": "dreamersxyz",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32133,5 +32115,26 @@
     "type": "minted",
     "from": 2353,
     "value": 2356
+  },
+  {
+    "at": "2026-10-27T12:58:40.858862+00:00",
+    "slug": "amongrh-269330561",
+    "type": "minted",
+    "from": 84184,
+    "value": 84214
+  },
+  {
+    "at": "2026-10-27T12:58:40.858862+00:00",
+    "slug": "sakura-996741917",
+    "type": "minted",
+    "from": 1765,
+    "value": 1785
+  },
+  {
+    "at": "2026-10-27T12:58:40.858862+00:00",
+    "slug": "0x686cd2c08ed188b1a32423f71612d7fdc59adc7c",
+    "type": "minted",
+    "from": 5213,
+    "value": 5294
   }
 ]
