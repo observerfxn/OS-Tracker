@@ -2,13 +2,6 @@
   {
     "at": "2026-10-17T06:04:00.811458+00:00",
     "slug": "aethir-checker-license-975552407",
-    "type": "minted",
-    "from": 0,
-    "value": 291
-  },
-  {
-    "at": "2026-10-17T06:04:00.811458+00:00",
-    "slug": "aethir-checker-license-975552407",
     "type": "price",
     "from": null,
     "value": 0.0053
@@ -32120,5 +32113,12 @@
     "type": "minted",
     "from": 5096,
     "value": 5128
+  },
+  {
+    "at": "2026-10-27T07:51:40.122960+00:00",
+    "slug": "0x686cd2c08ed188b1a32423f71612d7fdc59adc7c",
+    "type": "minted",
+    "from": 5128,
+    "value": 5129
   }
 ]
