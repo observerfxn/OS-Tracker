@@ -1,20 +1,6 @@
 [
   {
     "at": "2026-10-17T06:04:00.811458+00:00",
-    "slug": "aethir-checker-license-975552407",
-    "type": "price",
-    "from": null,
-    "value": 0.0053
-  },
-  {
-    "at": "2026-10-17T06:04:00.811458+00:00",
-    "slug": "naruto-boruto-666455731",
-    "type": "minted",
-    "from": 321,
-    "value": 444
-  },
-  {
-    "at": "2026-10-17T06:04:00.811458+00:00",
     "slug": "angels-premium-edition",
     "type": "discovered",
     "value": "LIVE"
@@ -32120,5 +32106,19 @@
     "type": "minted",
     "from": 5128,
     "value": 5129
+  },
+  {
+    "at": "2026-10-27T08:48:35.793746+00:00",
+    "slug": "0x686cd2c08ed188b1a32423f71612d7fdc59adc7c",
+    "type": "minted",
+    "from": 5129,
+    "value": 5130
+  },
+  {
+    "at": "2026-10-27T08:48:35.793746+00:00",
+    "slug": "pac-world-genesis",
+    "type": "minted",
+    "from": 2351,
+    "value": 2352
   }
 ]
