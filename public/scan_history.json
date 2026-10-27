@@ -1,25 +1,6 @@
 [
   {
     "at": "2026-10-17T07:18:04.592662+00:00",
-    "slug": "absturds-nft",
-    "type": "supply",
-    "from": 10000,
-    "value": 2222
-  },
-  {
-    "at": "2026-10-17T07:18:04.592662+00:00",
-    "slug": "acidverse-avatars",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T07:18:04.592662+00:00",
-    "slug": "cabal--",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T07:18:04.592662+00:00",
     "slug": "lofi-mancers-510352283",
     "type": "discovered",
     "value": "LIVE"
@@ -32146,5 +32127,26 @@
     "type": "minted",
     "from": 796,
     "value": 797
+  },
+  {
+    "at": "2026-10-27T15:51:09.489059+00:00",
+    "slug": "0x686cd2c08ed188b1a32423f71612d7fdc59adc7c",
+    "type": "minted",
+    "from": 5330,
+    "value": 5360
+  },
+  {
+    "at": "2026-10-27T15:51:09.489059+00:00",
+    "slug": "rht2",
+    "type": "minted",
+    "from": 33398,
+    "value": 33428
+  },
+  {
+    "at": "2026-10-27T15:51:09.489059+00:00",
+    "slug": "test-dont-mint-643823444",
+    "type": "minted",
+    "from": 1013,
+    "value": 1293
   }
 ]
