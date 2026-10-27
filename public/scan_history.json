@@ -1,42 +1,6 @@
 [
   {
     "at": "2026-10-17T06:04:00.811458+00:00",
-    "slug": "angels-premium-edition",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T06:04:00.811458+00:00",
-    "slug": "555-drug-free-dogs",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T06:04:00.811458+00:00",
-    "slug": "working-pixels",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T06:04:00.811458+00:00",
-    "slug": "weirdjpegs",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-17T06:04:00.811458+00:00",
-    "slug": "the-crayons",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T06:04:00.811458+00:00",
-    "slug": "musegod-muses",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T06:04:00.811458+00:00",
     "slug": "hootangclan",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32120,5 +32084,47 @@
     "type": "minted",
     "from": 2351,
     "value": 2352
+  },
+  {
+    "at": "2026-10-27T09:46:47.586702+00:00",
+    "slug": "0x686cd2c08ed188b1a32423f71612d7fdc59adc7c",
+    "type": "minted",
+    "from": 5130,
+    "value": 5131
+  },
+  {
+    "at": "2026-10-27T09:46:47.586702+00:00",
+    "slug": "rht2",
+    "type": "minted",
+    "from": 33258,
+    "value": 33308
+  },
+  {
+    "at": "2026-10-27T09:46:47.586702+00:00",
+    "slug": "street1punks",
+    "type": "minted",
+    "from": 362,
+    "value": 364
+  },
+  {
+    "at": "2026-10-27T09:46:47.586702+00:00",
+    "slug": "old-is-gold-786693409",
+    "type": "minted",
+    "from": 1216,
+    "value": 1226
+  },
+  {
+    "at": "2026-10-27T09:46:47.586702+00:00",
+    "slug": "madlads-nft-463369509",
+    "type": "minted",
+    "from": 783,
+    "value": 787
+  },
+  {
+    "at": "2026-10-27T09:46:47.586702+00:00",
+    "slug": "pac-world-genesis",
+    "type": "minted",
+    "from": 2352,
+    "value": 2353
   }
 ]
