@@ -1,19 +1,6 @@
 [
   {
     "at": "2026-10-17T06:04:00.811458+00:00",
-    "slug": "ethmojipunks-nft",
-    "type": "price",
-    "from": null,
-    "value": 0.0005
-  },
-  {
-    "at": "2026-10-17T06:04:00.811458+00:00",
-    "slug": "0x8a788fd779b0daab41120ccd05f9b95034091346",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T06:04:00.811458+00:00",
     "slug": "printers-hood",
     "type": "status",
     "from": "UPCOMING",
@@ -32118,5 +32105,19 @@
     "type": "minted",
     "from": 1595,
     "value": 1596
+  },
+  {
+    "at": "2026-10-27T05:14:11.783320+00:00",
+    "slug": "amongrh-269330561",
+    "type": "minted",
+    "from": 83968,
+    "value": 83970
+  },
+  {
+    "at": "2026-10-27T05:14:11.783320+00:00",
+    "slug": "0x686cd2c08ed188b1a32423f71612d7fdc59adc7c",
+    "type": "minted",
+    "from": 5045,
+    "value": 5096
   }
 ]
