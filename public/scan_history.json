@@ -1,42 +1,6 @@
 [
   {
     "at": "2026-10-17T08:03:24.517297+00:00",
-    "slug": "0xc21159f412c294ca2c38f2a9ecaaccf9d93ec929",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T08:03:24.517297+00:00",
-    "slug": "dreamersxyz",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T08:03:24.517297+00:00",
-    "slug": "kageuri-official",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T08:03:24.517297+00:00",
-    "slug": "pixelhoodminis",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T08:03:24.517297+00:00",
-    "slug": "theapehood",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T08:03:24.517297+00:00",
-    "slug": "musegod-muses",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T08:03:24.517297+00:00",
     "slug": "gremlin-cartel",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32164,5 +32128,47 @@
     "type": "price",
     "from": 0.0,
     "value": 0.0007
+  },
+  {
+    "at": "2026-10-28T18:50:08.579937+00:00",
+    "slug": "bot-testing-55727836",
+    "type": "minted",
+    "from": 1229,
+    "value": 1279
+  },
+  {
+    "at": "2026-10-28T18:50:08.579937+00:00",
+    "slug": "homeboy-839113716",
+    "type": "minted",
+    "from": 677,
+    "value": 678
+  },
+  {
+    "at": "2026-10-28T18:50:08.579937+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 2768,
+    "value": 2769
+  },
+  {
+    "at": "2026-10-28T18:50:08.579937+00:00",
+    "slug": "waifuchillio",
+    "type": "status",
+    "from": "UPCOMING",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-28T18:50:08.579937+00:00",
+    "slug": "waifuchillio",
+    "type": "minted",
+    "from": 227,
+    "value": 243
+  },
+  {
+    "at": "2026-10-28T18:50:08.579937+00:00",
+    "slug": "waifuchillio",
+    "type": "price",
+    "from": null,
+    "value": 0.0002
   }
 ]
