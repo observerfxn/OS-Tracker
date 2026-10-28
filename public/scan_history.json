@@ -1,27 +1,6 @@
 [
   {
     "at": "2026-10-17T08:03:24.517297+00:00",
-    "slug": "justsk00l",
-    "type": "minted",
-    "from": 2436,
-    "value": 2446
-  },
-  {
-    "at": "2026-10-17T08:03:24.517297+00:00",
-    "slug": "zk-skulls",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T08:03:24.517297+00:00",
-    "slug": "zk-skulls",
-    "type": "price",
-    "from": null,
-    "value": 5e-05
-  },
-  {
-    "at": "2026-10-17T08:03:24.517297+00:00",
     "slug": "lofi-mancers-510352283",
     "type": "minted",
     "from": 134,
@@ -32164,5 +32143,26 @@
     "type": "minted",
     "from": 374,
     "value": 384
+  },
+  {
+    "at": "2026-10-28T02:51:33.744658+00:00",
+    "slug": "jhandu-bam",
+    "type": "minted",
+    "from": 5555,
+    "value": 5557
+  },
+  {
+    "at": "2026-10-28T02:51:33.744658+00:00",
+    "slug": "street1punks",
+    "type": "minted",
+    "from": 384,
+    "value": 386
+  },
+  {
+    "at": "2026-10-28T02:51:33.744658+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 2766,
+    "value": 2768
   }
 ]
