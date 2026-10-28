@@ -1,13 +1,6 @@
 [
   {
     "at": "2026-10-17T08:03:24.517297+00:00",
-    "slug": "cabal--",
-    "type": "price",
-    "from": 0.0002,
-    "value": 0.1
-  },
-  {
-    "at": "2026-10-17T08:03:24.517297+00:00",
     "slug": "0xc21159f412c294ca2c38f2a9ecaaccf9d93ec929",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32164,5 +32157,12 @@
     "type": "price",
     "from": 0.0,
     "value": 0.0035
+  },
+  {
+    "at": "2026-10-28T12:59:38.044980+00:00",
+    "slug": "bored-traders-nft",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.0007
   }
 ]
