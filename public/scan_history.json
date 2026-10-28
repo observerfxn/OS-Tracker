@@ -1,20 +1,6 @@
 [
   {
     "at": "2026-10-17T08:03:24.517297+00:00",
-    "slug": "acidverse-avatars",
-    "type": "minted",
-    "from": 40,
-    "value": 341
-  },
-  {
-    "at": "2026-10-17T08:03:24.517297+00:00",
-    "slug": "acidverse-avatars",
-    "type": "price",
-    "from": 0.0,
-    "value": 0.0005
-  },
-  {
-    "at": "2026-10-17T08:03:24.517297+00:00",
     "slug": "cabal--",
     "type": "minted",
     "from": 0,
@@ -32164,5 +32150,19 @@
     "type": "minted",
     "from": 1651,
     "value": 1652
+  },
+  {
+    "at": "2026-10-28T09:54:30.152468+00:00",
+    "slug": "waifuchillio",
+    "type": "status",
+    "from": "LIVE",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-28T09:54:30.152468+00:00",
+    "slug": "waifuchillio",
+    "type": "price",
+    "from": 0.0002,
+    "value": null
   }
 ]
