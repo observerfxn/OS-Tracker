@@ -1,68 +1,6 @@
 [
   {
     "at": "2026-10-17T08:38:01.455357+00:00",
-    "slug": "ccff00-circle",
-    "type": "minted",
-    "from": 2582,
-    "value": 2583
-  },
-  {
-    "at": "2026-10-17T08:38:01.455357+00:00",
-    "slug": "cahspig",
-    "type": "minted",
-    "from": 76,
-    "value": 503
-  },
-  {
-    "at": "2026-10-17T08:38:01.455357+00:00",
-    "slug": "token-farm-ai",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T08:38:01.455357+00:00",
-    "slug": "olzy-artifacts",
-    "type": "minted",
-    "from": 111,
-    "value": 282
-  },
-  {
-    "at": "2026-10-17T08:38:01.455357+00:00",
-    "slug": "the-mutual-fun-907760855",
-    "type": "price",
-    "from": 0.0,
-    "value": 0.005
-  },
-  {
-    "at": "2026-10-17T08:38:01.455357+00:00",
-    "slug": "frostlings-101756608",
-    "type": "minted",
-    "from": 967,
-    "value": 1048
-  },
-  {
-    "at": "2026-10-17T08:38:01.455357+00:00",
-    "slug": "tortoise-rh-303792327",
-    "type": "minted",
-    "from": 1170,
-    "value": 1206
-  },
-  {
-    "at": "2026-10-17T08:38:01.455357+00:00",
-    "slug": "crimson-ronin-831462114",
-    "type": "minted",
-    "from": 1400,
-    "value": 1440
-  },
-  {
-    "at": "2026-10-17T08:38:01.455357+00:00",
-    "slug": "justsk00l",
-    "type": "minted",
-    "from": 2446,
-    "value": 2456
-  },
-  {
-    "at": "2026-10-17T08:38:01.455357+00:00",
     "slug": "zany-apes",
     "type": "discovered",
     "value": "LIVE"
@@ -32175,5 +32113,68 @@
     "type": "price",
     "from": 0.0,
     "value": null
+  },
+  {
+    "at": "2026-10-29T16:05:38.830498+00:00",
+    "slug": "rht2",
+    "type": "minted",
+    "from": 33520,
+    "value": 33580
+  },
+  {
+    "at": "2026-10-29T16:05:38.830498+00:00",
+    "slug": "dukz-844687140",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.0005
+  },
+  {
+    "at": "2026-10-29T16:05:38.830498+00:00",
+    "slug": "goblin-broker-nft",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.0015
+  },
+  {
+    "at": "2026-10-29T16:05:38.830498+00:00",
+    "slug": "punks-nft-954987085",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.0015
+  },
+  {
+    "at": "2026-10-29T16:05:38.830498+00:00",
+    "slug": "the-diamond-organon",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.0015
+  },
+  {
+    "at": "2026-10-29T16:05:38.830498+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 3094,
+    "value": 3101
+  },
+  {
+    "at": "2026-10-29T16:05:38.830498+00:00",
+    "slug": "test-dont-mint-643823444",
+    "type": "minted",
+    "from": 2396,
+    "value": 3996
+  },
+  {
+    "at": "2026-10-29T16:05:38.830498+00:00",
+    "slug": "waifuchillio",
+    "type": "price",
+    "from": 0.0002,
+    "value": 0.0
+  },
+  {
+    "at": "2026-10-29T16:05:38.830498+00:00",
+    "slug": "swol-mferh",
+    "type": "minted",
+    "from": 1212,
+    "value": 1217
   }
 ]
