@@ -1,31 +1,5 @@
 [
   {
-    "at": "2026-10-17T08:03:24.517297+00:00",
-    "slug": "internetmonkes",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T08:03:24.517297+00:00",
-    "slug": "portable-slop-drive",
-    "type": "discovered",
-    "value": "ENDED"
-  },
-  {
-    "at": "2026-10-17T08:38:01.455357+00:00",
-    "slug": "testcollectionsz",
-    "type": "minted",
-    "from": 6035,
-    "value": 6038
-  },
-  {
-    "at": "2026-10-17T08:38:01.455357+00:00",
-    "slug": "derek-mercer-gang",
-    "type": "minted",
-    "from": 1391,
-    "value": 1421
-  },
-  {
     "at": "2026-10-17T08:38:01.455357+00:00",
     "slug": "ccff00-circle",
     "type": "minted",
@@ -32173,5 +32147,33 @@
     "type": "minted",
     "from": 1313,
     "value": 2396
+  },
+  {
+    "at": "2026-10-29T08:54:33.295671+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 2773,
+    "value": 3094
+  },
+  {
+    "at": "2026-10-29T08:54:33.295671+00:00",
+    "slug": "pac-world-genesis",
+    "type": "status",
+    "from": "LIVE",
+    "value": "SOLD_OUT"
+  },
+  {
+    "at": "2026-10-29T08:54:33.295671+00:00",
+    "slug": "pac-world-genesis",
+    "type": "supply",
+    "from": 10000,
+    "value": 2360
+  },
+  {
+    "at": "2026-10-29T08:54:33.295671+00:00",
+    "slug": "pac-world-genesis",
+    "type": "price",
+    "from": 0.0,
+    "value": null
   }
 ]
