@@ -1,32 +1,6 @@
 [
   {
     "at": "2026-10-17T08:38:01.455357+00:00",
-    "slug": "zany-apes",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T08:38:01.455357+00:00",
-    "slug": "acidverse-avatars",
-    "type": "minted",
-    "from": 341,
-    "value": 343
-  },
-  {
-    "at": "2026-10-17T08:38:01.455357+00:00",
-    "slug": "acidverse-avatars",
-    "type": "price",
-    "from": 0.0005,
-    "value": 0.00025
-  },
-  {
-    "at": "2026-10-17T08:38:01.455357+00:00",
-    "slug": "pebblewagies",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T08:38:01.455357+00:00",
     "slug": "everyday-birthday",
     "type": "discovered",
     "value": "LIVE"
@@ -32176,5 +32150,33 @@
     "type": "minted",
     "from": 1212,
     "value": 1217
+  },
+  {
+    "at": "2026-10-29T21:06:34.966394+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 3101,
+    "value": 3116
+  },
+  {
+    "at": "2026-10-29T21:06:34.966394+00:00",
+    "slug": "waifuchillio",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.0002
+  },
+  {
+    "at": "2026-10-29T21:06:34.966394+00:00",
+    "slug": "hood-monarchs",
+    "type": "status",
+    "from": "LIVE",
+    "value": "ENDED"
+  },
+  {
+    "at": "2026-10-29T21:06:34.966394+00:00",
+    "slug": "hood-monarchs",
+    "type": "price",
+    "from": 3.4103956437879e-05,
+    "value": null
   }
 ]
