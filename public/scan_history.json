@@ -1,18 +1,6 @@
 [
   {
     "at": "2026-10-17T08:03:24.517297+00:00",
-    "slug": "hopium-machines",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T08:03:24.517297+00:00",
-    "slug": "theloudhouse",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T08:03:24.517297+00:00",
     "slug": "internetmonkes",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32171,5 +32159,19 @@
     "type": "minted",
     "from": 2769,
     "value": 2773
+  },
+  {
+    "at": "2026-10-29T02:24:43.765748+00:00",
+    "slug": "dr-robinhood",
+    "type": "minted",
+    "from": 1907,
+    "value": 1908
+  },
+  {
+    "at": "2026-10-29T02:24:43.765748+00:00",
+    "slug": "test-dont-mint-643823444",
+    "type": "minted",
+    "from": 1313,
+    "value": 2396
   }
 ]
