@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T08:38:01.455357+00:00",
-    "slug": "cannacats",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T08:38:01.455357+00:00",
     "slug": "flamingos-eth",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32181,5 +32175,12 @@
     "type": "minted",
     "from": 1215,
     "value": 1296
+  },
+  {
+    "at": "2026-10-30T07:04:10.737335+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 3117,
+    "value": 3119
   }
 ]
