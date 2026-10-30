@@ -1,32 +1,6 @@
 [
   {
     "at": "2026-10-17T09:04:16.026156+00:00",
-    "slug": "socialfy-389822912",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T09:04:16.026156+00:00",
-    "slug": "everyday-birthday",
-    "type": "minted",
-    "from": 1,
-    "value": 133
-  },
-  {
-    "at": "2026-10-17T09:04:16.026156+00:00",
-    "slug": "everyday-birthday",
-    "type": "price",
-    "from": 1e-05,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-17T09:04:16.026156+00:00",
-    "slug": "dragon-balls-962578383",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-17T09:04:16.026156+00:00",
     "slug": "computersrh-nft",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32186,5 +32160,33 @@
     "type": "price",
     "from": 0.0002,
     "value": null
+  },
+  {
+    "at": "2026-10-30T19:19:21.841642+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 3120,
+    "value": 3121
+  },
+  {
+    "at": "2026-10-30T19:19:21.841642+00:00",
+    "slug": "waifuchillio",
+    "type": "status",
+    "from": "UPCOMING",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-30T19:19:21.841642+00:00",
+    "slug": "waifuchillio",
+    "type": "minted",
+    "from": 243,
+    "value": 349
+  },
+  {
+    "at": "2026-10-30T19:19:21.841642+00:00",
+    "slug": "waifuchillio",
+    "type": "price",
+    "from": null,
+    "value": 0.0002
   }
 ]
