@@ -1,18 +1,6 @@
 [
   {
     "at": "2026-10-17T09:04:16.026156+00:00",
-    "slug": "computersrh-nft",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T09:04:16.026156+00:00",
-    "slug": "zombegotchi",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T09:04:16.026156+00:00",
     "slug": "yield-farm-companions",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32188,5 +32176,19 @@
     "type": "price",
     "from": null,
     "value": 0.0002
+  },
+  {
+    "at": "2026-10-30T23:13:32.129644+00:00",
+    "slug": "rht2",
+    "type": "minted",
+    "from": 33598,
+    "value": 33619
+  },
+  {
+    "at": "2026-10-30T23:13:32.129644+00:00",
+    "slug": "the-goat-ranch-club-97273899",
+    "type": "minted",
+    "from": 214,
+    "value": 621
   }
 ]
