@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T09:37:20.314601+00:00",
-    "slug": "streethoodminis",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T09:37:20.314601+00:00",
     "slug": "rock-guardian",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32197,5 +32191,12 @@
     "type": "minted",
     "from": 3123,
     "value": 3124
+  },
+  {
+    "at": "2026-10-31T22:49:08.870737+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 3124,
+    "value": 3126
   }
 ]
