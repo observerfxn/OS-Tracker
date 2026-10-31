@@ -1,31 +1,5 @@
 [
   {
-    "at": "2026-10-17T09:04:16.026156+00:00",
-    "slug": "robinfrens-art",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T09:04:16.026156+00:00",
-    "slug": "dreamersxyz",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T09:37:20.314601+00:00",
-    "slug": "hey-ccff00",
-    "type": "minted",
-    "from": 1561,
-    "value": 1571
-  },
-  {
-    "at": "2026-10-17T09:37:20.314601+00:00",
-    "slug": "testcollectionsz",
-    "type": "minted",
-    "from": 6038,
-    "value": 6041
-  },
-  {
     "at": "2026-10-17T09:37:20.314601+00:00",
     "slug": "derek-mercer-gang",
     "type": "minted",
@@ -32192,5 +32166,33 @@
     "type": "minted",
     "from": 621,
     "value": 642
+  },
+  {
+    "at": "2026-10-31T08:52:10.151160+00:00",
+    "slug": "soul-elevator-624321641",
+    "type": "minted",
+    "from": 1209,
+    "value": 1211
+  },
+  {
+    "at": "2026-10-31T08:52:10.151160+00:00",
+    "slug": "the-goat-ranch-club-97273899",
+    "type": "minted",
+    "from": 642,
+    "value": 1974
+  },
+  {
+    "at": "2026-10-31T08:52:10.151160+00:00",
+    "slug": "waifuchillio",
+    "type": "status",
+    "from": "LIVE",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-10-31T08:52:10.151160+00:00",
+    "slug": "waifuchillio",
+    "type": "price",
+    "from": 0.0002,
+    "value": null
   }
 ]
