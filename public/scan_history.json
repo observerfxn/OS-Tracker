@@ -1,18 +1,6 @@
 [
   {
     "at": "2026-10-17T09:04:16.026156+00:00",
-    "slug": "yield-farm-companions",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T09:04:16.026156+00:00",
-    "slug": "etherbubu-robin-chest",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T09:04:16.026156+00:00",
     "slug": "robinfrens-art",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32190,5 +32178,19 @@
     "type": "minted",
     "from": 214,
     "value": 621
+  },
+  {
+    "at": "2026-10-31T02:20:23.525337+00:00",
+    "slug": "bonebound-nft",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.0015
+  },
+  {
+    "at": "2026-10-31T02:20:23.525337+00:00",
+    "slug": "the-goat-ranch-club-97273899",
+    "type": "minted",
+    "from": 621,
+    "value": 642
   }
 ]
