@@ -1,41 +1,6 @@
 [
   {
     "at": "2026-10-17T09:37:20.314601+00:00",
-    "slug": "derek-mercer-gang",
-    "type": "minted",
-    "from": 1427,
-    "value": 1434
-  },
-  {
-    "at": "2026-10-17T09:37:20.314601+00:00",
-    "slug": "ccff00-circle",
-    "type": "minted",
-    "from": 2583,
-    "value": 2584
-  },
-  {
-    "at": "2026-10-17T09:37:20.314601+00:00",
-    "slug": "token-farm-ai",
-    "type": "minted",
-    "from": 1038,
-    "value": 4129
-  },
-  {
-    "at": "2026-10-17T09:37:20.314601+00:00",
-    "slug": "justsk00l",
-    "type": "minted",
-    "from": 2456,
-    "value": 2458
-  },
-  {
-    "at": "2026-10-17T09:37:20.314601+00:00",
-    "slug": "zany-apes",
-    "type": "minted",
-    "from": 289,
-    "value": 291
-  },
-  {
-    "at": "2026-10-17T09:37:20.314601+00:00",
     "slug": "jackpot-casino",
     "type": "price",
     "from": 4e-05,
@@ -32194,5 +32159,40 @@
     "type": "price",
     "from": 0.0002,
     "value": null
+  },
+  {
+    "at": "2026-10-31T15:18:10.151749+00:00",
+    "slug": "presido",
+    "type": "minted",
+    "from": 1304,
+    "value": 1305
+  },
+  {
+    "at": "2026-10-31T15:18:10.151749+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 3121,
+    "value": 3123
+  },
+  {
+    "at": "2026-10-31T15:18:10.151749+00:00",
+    "slug": "waifuchillio",
+    "type": "status",
+    "from": "UPCOMING",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-10-31T15:18:10.151749+00:00",
+    "slug": "waifuchillio",
+    "type": "minted",
+    "from": 349,
+    "value": 675
+  },
+  {
+    "at": "2026-10-31T15:18:10.151749+00:00",
+    "slug": "waifuchillio",
+    "type": "price",
+    "from": null,
+    "value": 0.0002
   }
 ]
