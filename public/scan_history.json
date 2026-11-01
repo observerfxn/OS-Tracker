@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T09:37:20.314601+00:00",
-    "slug": "rock-guardian",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T09:37:20.314601+00:00",
     "slug": "demonics-638685096",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32198,5 +32192,12 @@
     "type": "minted",
     "from": 3124,
     "value": 3126
+  },
+  {
+    "at": "2026-11-01T09:11:55.587339+00:00",
+    "slug": "sakura-996741917",
+    "type": "minted",
+    "from": 2956,
+    "value": 3007
   }
 ]
