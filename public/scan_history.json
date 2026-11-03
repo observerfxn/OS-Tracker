@@ -2,13 +2,6 @@
   {
     "at": "2026-10-17T10:36:10.683781+00:00",
     "slug": "celestial-necropolis",
-    "type": "minted",
-    "from": 388,
-    "value": 918
-  },
-  {
-    "at": "2026-10-17T10:36:10.683781+00:00",
-    "slug": "celestial-necropolis",
     "type": "price",
     "from": 0.0,
     "value": 0.0001
@@ -32210,5 +32203,12 @@
     "type": "price",
     "from": 0.0,
     "value": 0.0037
+  },
+  {
+    "at": "2026-11-03T19:28:25.246869+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 3126,
+    "value": 3128
   }
 ]
