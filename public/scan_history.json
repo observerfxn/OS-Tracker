@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T10:36:10.683781+00:00",
-    "slug": "chinese-hood",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T10:36:10.683781+00:00",
     "slug": "rage-baiter",
     "type": "discovered",
     "value": "UPCOMING"
@@ -32211,5 +32205,12 @@
     "type": "minted",
     "from": 3128,
     "value": 3132
+  },
+  {
+    "at": "2026-11-04T14:27:22.576935+00:00",
+    "slug": "rht2",
+    "type": "minted",
+    "from": 34022,
+    "value": 34060
   }
 ]
