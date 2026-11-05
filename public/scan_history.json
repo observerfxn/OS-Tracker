@@ -1,36 +1,6 @@
 [
   {
     "at": "2026-10-17T10:36:10.683781+00:00",
-    "slug": "kageuri-official",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T10:36:10.683781+00:00",
-    "slug": "hopium-machines",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T10:36:10.683781+00:00",
-    "slug": "yoodles-reborn",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T10:36:10.683781+00:00",
-    "slug": "sloppies-424576658",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T10:36:10.683781+00:00",
-    "slug": "rekt-tradooor",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T10:36:10.683781+00:00",
     "slug": "sight-genesis-826300567",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32220,5 +32190,40 @@
     "type": "minted",
     "from": 1217,
     "value": 1219
+  },
+  {
+    "at": "2026-11-05T01:26:55.241866+00:00",
+    "slug": "ancient-of-day",
+    "type": "minted",
+    "from": 1185,
+    "value": 1198
+  },
+  {
+    "at": "2026-11-05T01:26:55.241866+00:00",
+    "slug": "terminator-110134329",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.0007
+  },
+  {
+    "at": "2026-11-05T01:26:55.241866+00:00",
+    "slug": "shape-513992824",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.0032
+  },
+  {
+    "at": "2026-11-05T01:26:55.241866+00:00",
+    "slug": "pophead-874689281",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.004
+  },
+  {
+    "at": "2026-11-05T01:26:55.241866+00:00",
+    "slug": "claw-machine-01",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.005
   }
 ]
