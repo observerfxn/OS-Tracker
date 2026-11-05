@@ -1,18 +1,6 @@
 [
   {
     "at": "2026-10-17T10:36:10.683781+00:00",
-    "slug": "sight-genesis-826300567",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T10:36:10.683781+00:00",
-    "slug": "0xquit-operation-26448",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T10:36:10.683781+00:00",
     "slug": "macarune",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32225,5 +32213,19 @@
     "type": "price",
     "from": 0.0,
     "value": 0.005
+  },
+  {
+    "at": "2026-11-05T08:29:58.207646+00:00",
+    "slug": "kernel-punks",
+    "type": "price",
+    "from": 4.111e-06,
+    "value": 8.3e-06
+  },
+  {
+    "at": "2026-11-05T08:29:58.207646+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 3132,
+    "value": 3133
   }
 ]
