@@ -1,51 +1,5 @@
 [
   {
-    "at": "2026-10-17T10:36:10.683781+00:00",
-    "slug": "macarune",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T10:36:10.683781+00:00",
-    "slug": "midnight-miners",
-    "type": "discovered",
-    "value": "ENDED"
-  },
-  {
-    "at": "2026-10-17T11:02:33.835398+00:00",
-    "slug": "0x84c44ccde55e3d34abff914eb5570af24643badb",
-    "type": "price",
-    "from": 0.0,
-    "value": 0.0015
-  },
-  {
-    "at": "2026-10-17T11:02:33.835398+00:00",
-    "slug": "roadster-582769474",
-    "type": "minted",
-    "from": 2848,
-    "value": 2884
-  },
-  {
-    "at": "2026-10-17T11:02:33.835398+00:00",
-    "slug": "olzy-artifacts",
-    "type": "minted",
-    "from": 282,
-    "value": 286
-  },
-  {
-    "at": "2026-10-17T11:02:33.835398+00:00",
-    "slug": "dragon-balls-962578383",
-    "type": "minted",
-    "from": 189,
-    "value": 192
-  },
-  {
-    "at": "2026-10-17T11:02:33.835398+00:00",
-    "slug": "p-i-r-a-t-e-s",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
     "at": "2026-10-17T11:02:33.835398+00:00",
     "slug": "lofi-mancers-510352283",
     "type": "minted",
@@ -32227,5 +32181,54 @@
     "type": "minted",
     "from": 3132,
     "value": 3133
+  },
+  {
+    "at": "2026-11-05T16:50:34.208762+00:00",
+    "slug": "oozaruz-nft",
+    "type": "price",
+    "from": 0.0006,
+    "value": 0.0005
+  },
+  {
+    "at": "2026-11-05T16:50:34.208762+00:00",
+    "slug": "old-luv",
+    "type": "minted",
+    "from": 1160,
+    "value": 1165
+  },
+  {
+    "at": "2026-11-05T16:50:34.208762+00:00",
+    "slug": "old-luv",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.0033
+  },
+  {
+    "at": "2026-11-05T16:50:34.208762+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 3133,
+    "value": 3136
+  },
+  {
+    "at": "2026-11-05T16:50:34.208762+00:00",
+    "slug": "waifuchillio",
+    "type": "price",
+    "from": 0.0002,
+    "value": 0.001
+  },
+  {
+    "at": "2026-11-05T16:50:34.208762+00:00",
+    "slug": "chinese-hood",
+    "type": "minted",
+    "from": 1058,
+    "value": 1061
+  },
+  {
+    "at": "2026-11-05T16:50:34.208762+00:00",
+    "slug": "swol-mferh",
+    "type": "minted",
+    "from": 1219,
+    "value": 1220
   }
 ]
