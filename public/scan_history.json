@@ -1,49 +1,5 @@
 [
   {
-    "at": "2026-10-17T11:02:33.835398+00:00",
-    "slug": "drip-dragons-151542630",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T11:02:33.835398+00:00",
-    "slug": "exit-founders",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T11:02:33.835398+00:00",
-    "slug": "rektobear",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T11:02:33.835398+00:00",
-    "slug": "wif-outlaws",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T12:42:05.356670+00:00",
-    "slug": "hey-robin",
-    "type": "minted",
-    "from": 636,
-    "value": 665
-  },
-  {
-    "at": "2026-10-17T12:42:05.356670+00:00",
-    "slug": "testcollectionsz",
-    "type": "minted",
-    "from": 6052,
-    "value": 6061
-  },
-  {
-    "at": "2026-10-17T12:42:05.356670+00:00",
-    "slug": "overload-beta-gas-turbine",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
     "at": "2026-10-17T12:42:05.356670+00:00",
     "slug": "wildhood-845185529",
     "type": "discovered",
@@ -32234,5 +32190,54 @@
     "type": "minted",
     "from": 841,
     "value": 842
+  },
+  {
+    "at": "2026-11-06T10:48:16.734222+00:00",
+    "slug": "ffoocc-01",
+    "type": "minted",
+    "from": 760,
+    "value": 762
+  },
+  {
+    "at": "2026-11-06T10:48:16.734222+00:00",
+    "slug": "beautiful-presido",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.003
+  },
+  {
+    "at": "2026-11-06T10:48:16.734222+00:00",
+    "slug": "weed-kingdom",
+    "type": "minted",
+    "from": 960,
+    "value": 961
+  },
+  {
+    "at": "2026-11-06T10:48:16.734222+00:00",
+    "slug": "bike-travelers",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.004
+  },
+  {
+    "at": "2026-11-06T10:48:16.734222+00:00",
+    "slug": "beautiful-coin",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.0042
+  },
+  {
+    "at": "2026-11-06T10:48:16.734222+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 3136,
+    "value": 3137
+  },
+  {
+    "at": "2026-11-06T10:48:16.734222+00:00",
+    "slug": "waifuchillio",
+    "type": "price",
+    "from": 0.001,
+    "value": 0.00015
   }
 ]
