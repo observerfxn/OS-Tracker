@@ -1,25 +1,6 @@
 [
   {
     "at": "2026-10-17T12:42:05.356670+00:00",
-    "slug": "stonkerz",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T12:42:05.356670+00:00",
-    "slug": "feather-hood",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T12:42:05.356670+00:00",
-    "slug": "ccff00-circle",
-    "type": "minted",
-    "from": 2589,
-    "value": 2595
-  },
-  {
-    "at": "2026-10-17T12:42:05.356670+00:00",
     "slug": "bike-tyson-hood",
     "type": "discovered",
     "value": "LIVE"
@@ -32243,5 +32224,26 @@
     "type": "minted",
     "from": 3137,
     "value": 3138
+  },
+  {
+    "at": "2026-11-07T02:46:08.959541+00:00",
+    "slug": "ffoocc-01",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.005
+  },
+  {
+    "at": "2026-11-07T02:46:08.959541+00:00",
+    "slug": "the-ukiyo",
+    "type": "supply",
+    "from": 10000,
+    "value": 3333
+  },
+  {
+    "at": "2026-11-07T02:46:08.959541+00:00",
+    "slug": "the-ukiyo",
+    "type": "price",
+    "from": 0.05,
+    "value": 0.0088
   }
 ]
