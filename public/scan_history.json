@@ -1,19 +1,6 @@
 [
   {
     "at": "2026-10-17T12:42:05.356670+00:00",
-    "slug": "roadster-582769474",
-    "type": "minted",
-    "from": 2884,
-    "value": 2894
-  },
-  {
-    "at": "2026-10-17T12:42:05.356670+00:00",
-    "slug": "claypes-rh",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T12:42:05.356670+00:00",
     "slug": "misto7616",
     "type": "discovered",
     "value": "LIVE"
@@ -32246,5 +32233,19 @@
     "type": "minted",
     "from": 3138,
     "value": 3140
+  },
+  {
+    "at": "2026-11-08T09:28:14.800910+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 3140,
+    "value": 3141
+  },
+  {
+    "at": "2026-11-08T09:28:14.800910+00:00",
+    "slug": "waifuchillio",
+    "type": "price",
+    "from": 0.00015,
+    "value": 0.001
   }
 ]
