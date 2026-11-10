@@ -1,18 +1,6 @@
 [
   {
     "at": "2026-10-17T12:42:05.356670+00:00",
-    "slug": "chain-punks-collectibless",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-17T12:42:05.356670+00:00",
-    "slug": "kyc-nft-773368231",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-17T12:42:05.356670+00:00",
     "slug": "0opstrade",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32255,5 +32243,19 @@
     "type": "minted",
     "from": 3166,
     "value": 3167
+  },
+  {
+    "at": "2026-11-10T21:47:10.538579+00:00",
+    "slug": "harmless-queen",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.003
+  },
+  {
+    "at": "2026-11-10T21:47:10.538579+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 3167,
+    "value": 3174
   }
 ]
