@@ -1,36 +1,6 @@
 [
   {
     "at": "2026-10-17T12:42:05.356670+00:00",
-    "slug": "vampsonchain",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T12:42:05.356670+00:00",
-    "slug": "dreamersxyz",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T12:42:05.356670+00:00",
-    "slug": "internetmonkes",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T12:42:05.356670+00:00",
-    "slug": "seeker-net",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T12:42:05.356670+00:00",
-    "slug": "piggy-banks-nfts",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T12:42:05.356670+00:00",
     "slug": "jeanphil-nft",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32261,5 +32231,40 @@
     "type": "minted",
     "from": 3175,
     "value": 3180
+  },
+  {
+    "at": "2026-11-11T17:27:26.539301+00:00",
+    "slug": "black-squarerh",
+    "type": "minted",
+    "from": 854,
+    "value": 934
+  },
+  {
+    "at": "2026-11-11T17:27:26.539301+00:00",
+    "slug": "sakura-996741917",
+    "type": "minted",
+    "from": 3057,
+    "value": 3288
+  },
+  {
+    "at": "2026-11-11T17:27:26.539301+00:00",
+    "slug": "cave-of-fates-173762897",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.0025
+  },
+  {
+    "at": "2026-11-11T17:27:26.539301+00:00",
+    "slug": "chinese-hood-nft",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.0075
+  },
+  {
+    "at": "2026-11-11T17:27:26.539301+00:00",
+    "slug": "portable-slop",
+    "type": "price",
+    "from": 0.0,
+    "value": 7e-05
   }
 ]
