@@ -1,18 +1,6 @@
 [
   {
     "at": "2026-10-17T12:42:05.356670+00:00",
-    "slug": "jeanphil-nft",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T12:42:05.356670+00:00",
-    "slug": "the-crayons",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T12:42:05.356670+00:00",
     "slug": "macarune",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32266,5 +32254,19 @@
     "type": "price",
     "from": 0.0,
     "value": 7e-05
+  },
+  {
+    "at": "2026-11-11T23:42:28.783008+00:00",
+    "slug": "rht2",
+    "type": "minted",
+    "from": 34274,
+    "value": 34275
+  },
+  {
+    "at": "2026-11-11T23:42:28.783008+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 3180,
+    "value": 3181
   }
 ]
