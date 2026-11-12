@@ -1,27 +1,6 @@
 [
   {
     "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "ccff00-circle",
-    "type": "minted",
-    "from": 2595,
-    "value": 2596
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "roadster-582769474",
-    "type": "minted",
-    "from": 2894,
-    "value": 2895
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "kyc-nft-773368231",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
     "slug": "kyc-nft-773368231",
     "type": "minted",
     "from": 0,
@@ -32270,5 +32249,26 @@
     "type": "minted",
     "from": 3181,
     "value": 3183
+  },
+  {
+    "at": "2026-11-12T20:27:10.128391+00:00",
+    "slug": "rht2",
+    "type": "minted",
+    "from": 34275,
+    "value": 34277
+  },
+  {
+    "at": "2026-11-12T20:27:10.128391+00:00",
+    "slug": "cute-aliens-338959989",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.003
+  },
+  {
+    "at": "2026-11-12T20:27:10.128391+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 3183,
+    "value": 3203
   }
 ]
