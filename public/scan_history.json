@@ -1,19 +1,6 @@
 [
   {
     "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "olzy-artifacts",
-    "type": "price",
-    "from": 0.0,
-    "value": 0.00162
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "reefers-mystery-box",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
     "slug": "dragon-balls-962578383",
     "type": "minted",
     "from": 195,
@@ -32270,5 +32257,19 @@
     "type": "minted",
     "from": 1231,
     "value": 1232
+  },
+  {
+    "at": "2026-11-13T16:44:24.890540+00:00",
+    "slug": "rht2",
+    "type": "minted",
+    "from": 34278,
+    "value": 34284
+  },
+  {
+    "at": "2026-11-13T16:44:24.890540+00:00",
+    "slug": "swol-mferh",
+    "type": "minted",
+    "from": 1232,
+    "value": 1240
   }
 ]
