@@ -1,27 +1,6 @@
 [
   {
     "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "kyc-nft-773368231",
-    "type": "minted",
-    "from": 0,
-    "value": 14
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "kyc-nft-773368231",
-    "type": "price",
-    "from": null,
-    "value": 0.0001
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "chain-punks-collectibless",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
     "slug": "chain-punks-collectibless",
     "type": "minted",
     "from": 0,
@@ -32270,5 +32249,26 @@
     "type": "minted",
     "from": 3183,
     "value": 3203
+  },
+  {
+    "at": "2026-11-13T01:28:19.565231+00:00",
+    "slug": "rht2",
+    "type": "minted",
+    "from": 34277,
+    "value": 34278
+  },
+  {
+    "at": "2026-11-13T01:28:19.565231+00:00",
+    "slug": "unseen-vampires",
+    "type": "price",
+    "from": 0.0,
+    "value": 0.0021
+  },
+  {
+    "at": "2026-11-13T01:28:19.565231+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 3203,
+    "value": 3204
   }
 ]
