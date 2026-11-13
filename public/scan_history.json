@@ -1,20 +1,6 @@
 [
   {
     "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "chain-punks-collectibless",
-    "type": "minted",
-    "from": 0,
-    "value": 30
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "chain-punks-collectibless",
-    "type": "price",
-    "from": null,
-    "value": 0.00037
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
     "slug": "olzy-artifacts",
     "type": "price",
     "from": 0.0,
@@ -32270,5 +32256,19 @@
     "type": "minted",
     "from": 3203,
     "value": 3204
+  },
+  {
+    "at": "2026-11-13T08:45:27.156898+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 3204,
+    "value": 3207
+  },
+  {
+    "at": "2026-11-13T08:45:27.156898+00:00",
+    "slug": "swol-mferh",
+    "type": "minted",
+    "from": 1231,
+    "value": 1232
   }
 ]
