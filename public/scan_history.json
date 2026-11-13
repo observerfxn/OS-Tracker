@@ -1,13 +1,6 @@
 [
   {
     "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "dragon-balls-962578383",
-    "type": "minted",
-    "from": 195,
-    "value": 201
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
     "slug": "night-frogs-546940885",
     "type": "discovered",
     "value": "LIVE"
@@ -32271,5 +32264,12 @@
     "type": "minted",
     "from": 1232,
     "value": 1240
+  },
+  {
+    "at": "2026-11-13T22:11:49.761425+00:00",
+    "slug": "swol-mferh",
+    "type": "minted",
+    "from": 1240,
+    "value": 1242
   }
 ]
