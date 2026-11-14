@@ -1,30 +1,6 @@
 [
   {
     "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "monitrons",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "dkull-bros-nft",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "ccff00-circle-streethood-official",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "night-frogs-nft",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
     "slug": "0x6dac40615ce97ec3df0f74b642e20116c0113fb6",
     "type": "discovered",
     "value": "UPCOMING"
@@ -32275,5 +32251,33 @@
     "type": "price",
     "from": 0.0,
     "value": null
+  },
+  {
+    "at": "2026-11-14T09:24:20.771834+00:00",
+    "slug": "rht2",
+    "type": "status",
+    "from": "UPCOMING",
+    "value": "LIVE"
+  },
+  {
+    "at": "2026-11-14T09:24:20.771834+00:00",
+    "slug": "rht2",
+    "type": "minted",
+    "from": 35884,
+    "value": 36284
+  },
+  {
+    "at": "2026-11-14T09:24:20.771834+00:00",
+    "slug": "rht2",
+    "type": "price",
+    "from": null,
+    "value": 0.0
+  },
+  {
+    "at": "2026-11-14T09:24:20.771834+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 3208,
+    "value": 3223
   }
 ]
