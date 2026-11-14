@@ -1,30 +1,6 @@
 [
   {
     "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "night-frogs-546940885",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "dogs-kennel-club",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "hood-lords-nft-705018372",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "zumi-shoes-467644643",
-    "type": "discovered",
-    "value": "UPCOMING"
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
     "slug": "monitrons",
     "type": "discovered",
     "value": "UPCOMING"
@@ -32271,5 +32247,33 @@
     "type": "minted",
     "from": 1240,
     "value": 1242
+  },
+  {
+    "at": "2026-11-14T02:23:52.482808+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 3207,
+    "value": 3208
+  },
+  {
+    "at": "2026-11-14T02:23:52.482808+00:00",
+    "slug": "rht2",
+    "type": "status",
+    "from": "LIVE",
+    "value": "UPCOMING"
+  },
+  {
+    "at": "2026-11-14T02:23:52.482808+00:00",
+    "slug": "rht2",
+    "type": "minted",
+    "from": 34284,
+    "value": 35884
+  },
+  {
+    "at": "2026-11-14T02:23:52.482808+00:00",
+    "slug": "rht2",
+    "type": "price",
+    "from": 0.0,
+    "value": null
   }
 ]
