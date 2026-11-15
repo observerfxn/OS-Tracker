@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "ntrpygenesis",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
     "slug": "bloomshire-founding-farmers",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32281,5 +32275,12 @@
     "type": "minted",
     "from": 36687,
     "value": 38287
+  },
+  {
+    "at": "2026-11-15T19:56:32.939740+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 3223,
+    "value": 3225
   }
 ]
