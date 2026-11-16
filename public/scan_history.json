@@ -1,18 +1,6 @@
 [
   {
     "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "claystonkz",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "urchin-frens",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
     "slug": "pixelpunks-865451217",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32283,5 +32271,19 @@
     "type": "minted",
     "from": 3225,
     "value": 3235
+  },
+  {
+    "at": "2026-11-16T16:25:20.716746+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 3235,
+    "value": 3241
+  },
+  {
+    "at": "2026-11-16T16:25:20.716746+00:00",
+    "slug": "swol-mferh",
+    "type": "minted",
+    "from": 1242,
+    "value": 1243
   }
 ]
