@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "bloomshire-founding-farmers",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
     "slug": "claystonkz",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32282,5 +32276,12 @@
     "type": "minted",
     "from": 3223,
     "value": 3225
+  },
+  {
+    "at": "2026-11-16T06:21:19.632452+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 3225,
+    "value": 3235
   }
 ]
