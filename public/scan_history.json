@@ -1,18 +1,6 @@
 [
   {
     "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "pixelpunks-865451217",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "oughs",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
     "slug": "jigglettes",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32285,5 +32273,19 @@
     "type": "minted",
     "from": 1242,
     "value": 1243
+  },
+  {
+    "at": "2026-11-17T00:28:50.137904+00:00",
+    "slug": "rht2",
+    "type": "minted",
+    "from": 38287,
+    "value": 38707
+  },
+  {
+    "at": "2026-11-17T00:28:50.137904+00:00",
+    "slug": "swol-mferh",
+    "type": "minted",
+    "from": 1243,
+    "value": 1244
   }
 ]
