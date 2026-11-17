@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "rare-friends-genesis",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
     "slug": "mooniezworld",
     "type": "discovered",
     "value": "ENDED"
@@ -32288,5 +32282,12 @@
     "type": "minted",
     "from": 1244,
     "value": 1245
+  },
+  {
+    "at": "2026-11-17T17:52:44.485328+00:00",
+    "slug": "chinese-hood",
+    "type": "minted",
+    "from": 1062,
+    "value": 1081
   }
 ]
