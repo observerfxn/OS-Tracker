@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T13:12:11.404106+00:00",
-    "slug": "jigglettes",
-    "type": "discovered",
-    "value": "SOLD_OUT"
-  },
-  {
-    "at": "2026-10-17T13:12:11.404106+00:00",
     "slug": "rare-friends-genesis",
     "type": "discovered",
     "value": "SOLD_OUT"
@@ -32287,5 +32281,12 @@
     "type": "minted",
     "from": 1243,
     "value": 1244
+  },
+  {
+    "at": "2026-11-17T08:28:44.133869+00:00",
+    "slug": "swol-mferh",
+    "type": "minted",
+    "from": 1244,
+    "value": 1245
   }
 ]
