@@ -2,13 +2,6 @@
   {
     "at": "2026-10-17T13:36:10.066646+00:00",
     "slug": "ccff00-circle-streethood-official",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T13:36:10.066646+00:00",
-    "slug": "ccff00-circle-streethood-official",
     "type": "minted",
     "from": 0,
     "value": 605
@@ -32290,5 +32283,12 @@
     "type": "minted",
     "from": 1081,
     "value": 1083
+  },
+  {
+    "at": "2026-11-18T23:35:02.948163+00:00",
+    "slug": "rht2",
+    "type": "minted",
+    "from": 39207,
+    "value": 39217
   }
 ]
