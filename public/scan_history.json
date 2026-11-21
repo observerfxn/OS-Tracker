@@ -1,13 +1,6 @@
 [
   {
     "at": "2026-10-17T13:36:10.066646+00:00",
-    "slug": "0x6dac40615ce97ec3df0f74b642e20116c0113fb6",
-    "type": "price",
-    "from": null,
-    "value": 0.0005
-  },
-  {
-    "at": "2026-10-17T13:36:10.066646+00:00",
     "slug": "zumi-shoes-467644643",
     "type": "status",
     "from": "UPCOMING",
@@ -32290,5 +32283,12 @@
     "type": "minted",
     "from": 39324,
     "value": 39384
+  },
+  {
+    "at": "2026-11-21T08:15:23.777424+00:00",
+    "slug": "rht2",
+    "type": "minted",
+    "from": 39384,
+    "value": 39439
   }
 ]
