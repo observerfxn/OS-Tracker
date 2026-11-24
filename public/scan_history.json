@@ -1,20 +1,6 @@
 [
   {
     "at": "2026-10-17T13:36:10.066646+00:00",
-    "slug": "misto7616",
-    "type": "minted",
-    "from": 2143,
-    "value": 2148
-  },
-  {
-    "at": "2026-10-17T13:36:10.066646+00:00",
-    "slug": "misto7616",
-    "type": "price",
-    "from": 4e-05,
-    "value": 0.0
-  },
-  {
-    "at": "2026-10-17T13:36:10.066646+00:00",
     "slug": "bluefrens-nft",
     "type": "discovered",
     "value": "LIVE"
@@ -32290,5 +32276,19 @@
     "type": "minted",
     "from": 1083,
     "value": 1084
+  },
+  {
+    "at": "2026-11-24T00:21:32.043759+00:00",
+    "slug": "rht2",
+    "type": "minted",
+    "from": 39446,
+    "value": 39447
+  },
+  {
+    "at": "2026-11-24T00:21:32.043759+00:00",
+    "slug": "swol-mferh",
+    "type": "minted",
+    "from": 1245,
+    "value": 1248
   }
 ]
