@@ -1,12 +1,6 @@
 [
   {
     "at": "2026-10-17T13:36:10.066646+00:00",
-    "slug": "bluefrens-nft",
-    "type": "discovered",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T13:36:10.066646+00:00",
     "slug": "dkull-bros-nft",
     "type": "status",
     "from": "UPCOMING",
@@ -32290,5 +32284,12 @@
     "type": "minted",
     "from": 1245,
     "value": 1248
+  },
+  {
+    "at": "2026-11-25T04:08:47.902864+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 3261,
+    "value": 3262
   }
 ]
