@@ -2,13 +2,6 @@
   {
     "at": "2026-10-17T13:36:10.066646+00:00",
     "slug": "dkull-bros-nft",
-    "type": "supply",
-    "from": 10000,
-    "value": 3333
-  },
-  {
-    "at": "2026-10-17T13:36:10.066646+00:00",
-    "slug": "dkull-bros-nft",
     "type": "price",
     "from": null,
     "value": 0.088
@@ -32291,5 +32284,12 @@
     "type": "minted",
     "from": 3270,
     "value": 3275
+  },
+  {
+    "at": "2026-11-27T08:21:15.893467+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 3275,
+    "value": 3282
   }
 ]
