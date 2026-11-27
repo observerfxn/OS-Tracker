@@ -1,13 +1,6 @@
 [
   {
     "at": "2026-10-17T13:36:10.066646+00:00",
-    "slug": "dkull-bros-nft",
-    "type": "price",
-    "from": null,
-    "value": 0.088
-  },
-  {
-    "at": "2026-10-17T13:36:10.066646+00:00",
     "slug": "night-frogs-nft",
     "type": "status",
     "from": "UPCOMING",
@@ -32291,5 +32284,12 @@
     "type": "minted",
     "from": 3275,
     "value": 3282
+  },
+  {
+    "at": "2026-11-27T18:26:59.637592+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 3282,
+    "value": 3283
   }
 ]
