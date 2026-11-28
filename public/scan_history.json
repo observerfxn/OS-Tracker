@@ -2,13 +2,6 @@
   {
     "at": "2026-10-17T13:36:10.066646+00:00",
     "slug": "night-frogs-nft",
-    "type": "status",
-    "from": "UPCOMING",
-    "value": "LIVE"
-  },
-  {
-    "at": "2026-10-17T13:36:10.066646+00:00",
-    "slug": "night-frogs-nft",
     "type": "minted",
     "from": 0,
     "value": 293
@@ -32291,5 +32284,12 @@
     "type": "minted",
     "from": 3282,
     "value": 3283
+  },
+  {
+    "at": "2026-11-28T09:26:56.512434+00:00",
+    "slug": "ccff00-circle",
+    "type": "minted",
+    "from": 3283,
+    "value": 3293
   }
 ]
